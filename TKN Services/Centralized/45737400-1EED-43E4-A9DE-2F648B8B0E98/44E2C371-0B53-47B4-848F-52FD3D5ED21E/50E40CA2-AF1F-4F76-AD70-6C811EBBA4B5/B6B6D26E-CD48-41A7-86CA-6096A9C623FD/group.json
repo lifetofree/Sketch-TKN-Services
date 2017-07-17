@@ -26,6 +26,27 @@
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
+  "userInfo": {
+    "com.invision.prototype": {
+      "closeOnClickOutside": 1,
+      "stayOnTargetScreen": 0,
+      "fixOverlayPosition": 1,
+      "openURLInNewWindow": 0,
+      "reverseTransitionOnClose": 1,
+      "gesture": 0,
+      "overlayPosition": 0,
+      "scrollToPosition": 363,
+      "maintainScrollPositionAfterGesture": 0,
+      "smoothScrolling": 0,
+      "overlayTransition": 0,
+      "redirectAfter": 0,
+      "componentType": "SRLink",
+      "backgroundOpacity": 0,
+      "linkType": 2,
+      "transition": 0,
+      "maintainScrollPositionAfterRedirect": 0
+    }
+  },
   "style": {
     "_class": "style",
     "endDecorationType": 0,

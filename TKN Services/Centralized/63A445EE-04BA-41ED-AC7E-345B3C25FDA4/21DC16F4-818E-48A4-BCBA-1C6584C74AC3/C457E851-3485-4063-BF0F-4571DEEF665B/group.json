@@ -11,7 +11,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 44.99999999999999,
+    "height": 45,
     "width": 375,
     "x": 1,
     "y": 0
@@ -20,7 +20,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "name": "Navigation Bar/Segmented - Third",
   "nameIsFixed": false,
   "resizingType": 0,
