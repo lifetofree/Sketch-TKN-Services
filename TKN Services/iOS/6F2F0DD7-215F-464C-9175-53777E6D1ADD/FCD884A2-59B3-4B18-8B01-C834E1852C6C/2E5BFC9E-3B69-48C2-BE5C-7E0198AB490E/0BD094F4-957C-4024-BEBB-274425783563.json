@@ -281,73 +281,57 @@
                   "UID": 8
                 },
                 {
-                  "UID": 10
+                  "UID": 9
                 },
                 {
-                  "UID": 27
+                  "UID": 26
                 },
                 {
-                  "UID": 31
+                  "UID": 28
                 }
               ],
               "$class": {
-                "UID": 22
+                "UID": 21
               }
             },
-            "NSParagraphStyle",
-            "MSAttributedStringFontAttribute",
-            "NSColor",
             "NSKern",
-            {
-              "NSTabStops": {
-                "UID": 0
-              },
-              "$class": {
-                "UID": 9
-              },
-              "NSAlignment": 2
-            },
-            {
-              "$classname": "NSMutableParagraphStyle",
-              "$classes": [
-                "NSMutableParagraphStyle",
-                "NSParagraphStyle",
-                "NSObject"
-              ]
-            },
+            "MSAttributedStringFontAttribute",
+            "NSParagraphStyle",
+            "NSColor",
+            -0.3199999928474426,
             {
               "$class": {
-                "UID": 26
+                "UID": 25
               },
               "NSFontDescriptorAttributes": {
-                "UID": 11
+                "UID": 10
               }
             },
             {
               "NS.keys": [
                 {
+                  "UID": 11
+                },
+                {
                   "UID": 12
                 },
                 {
                   "UID": 13
-                },
-                {
-                  "UID": 14
                 }
               ],
               "NS.objects": [
                 {
+                  "UID": 14
+                },
+                {
                   "UID": 15
                 },
                 {
-                  "UID": 16
-                },
-                {
-                  "UID": 24
+                  "UID": 23
                 }
               ],
               "$class": {
-                "UID": 25
+                "UID": 24
               }
             },
             "NSFontSizeAttribute",
@@ -357,32 +341,32 @@
             {
               "NS.objects": [
                 {
-                  "UID": 17
+                  "UID": 16
                 }
               ],
               "$class": {
-                "UID": 23
+                "UID": 22
               }
             },
             {
               "NS.keys": [
                 {
-                  "UID": 18
+                  "UID": 17
                 },
                 {
-                  "UID": 19
+                  "UID": 18
                 }
               ],
               "NS.objects": [
                 {
-                  "UID": 20
+                  "UID": 19
                 },
                 {
-                  "UID": 21
+                  "UID": 20
                 }
               ],
               "$class": {
-                "UID": 22
+                "UID": 21
               }
             },
             "CTFeatureSelectorIdentifier",
@@ -421,22 +405,39 @@
               ]
             },
             {
+              "NSTabStops": {
+                "UID": 0
+              },
+              "$class": {
+                "UID": 27
+              },
+              "NSAlignment": 2
+            },
+            {
+              "$classname": "NSMutableParagraphStyle",
+              "$classes": [
+                "NSMutableParagraphStyle",
+                "NSParagraphStyle",
+                "NSObject"
+              ]
+            },
+            {
               "NSRGB": {
                 "type": "Buffer",
                 "data": "0.01176470588 0.01176470588 0.01176470588\u0000"
               },
               "NSColorSpace": 1,
               "NSCustomColorSpace": {
-                "UID": 28
+                "UID": 29
               },
               "$class": {
-                "UID": 30
+                "UID": 31
               }
             },
             {
               "NSID": 1,
               "$class": {
-                "UID": 29
+                "UID": 30
               }
             },
             {
@@ -453,7 +454,6 @@
                 "NSObject"
               ]
             },
-            -0.3199999928474426,
             {
               "$classname": "NSAttributedString",
               "$classes": [

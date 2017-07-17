@@ -12,8 +12,8 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 15,
-    "width": 22,
-    "x": 178.5,
+    "width": 23,
+    "x": 178,
     "y": 15.5
   },
   "isFlippedHorizontal": false,
@@ -36,6 +36,7 @@
     "textStyle": {
       "_class": "textStyle",
       "encodedAttributes": {
+        "NSKern": 0,
         "MSAttributedStringFontAttribute": {
           "_archive": [
             {
@@ -74,7 +75,7 @@
                 "NSFontSizeAttribute",
                 "NSFontNameAttribute",
                 12,
-                "SFUIText-Regular",
+                ".SFNSText-Semibold",
                 {
                   "$classname": "NSMutableDictionary",
                   "$classes": [
@@ -87,56 +88,6 @@
                   "$classname": "NSFontDescriptor",
                   "$classes": [
                     "NSFontDescriptor",
-                    "NSObject"
-                  ]
-                }
-              ],
-              "$archiver": "NSKeyedArchiver",
-              "$top": {
-                "root": {
-                  "UID": 1
-                }
-              }
-            }
-          ]
-        },
-        "NSKern": 0,
-        "NSColor": {
-          "_archive": [
-            {
-              "$version": 100000,
-              "$objects": [
-                "$null",
-                {
-                  "NSRGB": {
-                    "type": "Buffer",
-                    "data": "0.01176470588 0.01176470588 0.01176470588\u0000"
-                  },
-                  "NSColorSpace": 1,
-                  "NSCustomColorSpace": {
-                    "UID": 2
-                  },
-                  "$class": {
-                    "UID": 4
-                  }
-                },
-                {
-                  "NSID": 1,
-                  "$class": {
-                    "UID": 3
-                  }
-                },
-                {
-                  "$classname": "NSColorSpace",
-                  "$classes": [
-                    "NSColorSpace",
-                    "NSObject"
-                  ]
-                },
-                {
-                  "$classname": "NSColor",
-                  "$classes": [
-                    "NSColor",
                     "NSObject"
                   ]
                 }
@@ -198,6 +149,55 @@
               }
             }
           ]
+        },
+        "NSColor": {
+          "_archive": [
+            {
+              "$version": 100000,
+              "$objects": [
+                "$null",
+                {
+                  "NSRGB": {
+                    "type": "Buffer",
+                    "data": "0.01176470588 0.01176470588 0.01176470588\u0000"
+                  },
+                  "NSColorSpace": 1,
+                  "NSCustomColorSpace": {
+                    "UID": 2
+                  },
+                  "$class": {
+                    "UID": 4
+                  }
+                },
+                {
+                  "NSID": 1,
+                  "$class": {
+                    "UID": 3
+                  }
+                },
+                {
+                  "$classname": "NSColorSpace",
+                  "$classes": [
+                    "NSColorSpace",
+                    "NSObject"
+                  ]
+                },
+                {
+                  "$classname": "NSColor",
+                  "$classes": [
+                    "NSColor",
+                    "NSObject"
+                  ]
+                }
+              ],
+              "$archiver": "NSKeyedArchiver",
+              "$top": {
+                "root": {
+                  "UID": 1
+                }
+              }
+            }
+          ]
         }
       }
     }
@@ -242,88 +242,39 @@
                   "UID": 8
                 },
                 {
-                  "UID": 9
+                  "UID": 12
                 },
                 {
-                  "UID": 17
+                  "UID": 20
                 },
                 {
-                  "UID": 21
+                  "UID": 24
                 }
               ],
               "$class": {
                 "UID": 25
               }
             },
-            "NSKern",
-            "MSAttributedStringFontAttribute",
             "NSParagraphStyle",
+            "MSAttributedStringFontAttribute",
             "NSColor",
-            0,
-            {
-              "$class": {
-                "UID": 16
-              },
-              "NSFontDescriptorAttributes": {
-                "UID": 10
-              }
-            },
-            {
-              "NS.keys": [
-                {
-                  "UID": 11
-                },
-                {
-                  "UID": 12
-                }
-              ],
-              "NS.objects": [
-                {
-                  "UID": 13
-                },
-                {
-                  "UID": 14
-                }
-              ],
-              "$class": {
-                "UID": 15
-              }
-            },
-            "NSCTFontUIUsageAttribute",
-            "NSFontSizeAttribute",
-            "CTFontRegularUsage",
-            12,
-            {
-              "$classname": "NSMutableDictionary",
-              "$classes": [
-                "NSMutableDictionary",
-                "NSDictionary",
-                "NSObject"
-              ]
-            },
-            {
-              "$classname": "NSFontDescriptor",
-              "$classes": [
-                "NSFontDescriptor",
-                "NSObject"
-              ]
-            },
+            "NSKern",
             {
               "NSTabStops": {
                 "UID": 0
               },
               "NSAlignment": 2,
               "$class": {
-                "UID": 20
+                "UID": 11
               },
               "NSTextLists": {
-                "UID": 18
+                "UID": 9
               }
             },
             {
               "NS.objects": [],
               "$class": {
-                "UID": 19
+                "UID": 10
               }
             },
             {
@@ -342,22 +293,70 @@
               ]
             },
             {
+              "$class": {
+                "UID": 19
+              },
+              "NSFontDescriptorAttributes": {
+                "UID": 13
+              }
+            },
+            {
+              "NS.keys": [
+                {
+                  "UID": 14
+                },
+                {
+                  "UID": 15
+                }
+              ],
+              "NS.objects": [
+                {
+                  "UID": 16
+                },
+                {
+                  "UID": 17
+                }
+              ],
+              "$class": {
+                "UID": 18
+              }
+            },
+            "NSFontSizeAttribute",
+            "NSFontNameAttribute",
+            12,
+            ".SFNSText-Semibold",
+            {
+              "$classname": "NSMutableDictionary",
+              "$classes": [
+                "NSMutableDictionary",
+                "NSDictionary",
+                "NSObject"
+              ]
+            },
+            {
+              "$classname": "NSFontDescriptor",
+              "$classes": [
+                "NSFontDescriptor",
+                "NSObject"
+              ]
+            },
+            {
               "NSRGB": {
                 "type": "Buffer",
                 "data": "0.01176470588 0.01176470588 0.01176470588\u0000"
               },
               "NSColorSpace": 1,
               "NSCustomColorSpace": {
-                "UID": 22
+                "UID": 21
               },
               "$class": {
-                "UID": 24
+                "UID": 23
               }
             },
             {
               "NSID": 1,
               "$class": {
-                "UID": 23
+                "UID": 22
               }
             },
             {
@@ -374,6 +373,7 @@
                 "NSObject"
               ]
             },
+            0,
             {
               "$classname": "NSDictionary",
               "$classes": [
@@ -401,7 +401,7 @@
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "dontSynchroniseWithSymbol": false,
-  "glyphBounds": "{{0, 0}, {21, 13}}",
+  "glyphBounds": "{{0, 0}, {22, 13}}",
   "heightIsClipped": false,
   "lineSpacingBehaviour": 0,
   "textBehaviour": 0
