@@ -1,0 +1,73 @@
+{
+  "_class": "shapeGroup",
+  "do_objectID": "F0BBE52D-FC0B-4D4B-B5BD-537BAFEFC38F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [],
+    "includedLayerIds": [],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 22,
+    "width": 22,
+    "x": 0,
+    "y": 0
+  },
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Contact Add",
+  "nameIsFixed": true,
+  "originalObjectID": "178C4C41-8979-4D5D-A5EA-BCBBAA76A28D",
+  "resizingType": 3,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "isEnabled": true,
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 0.4627450980392158,
+          "red": 0
+        },
+        "fillType": 0,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "sharedObjectID": "8A5A372B-F98B-44ED-BDFE-08A448CEAB0B",
+    "startDecorationType": 0
+  },
+  "hasClickThrough": false,
+  "layers": [
+    {
+      "id": "4706D2D2-85F0-4C09-BF4A-3C4416E5A2A8",
+      "class": "oval"
+    },
+    {
+      "id": "F3DC8106-3223-41FB-9EBF-DB08A3C19E77",
+      "class": "oval"
+    },
+    {
+      "id": "404A67B8-8579-4924-B71A-0F9BB53ABA8E",
+      "class": "shapePath"
+    }
+  ],
+  "clippingMaskMode": 0,
+  "hasClippingMask": false,
+  "windingRule": 1
+}

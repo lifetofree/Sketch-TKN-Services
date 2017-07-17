@@ -1,0 +1,83 @@
+{
+  "_class": "rectangle",
+  "do_objectID": "85C6A61A-FCE7-42AE-8C38-66B6474C44CB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [],
+    "includedLayerIds": [],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 2149,
+    "width": 2495,
+    "x": 0,
+    "y": 0
+  },
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Path",
+  "nameIsFixed": false,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "booleanOperation": -1,
+  "edited": false,
+  "path": {
+    "_class": "path",
+    "isClosed": true,
+    "points": [
+      {
+        "_class": "curvePoint",
+        "do_objectID": "5843CC6B-3363-4A5E-AB13-14C3A68A9535",
+        "cornerRadius": 10,
+        "curveFrom": "{0, 0}",
+        "curveMode": 1,
+        "curveTo": "{0, 0}",
+        "hasCurveFrom": false,
+        "hasCurveTo": false,
+        "point": "{0, 0}"
+      },
+      {
+        "_class": "curvePoint",
+        "do_objectID": "FACC7317-6B91-4971-9AA0-B813737ECBE0",
+        "cornerRadius": 10,
+        "curveFrom": "{1, 0}",
+        "curveMode": 1,
+        "curveTo": "{1, 0}",
+        "hasCurveFrom": false,
+        "hasCurveTo": false,
+        "point": "{1, 0}"
+      },
+      {
+        "_class": "curvePoint",
+        "do_objectID": "4CF86636-203B-4481-B4E5-2B65642ABD08",
+        "cornerRadius": 10,
+        "curveFrom": "{1, 1}",
+        "curveMode": 1,
+        "curveTo": "{1, 1}",
+        "hasCurveFrom": false,
+        "hasCurveTo": false,
+        "point": "{1, 1}"
+      },
+      {
+        "_class": "curvePoint",
+        "do_objectID": "038E97B3-8CA4-4800-BC6C-6828448C7DE3",
+        "cornerRadius": 10,
+        "curveFrom": "{0, 1}",
+        "curveMode": 1,
+        "curveTo": "{0, 1}",
+        "hasCurveFrom": false,
+        "hasCurveTo": false,
+        "point": "{0, 1}"
+      }
+    ]
+  },
+  "fixedRadius": 10,
+  "hasConvertedToNewRoundCorners": true
+}

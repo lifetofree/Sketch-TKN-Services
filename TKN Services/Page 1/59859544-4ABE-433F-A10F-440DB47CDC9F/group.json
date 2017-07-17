@@ -1,0 +1,50 @@
+{
+  "_class": "group",
+  "do_objectID": "59859544-4ABE-433F-A10F-440DB47CDC9F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [],
+    "includedLayerIds": [],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 216,
+    "width": 375,
+    "x": 585,
+    "y": 1742
+  },
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Keyboard/Dictation",
+  "nameIsFixed": false,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "hasClickThrough": false,
+  "layers": [
+    {
+      "id": "11C6AB7F-9567-46D5-9760-11362F82B4B4",
+      "class": "shapeGroup"
+    },
+    {
+      "id": "49A94CDA-1124-4065-BDD3-E3A4324F6C69",
+      "class": "shapeGroup"
+    },
+    {
+      "id": "4F719988-8DBD-46E3-974B-61715B1AF647",
+      "class": "text"
+    }
+  ]
+}

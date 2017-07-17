@@ -1,0 +1,54 @@
+{
+  "_class": "group",
+  "do_objectID": "088134CB-0636-4E74-8DE1-61071728367D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [],
+    "includedLayerIds": [],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 20,
+    "width": 375,
+    "x": 110,
+    "y": 240
+  },
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Status Bar/Black/Low Power",
+  "nameIsFixed": false,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "hasClickThrough": false,
+  "layers": [
+    {
+      "id": "7EF32AF4-51E7-4926-ACC5-F41C59955FC2",
+      "class": "shapeGroup"
+    },
+    {
+      "id": "A3D9D19D-18C0-4DB2-B5CC-DD43713C9211",
+      "class": "group"
+    },
+    {
+      "id": "7AE9D065-B8B0-468E-A4EF-8B9169E0136D",
+      "class": "text"
+    },
+    {
+      "id": "2CDC588E-D724-4E08-A6A1-FCA906F69BCB",
+      "class": "group"
+    }
+  ]
+}

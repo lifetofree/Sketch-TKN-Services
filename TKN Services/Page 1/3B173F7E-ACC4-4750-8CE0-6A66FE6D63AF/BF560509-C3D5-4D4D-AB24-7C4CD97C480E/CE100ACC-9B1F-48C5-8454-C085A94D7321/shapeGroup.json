@@ -1,0 +1,92 @@
+{
+  "_class": "shapeGroup",
+  "do_objectID": "CE100ACC-9B1F-48C5-8454-C085A94D7321",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [],
+    "includedLayerIds": [],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 5.5,
+    "width": 33.5,
+    "x": 0.5,
+    "y": 4.5
+  },
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "name": "Mobile Signal",
+  "nameIsFixed": true,
+  "originalObjectID": "DD6383FB-CF08-4B2B-9725-F6364BBF1725",
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "isEnabled": true,
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "hasClickThrough": false,
+  "layers": [
+    {
+      "id": "18E9839D-3351-4448-9A2D-32C16EB44163",
+      "class": "oval"
+    },
+    {
+      "id": "16780AAF-B870-444B-8D59-22EB0B75A2E1",
+      "class": "oval"
+    },
+    {
+      "id": "09B95F7E-9B00-4AA8-AC19-6747CDC09A49",
+      "class": "oval"
+    },
+    {
+      "id": "81442E30-5C3A-4BA9-8E50-24B92866C4F2",
+      "class": "oval"
+    },
+    {
+      "id": "CF2AA1A7-8E23-4559-BDEA-66D956C2763F",
+      "class": "oval"
+    },
+    {
+      "id": "827F1176-F9DB-430B-9E90-AC92E9B0D1E4",
+      "class": "oval"
+    },
+    {
+      "id": "E81141C7-5E79-40CD-9B82-95E7989E1524",
+      "class": "oval"
+    },
+    {
+      "id": "D2AD4663-667B-4B4E-B6EE-029B5057C935",
+      "class": "oval"
+    }
+  ],
+  "clippingMaskMode": 0,
+  "hasClippingMask": false,
+  "windingRule": 1
+}

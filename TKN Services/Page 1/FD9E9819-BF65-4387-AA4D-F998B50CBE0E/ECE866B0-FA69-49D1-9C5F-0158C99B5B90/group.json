@@ -1,0 +1,55 @@
+{
+  "_class": "group",
+  "do_objectID": "ECE866B0-FA69-49D1-9C5F-0158C99B5B90",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [],
+    "includedLayerIds": [],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 29,
+    "width": 94,
+    "x": 266,
+    "y": 7.5
+  },
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Stepper",
+  "nameIsFixed": true,
+  "originalObjectID": "1F90F8D1-1287-44D9-95B8-C4AEE1A9CB35",
+  "resizingType": 1,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "hasClickThrough": false,
+  "layers": [
+    {
+      "id": "E06C4993-DBA5-48A8-BF9A-8836B4EAA985",
+      "class": "shapeGroup"
+    },
+    {
+      "id": "03317C35-2CEA-4352-A83C-9327B40F9A48",
+      "class": "shapeGroup"
+    },
+    {
+      "id": "AD54650C-92D3-4C82-B6D7-47A114D6F362",
+      "class": "shapeGroup"
+    },
+    {
+      "id": "273167C8-A4A4-4679-8324-2C7CEB53546B",
+      "class": "shapeGroup"
+    }
+  ]
+}

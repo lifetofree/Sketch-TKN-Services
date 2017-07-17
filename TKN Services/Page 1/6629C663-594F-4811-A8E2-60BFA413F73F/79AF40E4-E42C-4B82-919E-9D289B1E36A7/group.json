@@ -1,0 +1,62 @@
+{
+  "_class": "group",
+  "do_objectID": "79AF40E4-E42C-4B82-919E-9D289B1E36A7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [],
+    "includedLayerIds": [],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 130,
+    "width": 375,
+    "x": 0,
+    "y": 346
+  },
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Apps",
+  "nameIsFixed": true,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "hasClickThrough": false,
+  "layers": [
+    {
+      "id": "C1A53E5C-36C6-40BB-AE56-9A7833109A6B",
+      "class": "shapeGroup"
+    },
+    {
+      "id": "98118C27-18B1-41BC-A064-7E2C1CBFBC1F",
+      "class": "shapeGroup"
+    },
+    {
+      "id": "1B228D1E-2D5E-4B91-9EAE-3B15F218EA67",
+      "class": "group"
+    },
+    {
+      "id": "33C00055-285F-4005-BAC4-09C4960AA5F6",
+      "class": "group"
+    },
+    {
+      "id": "11FEB6F8-5438-4390-B830-9DBA8510823D",
+      "class": "group"
+    },
+    {
+      "id": "EDBA1950-E510-420D-B07C-089048FB4EB6",
+      "class": "group"
+    }
+  ]
+}

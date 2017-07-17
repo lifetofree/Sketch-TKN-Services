@@ -1,0 +1,73 @@
+{
+  "_class": "page",
+  "do_objectID": "7A6D8445-B9E5-4ECB-B314-A952A222150F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [],
+    "includedLayerIds": [],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 300,
+    "width": 300,
+    "x": 0,
+    "y": 0
+  },
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Centralized",
+  "nameIsFixed": true,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "userInfo": {
+    "com.invision.prototype": {
+      "lastUsedGestureID": 0
+    }
+  },
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "hasClickThrough": true,
+  "layers": [
+    {
+      "id": "5F238C37-AC34-48B7-85D8-D32A6DCF60D6",
+      "class": "artboard"
+    }
+  ],
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -302,
+    "guides": []
+  },
+  "includeInCloudUpload": true,
+  "layout": {
+    "_class": "layoutGrid",
+    "isEnabled": false,
+    "columnWidth": 60,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 20,
+    "guttersOutside": true,
+    "horizontalOffset": 0,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 960
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -184,
+    "guides": []
+  }
+}

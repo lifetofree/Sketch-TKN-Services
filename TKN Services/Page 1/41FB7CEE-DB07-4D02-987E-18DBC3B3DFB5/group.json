@@ -1,0 +1,46 @@
+{
+  "_class": "group",
+  "do_objectID": "41FB7CEE-DB07-4D02-987E-18DBC3B3DFB5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [],
+    "includedLayerIds": [],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 79,
+    "width": 60,
+    "x": 110,
+    "y": 1108
+  },
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Elements/Safari Webclip Icon",
+  "nameIsFixed": false,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "hasClickThrough": false,
+  "layers": [
+    {
+      "id": "75F365EC-CB79-4C7E-BBD7-ADCF88C5B0AE",
+      "class": "text"
+    },
+    {
+      "id": "9D573F47-49AC-4C23-9338-CBC6E4C4AAD5",
+      "class": "group"
+    }
+  ]
+}

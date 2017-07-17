@@ -1,0 +1,44 @@
+{
+  "_class": "bitmap",
+  "do_objectID": "E10523FE-5D48-4A4D-B6FB-8DD5075BF1E4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [],
+    "includedLayerIds": [],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 59,
+    "width": 59,
+    "x": 113,
+    "y": 358
+  },
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "f8898e79f66ec9545847915a2b306594--icon-design-game-design",
+  "nameIsFixed": false,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "fillReplacesImage": false,
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref_class": "MSImageData",
+    "_ref": "images/73d17f1cba0fe4f992eb4b34286c9522c751c205"
+  },
+  "nineSliceCenterRect": "{{0, 0}, {0, 0}}",
+  "nineSliceScale": "{0, 0}"
+}

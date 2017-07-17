@@ -1,0 +1,46 @@
+{
+  "_class": "group",
+  "do_objectID": "66DB2342-593D-41CA-BF16-EBAD3D3F48D9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [],
+    "includedLayerIds": [],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 40,
+    "width": 375,
+    "x": 110,
+    "y": 739
+  },
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Background Bar/Recording",
+  "nameIsFixed": false,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "hasClickThrough": false,
+  "layers": [
+    {
+      "id": "6E2AD418-0F56-492D-A990-595E9FD1ACC1",
+      "class": "shapeGroup"
+    },
+    {
+      "id": "0ED9BC14-1E12-43BF-8BA2-9AD2AE83697B",
+      "class": "text"
+    }
+  ]
+}

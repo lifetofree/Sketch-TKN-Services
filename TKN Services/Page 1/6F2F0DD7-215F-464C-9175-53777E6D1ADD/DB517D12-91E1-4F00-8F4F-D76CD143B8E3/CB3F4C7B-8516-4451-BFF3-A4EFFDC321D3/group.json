@@ -1,0 +1,46 @@
+{
+  "_class": "group",
+  "do_objectID": "CB3F4C7B-8516-4451-BFF3-A4EFFDC321D3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [],
+    "includedLayerIds": [],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 42,
+    "width": 32,
+    "x": 226,
+    "y": 0
+  },
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "J",
+  "nameIsFixed": true,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "hasClickThrough": false,
+  "layers": [
+    {
+      "id": "8342D6B3-78C9-45B2-8539-B46235971A31",
+      "class": "shapeGroup"
+    },
+    {
+      "id": "F36BA45D-A4D3-43B0-9944-E1FC70D3EC7E",
+      "class": "text"
+    }
+  ]
+}

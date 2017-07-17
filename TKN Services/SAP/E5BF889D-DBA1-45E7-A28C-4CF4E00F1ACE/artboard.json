@@ -1,0 +1,78 @@
+{
+  "_class": "artboard",
+  "do_objectID": "E5BF889D-DBA1-45E7-A28C-4CF4E00F1ACE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [],
+    "includedLayerIds": [],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 667,
+    "width": 375,
+    "x": 781,
+    "y": -198
+  },
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "name": "SAP - Create",
+  "nameIsFixed": true,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "hasClickThrough": false,
+  "layers": [
+    {
+      "id": "FDDE9D3C-E903-42D6-85DD-46541F2EB443",
+      "class": "bitmap"
+    },
+    {
+      "id": "74366AC7-9CCB-43F9-9E50-D0256F846355",
+      "class": "group"
+    },
+    {
+      "id": "9B2A8D1C-CD84-453A-A5F7-1AD5BB160B96",
+      "class": "bitmap"
+    },
+    {
+      "id": "DBA0B179-8A56-4AE4-A91E-1A5FD229CF29",
+      "class": "group"
+    },
+    {
+      "id": "36CDE442-830C-4A9E-97E9-671D084311B8",
+      "class": "group"
+    }
+  ],
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "hasBackgroundColor": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": []
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": []
+  }
+}
