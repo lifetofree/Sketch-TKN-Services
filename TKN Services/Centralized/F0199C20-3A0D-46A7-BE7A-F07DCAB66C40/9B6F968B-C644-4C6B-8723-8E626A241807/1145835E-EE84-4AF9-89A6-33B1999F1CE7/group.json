@@ -1,0 +1,96 @@
+{
+  "_class": "group",
+  "do_objectID": "1145835E-EE84-4AF9-89A6-33B1999F1CE7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [],
+    "includedLayerIds": [],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 134,
+    "width": 375,
+    "x": 0,
+    "y": 45
+  },
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "name": "Cell/Mail",
+  "nameIsFixed": false,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "userInfo": {
+    "com.invision.prototype": {
+      "closeOnClickOutside": 1,
+      "stayOnTargetScreen": 0,
+      "fixOverlayPosition": 1,
+      "openURLInNewWindow": 0,
+      "reverseTransitionOnClose": 1,
+      "gesture": 0,
+      "smoothScrolling": 0,
+      "redirectAfter": 0,
+      "overlayPosition": 0,
+      "scrollToPosition": 0,
+      "overlayTransition": 0,
+      "maintainScrollPositionAfterGesture": 0,
+      "componentType": "SRLink",
+      "backgroundOpacity": 0,
+      "linkType": 0,
+      "transition": 0,
+      "targetArtboardID": "F06E27D0-AD64-428F-833C-1A8AC169BB91",
+      "maintainScrollPositionAfterRedirect": 0
+    }
+  },
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "hasClickThrough": false,
+  "layers": [
+    {
+      "id": "F78EAF0B-10CC-4D5A-A071-5433CE25645D",
+      "class": "shapeGroup"
+    },
+    {
+      "id": "D6484BE8-CEBC-4A19-B328-7F5B3BECB331",
+      "class": "bitmap"
+    },
+    {
+      "id": "5562F368-20C6-4FBB-9F6F-BAB3B7E1EFA9",
+      "class": "shapeGroup"
+    },
+    {
+      "id": "CE5CEDA7-6B9E-49EF-8A5C-D3A64E1D75CC",
+      "class": "text"
+    },
+    {
+      "id": "68FCEEAD-AC9C-428C-A9D6-0B601CE218C7",
+      "class": "text"
+    },
+    {
+      "id": "1DAD8025-BD23-407B-B006-F448996E9E44",
+      "class": "shapeGroup"
+    },
+    {
+      "id": "47F99680-75B1-40F6-843A-F0723227936E",
+      "class": "text"
+    },
+    {
+      "id": "79FE3643-586E-483C-9D87-94CB04A11AFB",
+      "class": "text"
+    },
+    {
+      "id": "69230C03-1776-46B8-B3B0-596CFD53DF1D",
+      "class": "shapeGroup"
+    }
+  ]
+}

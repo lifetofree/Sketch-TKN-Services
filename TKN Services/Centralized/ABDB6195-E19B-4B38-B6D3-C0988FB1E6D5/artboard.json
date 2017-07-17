@@ -1,0 +1,78 @@
+{
+  "_class": "artboard",
+  "do_objectID": "ABDB6195-E19B-4B38-B6D3-C0988FB1E6D5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [],
+    "includedLayerIds": [],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 667,
+    "width": 375,
+    "x": 149,
+    "y": 3211
+  },
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "name": "SAP - Comment",
+  "nameIsFixed": true,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "hasClickThrough": true,
+  "layers": [
+    {
+      "id": "A0E4DEC7-6681-40E6-8038-0FBEB5F186CC",
+      "class": "bitmap"
+    },
+    {
+      "id": "4C7D05F2-777A-4B86-B4C8-332987C1139B",
+      "class": "group"
+    },
+    {
+      "id": "ED923ADC-1634-4495-A1CD-7C6431009FCE",
+      "class": "group"
+    },
+    {
+      "id": "0DFB0ECF-7213-4749-9353-62EB7293F671",
+      "class": "group"
+    },
+    {
+      "id": "276C7B6B-56ED-45B1-A92B-BC2E5D58555E",
+      "class": "group"
+    }
+  ],
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "hasBackgroundColor": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": []
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": []
+  }
+}

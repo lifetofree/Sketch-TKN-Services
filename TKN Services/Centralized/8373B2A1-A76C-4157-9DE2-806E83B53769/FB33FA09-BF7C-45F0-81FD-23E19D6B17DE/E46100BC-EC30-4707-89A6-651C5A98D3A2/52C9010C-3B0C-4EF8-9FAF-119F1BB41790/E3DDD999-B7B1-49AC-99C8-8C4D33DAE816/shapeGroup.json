@@ -1,0 +1,72 @@
+{
+  "_class": "shapeGroup",
+  "do_objectID": "E3DDD999-B7B1-49AC-99C8-8C4D33DAE816",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [],
+    "includedLayerIds": [],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 12.87108921263604,
+    "width": 12.87294521326778,
+    "x": 0.5,
+    "y": 2.5
+  },
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "name": "Search Icon",
+  "nameIsFixed": false,
+  "originalObjectID": "E0B1BB78-EDC3-41CF-BB35-935231326206",
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "isEnabled": true,
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.4823529411764706,
+          "green": 0.4745098039215686,
+          "red": 0.4784313725490196
+        },
+        "fillType": 0,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "hasClickThrough": false,
+  "layers": [
+    {
+      "id": "5F354D54-01C6-452B-BCF7-C7AA3F5BCECB",
+      "class": "oval"
+    },
+    {
+      "id": "E1B7F916-68FB-43BA-A07D-252706BE6CC8",
+      "class": "oval"
+    },
+    {
+      "id": "B4E4B47C-5E25-4677-89F7-D5DC9EE9F7F5",
+      "class": "rectangle"
+    }
+  ],
+  "clippingMaskMode": 0,
+  "hasClippingMask": false,
+  "windingRule": 1
+}

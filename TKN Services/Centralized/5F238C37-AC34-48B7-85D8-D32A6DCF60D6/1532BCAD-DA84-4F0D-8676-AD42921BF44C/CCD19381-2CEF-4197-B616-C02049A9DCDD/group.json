@@ -1,0 +1,46 @@
+{
+  "_class": "group",
+  "do_objectID": "CCD19381-2CEF-4197-B616-C02049A9DCDD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [],
+    "includedLayerIds": [],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 44,
+    "width": 375,
+    "x": 0,
+    "y": 0
+  },
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Bottom Bar/Toolbar Label",
+  "nameIsFixed": false,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "hasClickThrough": false,
+  "layers": [
+    {
+      "id": "31F59000-0D13-414F-A324-D64BE8FCE92E",
+      "class": "shapeGroup"
+    },
+    {
+      "id": "4F4169AC-8EF7-4B69-A242-61E380F1AF1D",
+      "class": "text"
+    }
+  ]
+}

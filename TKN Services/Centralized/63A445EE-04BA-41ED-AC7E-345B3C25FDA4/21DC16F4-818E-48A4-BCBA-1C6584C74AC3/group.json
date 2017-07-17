@@ -1,0 +1,94 @@
+{
+  "_class": "group",
+  "do_objectID": "21DC16F4-818E-48A4-BCBA-1C6584C74AC3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [],
+    "includedLayerIds": [],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 621,
+    "width": 376,
+    "x": -1,
+    "y": 84
+  },
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "name": "it detail",
+  "nameIsFixed": true,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "hasClickThrough": false,
+  "layers": [
+    {
+      "id": "C411FFA3-65AC-426E-AD3E-DA254CB7F0CB",
+      "class": "group"
+    },
+    {
+      "id": "A307981B-A047-42C5-9061-708FF9C4BA3F",
+      "class": "group"
+    },
+    {
+      "id": "04D94126-BA88-4D1E-989C-8015118A4A1C",
+      "class": "group"
+    },
+    {
+      "id": "C6AA1220-EB75-47D8-AA24-19A6267E23E7",
+      "class": "group"
+    },
+    {
+      "id": "E391CA4D-AA68-4EC9-A93E-8D0D0FDA54B0",
+      "class": "group"
+    },
+    {
+      "id": "0454D1B8-59AD-4D04-9929-3BDA93411E05",
+      "class": "group"
+    },
+    {
+      "id": "57CFBB37-A053-4A42-9706-D19BA82975AF",
+      "class": "group"
+    },
+    {
+      "id": "F1B8DB80-A24D-4A67-ADBD-FF5EAA4E6D04",
+      "class": "group"
+    },
+    {
+      "id": "6B67B66D-B143-4F28-B9C3-CC8C1A3C3A2E",
+      "class": "group"
+    },
+    {
+      "id": "8A66738F-B254-4732-8E41-AD706C9B24B1",
+      "class": "group"
+    },
+    {
+      "id": "4EC62217-95B9-49B9-9C14-3AAD1FBABE40",
+      "class": "group"
+    },
+    {
+      "id": "C7DFFC54-2E46-485B-9128-A33571EA658B",
+      "class": "group"
+    },
+    {
+      "id": "999D3E33-8226-41D4-9684-DCF019DE6BCA",
+      "class": "group"
+    },
+    {
+      "id": "C457E851-3485-4063-BF0F-4571DEEF665B",
+      "class": "group"
+    }
+  ]
+}

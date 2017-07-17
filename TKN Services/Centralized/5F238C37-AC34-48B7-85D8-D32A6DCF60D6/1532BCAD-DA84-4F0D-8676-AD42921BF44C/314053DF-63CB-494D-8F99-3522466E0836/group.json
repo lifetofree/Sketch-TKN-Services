@@ -1,0 +1,54 @@
+{
+  "_class": "group",
+  "do_objectID": "314053DF-63CB-494D-8F99-3522466E0836",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [],
+    "includedLayerIds": [],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 60,
+    "width": 321,
+    "x": 27,
+    "y": 60
+  },
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "button MIS",
+  "nameIsFixed": true,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "hasClickThrough": false,
+  "layers": [
+    {
+      "id": "FBBEB613-2153-44C6-AF23-768E4396BDD7",
+      "class": "bitmap"
+    },
+    {
+      "id": "1D7D172F-D8A6-4412-BAED-7BE6F9F53C41",
+      "class": "bitmap"
+    },
+    {
+      "id": "EB2F3DB7-3277-4CAF-A22C-40AE634AB15E",
+      "class": "bitmap"
+    },
+    {
+      "id": "7B16159A-E26A-44E1-8984-7D1C2213DA88",
+      "class": "bitmap"
+    }
+  ]
+}
