@@ -14,13 +14,13 @@
     "height": 45,
     "width": 360,
     "x": 0,
-    "y": 61
+    "y": 63
   },
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "name": "cancel",
   "nameIsFixed": true,
   "resizingType": 0,

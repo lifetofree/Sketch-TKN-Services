@@ -13,7 +13,7 @@
     "constrainProportions": false,
     "height": 45,
     "width": 360.794701986755,
-    "x": 0.01986754966901572,
+    "x": 0.01986754966856097,
     "y": 0
   },
   "isFlippedHorizontal": false,
@@ -35,9 +35,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.05473362813821275,
-          "green": 0.05473362813821275,
-          "red": 0.05758397108843537
+          "blue": 0.2902374565601349,
+          "green": 0.2901752889156342,
+          "red": 0.290221631526947
         },
         "fillType": 0,
         "position": 1,

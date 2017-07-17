@@ -11,7 +11,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 106,
+    "height": 108,
     "width": 360,
     "x": 8,
     "y": 146
@@ -20,7 +20,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "name": "button",
   "nameIsFixed": true,
   "resizingType": 0,
