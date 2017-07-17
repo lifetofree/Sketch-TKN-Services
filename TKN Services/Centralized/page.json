@@ -40,6 +40,34 @@
   "hasClickThrough": true,
   "layers": [
     {
+      "id": "46CE5EF1-1F09-46F9-BE4F-B8CC2E4AEA1F",
+      "class": "artboard"
+    },
+    {
+      "id": "6320C9F8-A745-4E6B-8B1B-E2BB6833E1F1",
+      "class": "artboard"
+    },
+    {
+      "id": "43E31D80-B126-4348-B6C1-DDF8C0FAD6EA",
+      "class": "artboard"
+    },
+    {
+      "id": "CE876250-701D-4EC5-A298-6EE23E738ABE",
+      "class": "artboard"
+    },
+    {
+      "id": "C228AEAB-142D-41E9-8A7D-D95D172865E6",
+      "class": "artboard"
+    },
+    {
+      "id": "A2DACFA7-06BD-4707-B954-436F79180490",
+      "class": "artboard"
+    },
+    {
+      "id": "FBBEB38C-4DF7-4B62-93FF-784AEB91B948",
+      "class": "artboard"
+    },
+    {
       "id": "1873B4BB-10AF-453B-A7B9-398A3D4EF55E",
       "class": "artboard"
     },

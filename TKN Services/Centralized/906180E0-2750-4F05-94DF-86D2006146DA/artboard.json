@@ -13,14 +13,14 @@
     "constrainProportions": false,
     "height": 725,
     "width": 375,
-    "x": -326,
-    "y": 3211
+    "x": 4319,
+    "y": 3046
   },
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "name": "SAP - Detail",
   "nameIsFixed": true,
   "resizingType": 0,

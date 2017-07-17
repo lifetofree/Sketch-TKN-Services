@@ -1,0 +1,68 @@
+{
+  "_class": "group",
+  "do_objectID": "6ACBF54C-BF59-4ABB-87A7-4A54C0D4765D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [],
+    "includedLayerIds": [],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 45,
+    "width": 360,
+    "x": 1,
+    "y": 0
+  },
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "receive job",
+  "nameIsFixed": true,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "userInfo": {
+    "com.invision.prototype": {
+      "closeOnClickOutside": 1,
+      "stayOnTargetScreen": 0,
+      "fixOverlayPosition": 1,
+      "openURLInNewWindow": 0,
+      "reverseTransitionOnClose": 1,
+      "gesture": 0,
+      "overlayPosition": 0,
+      "scrollToPosition": 0,
+      "maintainScrollPositionAfterGesture": 0,
+      "smoothScrolling": 0,
+      "overlayTransition": 0,
+      "redirectAfter": 0,
+      "componentType": "SRLink",
+      "backgroundOpacity": 0,
+      "linkType": 0,
+      "transition": 0,
+      "targetArtboardID": "FBBEB38C-4DF7-4B62-93FF-784AEB91B948",
+      "maintainScrollPositionAfterRedirect": 0
+    }
+  },
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "hasClickThrough": false,
+  "layers": [
+    {
+      "id": "D65221F5-2F2E-4A2F-ABF6-C5F96543FD66",
+      "class": "shapeGroup"
+    },
+    {
+      "id": "5616960D-6518-4062-A9FE-5C9F3DD2F30A",
+      "class": "text"
+    }
+  ]
+}
