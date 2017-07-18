@@ -12,9 +12,9 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 24,
-    "width": 79,
-    "x": 213,
-    "y": 9
+    "width": 153,
+    "x": 196,
+    "y": 10
   },
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -36,6 +36,55 @@
     "textStyle": {
       "_class": "textStyle",
       "encodedAttributes": {
+        "NSColor": {
+          "_archive": [
+            {
+              "$version": 100000,
+              "$objects": [
+                "$null",
+                {
+                  "NSRGB": {
+                    "type": "Buffer",
+                    "data": "0.7803921569 0.7803921569 0.8039215686\u0000"
+                  },
+                  "NSColorSpace": 1,
+                  "NSCustomColorSpace": {
+                    "UID": 2
+                  },
+                  "$class": {
+                    "UID": 4
+                  }
+                },
+                {
+                  "NSID": 1,
+                  "$class": {
+                    "UID": 3
+                  }
+                },
+                {
+                  "$classname": "NSColorSpace",
+                  "$classes": [
+                    "NSColorSpace",
+                    "NSObject"
+                  ]
+                },
+                {
+                  "$classname": "NSColor",
+                  "$classes": [
+                    "NSColor",
+                    "NSObject"
+                  ]
+                }
+              ],
+              "$archiver": "NSKeyedArchiver",
+              "$top": {
+                "root": {
+                  "UID": 1
+                }
+              }
+            }
+          ]
+        },
         "MSAttributedStringFontAttribute": {
           "_archive": [
             {
@@ -100,56 +149,6 @@
             }
           ]
         },
-        "NSKern": -0.4099999964237213,
-        "NSColor": {
-          "_archive": [
-            {
-              "$version": 100000,
-              "$objects": [
-                "$null",
-                {
-                  "NSRGB": {
-                    "type": "Buffer",
-                    "data": "0.7803921569 0.7803921569 0.8039215686\u0000"
-                  },
-                  "NSColorSpace": 1,
-                  "NSCustomColorSpace": {
-                    "UID": 2
-                  },
-                  "$class": {
-                    "UID": 4
-                  }
-                },
-                {
-                  "NSID": 1,
-                  "$class": {
-                    "UID": 3
-                  }
-                },
-                {
-                  "$classname": "NSColorSpace",
-                  "$classes": [
-                    "NSColorSpace",
-                    "NSObject"
-                  ]
-                },
-                {
-                  "$classname": "NSColor",
-                  "$classes": [
-                    "NSColor",
-                    "NSObject"
-                  ]
-                }
-              ],
-              "$archiver": "NSKeyedArchiver",
-              "$top": {
-                "root": {
-                  "UID": 1
-                }
-              }
-            }
-          ]
-        },
         "NSParagraphStyle": {
           "_archive": [
             {
@@ -163,11 +162,12 @@
                   "$class": {
                     "UID": 2
                   },
-                  "NSAlignment": 4
+                  "NSAlignment": 1
                 },
                 {
-                  "$classname": "NSParagraphStyle",
+                  "$classname": "NSMutableParagraphStyle",
                   "$classes": [
+                    "NSMutableParagraphStyle",
                     "NSParagraphStyle",
                     "NSObject"
                   ]
@@ -181,7 +181,8 @@
               }
             }
           ]
-        }
+        },
+        "NSKern": -0.4099999964237213
       }
     }
   },
@@ -204,7 +205,7 @@
                 "UID": 3
               }
             },
-            "เลือก ลำดับ",
+            "เลือกลำดับความสำคัญ",
             {
               "NS.keys": [
                 {
@@ -249,11 +250,12 @@
               "$class": {
                 "UID": 9
               },
-              "NSAlignment": 4
+              "NSAlignment": 1
             },
             {
-              "$classname": "NSParagraphStyle",
+              "$classname": "NSMutableParagraphStyle",
               "$classes": [
+                "NSMutableParagraphStyle",
                 "NSParagraphStyle",
                 "NSObject"
               ]
@@ -367,7 +369,7 @@
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "dontSynchroniseWithSymbol": true,
-  "glyphBounds": "{{0, 0}, {78, 18}}",
+  "glyphBounds": "{{0, 0}, {152, 21}}",
   "heightIsClipped": false,
   "lineSpacingBehaviour": 0,
   "textBehaviour": 0

@@ -12,8 +12,8 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 24,
-    "width": 135,
-    "x": 211.8321118469464,
+    "width": 137,
+    "x": 211.8321118469466,
     "y": 9
   },
   "isFlippedHorizontal": false,
@@ -204,7 +204,7 @@
                 "UID": 3
               }
             },
-            "เลือก case Module",
+            "เลือก Case Module",
             {
               "NS.keys": [
                 {
@@ -367,7 +367,7 @@
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "dontSynchroniseWithSymbol": true,
-  "glyphBounds": "{{0, 0}, {135, 18}}",
+  "glyphBounds": "{{0, 0}, {137, 18}}",
   "heightIsClipped": false,
   "lineSpacingBehaviour": 0,
   "textBehaviour": 0

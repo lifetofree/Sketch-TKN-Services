@@ -12,9 +12,9 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 24,
-    "width": 23,
-    "x": 209.8321118469464,
-    "y": 12
+    "width": 22,
+    "x": 326,
+    "y": 10
   },
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -204,7 +204,7 @@
                 "UID": 3
               }
             },
-            "Ex.",
+            "10",
             {
               "NS.keys": [
                 {
@@ -367,7 +367,7 @@
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "dontSynchroniseWithSymbol": true,
-  "glyphBounds": "{{0, 0}, {22, 17}}",
+  "glyphBounds": "{{0, 0}, {22, 18}}",
   "heightIsClipped": false,
   "lineSpacingBehaviour": 0,
   "textBehaviour": 0

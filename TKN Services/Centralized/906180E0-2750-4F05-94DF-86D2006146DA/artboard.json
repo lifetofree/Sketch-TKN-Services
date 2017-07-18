@@ -11,7 +11,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 725,
+    "height": 788,
     "width": 375,
     "x": 4319,
     "y": 3111
@@ -20,7 +20,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "name": "SAP - Detail",
   "nameIsFixed": true,
   "resizingType": 0,
