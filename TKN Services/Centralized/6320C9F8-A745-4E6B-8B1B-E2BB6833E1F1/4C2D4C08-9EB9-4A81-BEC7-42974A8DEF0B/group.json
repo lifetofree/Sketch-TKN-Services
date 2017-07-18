@@ -20,8 +20,8 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
-  "name": "it detail",
+  "layerListExpandedType": 2,
+  "name": "pos detail",
   "nameIsFixed": true,
   "resizingType": 0,
   "rotation": 0,
@@ -35,23 +35,23 @@
   "hasClickThrough": false,
   "layers": [
     {
-      "id": "76A12B7D-FB28-456D-A22D-AFDA66FE1DF7",
+      "id": "572A33CD-7214-4A26-B03A-AA52D69DDA23",
       "class": "group"
     },
     {
-      "id": "E724B686-82AB-4AB6-9307-DB0FDD06EE78",
+      "id": "852F7617-5830-4917-958D-793A239A1246",
       "class": "group"
     },
     {
-      "id": "389CAF0D-4B07-43F0-9F71-E75FBB7D900A",
+      "id": "99F42AE2-B2F1-4FC9-91EC-92ECF73AFCBB",
       "class": "group"
     },
     {
-      "id": "267C4F10-F855-4468-A9D8-4A61F19C96B4",
+      "id": "0C8AB77D-1916-4A73-8F48-0EE59B62D67F",
       "class": "group"
     },
     {
-      "id": "BCD11436-DB23-4A23-AAC1-ACBB558BE989",
+      "id": "CE3AA630-F66D-496E-BFD3-B1E223F5528C",
       "class": "group"
     }
   ]

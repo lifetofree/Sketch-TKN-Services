@@ -242,83 +242,51 @@
                   "UID": 8
                 },
                 {
-                  "UID": 12
+                  "UID": 9
                 },
                 {
-                  "UID": 20
+                  "UID": 17
                 },
                 {
-                  "UID": 24
+                  "UID": 21
                 }
               ],
               "$class": {
                 "UID": 25
               }
             },
-            "NSParagraphStyle",
-            "MSAttributedStringFontAttribute",
-            "NSColor",
             "NSKern",
-            {
-              "NSTabStops": {
-                "UID": 0
-              },
-              "NSAlignment": 4,
-              "$class": {
-                "UID": 11
-              },
-              "NSTextLists": {
-                "UID": 9
-              }
-            },
-            {
-              "NS.objects": [],
-              "$class": {
-                "UID": 10
-              }
-            },
-            {
-              "$classname": "NSArray",
-              "$classes": [
-                "NSArray",
-                "NSObject"
-              ]
-            },
-            {
-              "$classname": "NSMutableParagraphStyle",
-              "$classes": [
-                "NSMutableParagraphStyle",
-                "NSParagraphStyle",
-                "NSObject"
-              ]
-            },
+            "MSAttributedStringFontAttribute",
+            "NSParagraphStyle",
+            "NSColor",
+            -0.23999999463558197,
             {
               "$class": {
-                "UID": 19
+                "UID": 16
               },
               "NSFontDescriptorAttributes": {
-                "UID": 13
+                "UID": 10
               }
             },
             {
               "NS.keys": [
                 {
-                  "UID": 14
+                  "UID": 11
                 },
                 {
-                  "UID": 15
+                  "UID": 12
                 }
               ],
               "NS.objects": [
                 {
-                  "UID": 16
+                  "UID": 13
                 },
                 {
-                  "UID": 17
+                  "UID": 14
                 }
               ],
               "$class": {
-                "UID": 18
+                "UID": 15
               }
             },
             "NSFontSizeAttribute",
@@ -341,22 +309,55 @@
               ]
             },
             {
+              "NSTabStops": {
+                "UID": 0
+              },
+              "NSAlignment": 4,
+              "$class": {
+                "UID": 20
+              },
+              "NSTextLists": {
+                "UID": 18
+              }
+            },
+            {
+              "NS.objects": [],
+              "$class": {
+                "UID": 19
+              }
+            },
+            {
+              "$classname": "NSArray",
+              "$classes": [
+                "NSArray",
+                "NSObject"
+              ]
+            },
+            {
+              "$classname": "NSMutableParagraphStyle",
+              "$classes": [
+                "NSMutableParagraphStyle",
+                "NSParagraphStyle",
+                "NSObject"
+              ]
+            },
+            {
               "NSRGB": {
                 "type": "Buffer",
                 "data": "0.5607843137 0.5568627451 0.5803921569\u0000"
               },
               "NSColorSpace": 1,
               "NSCustomColorSpace": {
-                "UID": 21
+                "UID": 22
               },
               "$class": {
-                "UID": 23
+                "UID": 24
               }
             },
             {
               "NSID": 1,
               "$class": {
-                "UID": 22
+                "UID": 23
               }
             },
             {
@@ -373,7 +374,6 @@
                 "NSObject"
               ]
             },
-            -0.23999999463558197,
             {
               "$classname": "NSDictionary",
               "$classes": [

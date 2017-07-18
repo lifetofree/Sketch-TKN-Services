@@ -20,8 +20,8 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
-  "name": "it detail",
+  "layerListExpandedType": 2,
+  "name": "pos detail",
   "nameIsFixed": true,
   "resizingType": 0,
   "rotation": 0,
@@ -35,55 +35,55 @@
   "hasClickThrough": false,
   "layers": [
     {
-      "id": "9A2CA9D4-58CA-448B-B889-FEBFE911E729",
+      "id": "523217DC-1675-42F6-8796-3D15AB9363B4",
       "class": "group"
     },
     {
-      "id": "D09EA045-26B8-4E92-9F34-ABC54BEE0556",
+      "id": "5F77C929-0AAC-4A6A-890D-ECC5A3358F05",
       "class": "group"
     },
     {
-      "id": "873AB96B-627C-4306-A718-F2F45F8A67D3",
+      "id": "ADE233F4-0425-474C-8D26-DFC860CE525D",
       "class": "group"
     },
     {
-      "id": "55008396-F4B3-4F70-A016-60949D82DD1E",
+      "id": "D8D5998B-01F4-45F3-AAA5-356CEAD9ED96",
       "class": "group"
     },
     {
-      "id": "6EB06E43-502E-489C-ACE7-D09286A45877",
+      "id": "B73523C3-7A70-43BB-A484-3E304DB35D52",
       "class": "group"
     },
     {
-      "id": "634698DA-B90F-4516-A047-84FAC042A5F3",
+      "id": "CF8FB080-28B8-4CB1-B35E-32B67541773B",
       "class": "group"
     },
     {
-      "id": "87016864-CF77-4457-A57C-401296691C27",
+      "id": "D59F1218-151D-4812-8026-4F17980E0134",
       "class": "group"
     },
     {
-      "id": "E8293821-1A2D-4EA9-94F7-E49C0B0AD32D",
+      "id": "24769739-C940-490D-AA74-030B9F21833B",
       "class": "group"
     },
     {
-      "id": "EC4EC784-DAED-427E-A337-5B6564A8612E",
+      "id": "7AAE7E1D-8600-4A7C-A404-69AF755170B9",
       "class": "group"
     },
     {
-      "id": "234769BF-DF6A-459C-ADCB-1B8FDE823075",
+      "id": "9CDD5542-461D-4C36-B4F6-92CA4460E7B3",
       "class": "group"
     },
     {
-      "id": "F71B8C33-3B6E-4C4C-8028-EDB0DD5E92A5",
+      "id": "DA723AC4-A589-4E31-AB4A-C35E3323C9C9",
       "class": "group"
     },
     {
-      "id": "952B9612-A726-4324-8C74-376670137939",
+      "id": "6083451A-B515-433F-BA39-155304760EE2",
       "class": "group"
     },
     {
-      "id": "3C8E41F3-2EB8-4915-8319-A90874F0ABBC",
+      "id": "33650620-EBB8-424B-85EB-BDFF5861641E",
       "class": "group"
     },
     {

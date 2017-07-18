@@ -20,8 +20,8 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
-  "name": "it detail",
+  "layerListExpandedType": 2,
+  "name": "pos detail",
   "nameIsFixed": true,
   "resizingType": 0,
   "rotation": 0,
@@ -35,39 +35,39 @@
   "hasClickThrough": false,
   "layers": [
     {
-      "id": "1F4D0674-95E7-4B96-95A7-03D20C6280BE",
+      "id": "11B81870-EFE2-4BD5-B16D-DF28C2DB2B17",
       "class": "group"
     },
     {
-      "id": "FD26F145-750E-41DD-BA20-74FF41A1A069",
+      "id": "C3CBEBF3-423E-4C72-93D2-0A655A008465",
       "class": "group"
     },
     {
-      "id": "2C1034AE-4ED0-495A-9AB4-CB5A6D3B0C05",
+      "id": "39FF0332-8D07-49E8-AC6E-02A550D9795E",
       "class": "group"
     },
     {
-      "id": "C69F7C05-D77F-40E1-9932-685D9697FB87",
+      "id": "719D228D-BE41-4315-A610-0493F06D4E2F",
       "class": "group"
     },
     {
-      "id": "43621242-84ED-45E7-8EA1-EC5FC4477992",
+      "id": "57AB5180-6EEB-4719-BC9F-9F84462A8B11",
       "class": "group"
     },
     {
-      "id": "73DD0FF7-DD3B-4D38-A808-114A09B52FEC",
+      "id": "F6FB437F-9629-4686-B75F-13A3CF4F0E2C",
       "class": "group"
     },
     {
-      "id": "51782BC0-CC67-4002-874D-8F5B19AC0AFF",
+      "id": "6A1E9222-3250-41D2-ACB2-24FD81245C2F",
       "class": "group"
     },
     {
-      "id": "1BCAD8F9-E181-4AD2-BF5D-9941FD1D7A12",
+      "id": "43C36DB5-7E5C-4472-946C-ADF77D17F38F",
       "class": "group"
     },
     {
-      "id": "3065A751-C4B4-4541-AD88-7054AB28B975",
+      "id": "EA6D4B97-0398-4BDC-A87D-77FAA4A19BDB",
       "class": "group"
     },
     {

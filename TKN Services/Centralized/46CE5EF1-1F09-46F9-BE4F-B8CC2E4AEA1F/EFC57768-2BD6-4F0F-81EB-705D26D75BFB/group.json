@@ -20,8 +20,8 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
-  "name": "it detail",
+  "layerListExpandedType": 2,
+  "name": "pos detail",
   "nameIsFixed": true,
   "resizingType": 0,
   "rotation": 0,
@@ -35,7 +35,7 @@
   "hasClickThrough": false,
   "layers": [
     {
-      "id": "3BD8BB8B-11C4-442F-BAB9-EA55613D1F30",
+      "id": "69BC7E50-DE26-4627-A82D-6332E97DE6DF",
       "class": "group"
     }
   ]

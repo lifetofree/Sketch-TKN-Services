@@ -11,7 +11,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 222,
+    "height": 210,
     "width": 376,
     "x": -1,
     "y": 435
@@ -20,7 +20,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "name": "admin",
   "nameIsFixed": true,
   "resizingType": 0,
@@ -39,11 +39,11 @@
       "class": "group"
     },
     {
-      "id": "26192C30-3598-4803-BE93-7CB6D6662A39",
+      "id": "B091589C-34E0-4CB6-B2D4-C254D7E24E89",
       "class": "group"
     },
     {
-      "id": "08D97EE2-0753-4A57-8CD1-B6B51CB58737",
+      "id": "37CEADF0-557C-4C2C-9282-F30183B0E4F0",
       "class": "group"
     }
   ]
