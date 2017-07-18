@@ -13,14 +13,14 @@
     "constrainProportions": false,
     "height": 667,
     "width": 375,
-    "x": 4794,
-    "y": 2267
+    "x": 5269,
+    "y": 2360
   },
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "name": "IT - Close Job",
   "nameIsFixed": true,
   "resizingType": 0,

@@ -14,13 +14,13 @@
     "height": 725,
     "width": 375,
     "x": 4319,
-    "y": 6249
+    "y": 6314
   },
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "name": "POS - Detail",
   "nameIsFixed": true,
   "resizingType": 0,

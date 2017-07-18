@@ -12,8 +12,8 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 17,
-    "width": 65,
-    "x": 146,
+    "width": 100,
+    "x": 128.5,
     "y": 12
   },
   "isFlippedHorizontal": false,
@@ -21,7 +21,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "โอนย้ายงาน",
+  "name": "ผู้แจ้งตรวจสอบงาน",
   "nameIsFixed": false,
   "resizingType": 0,
   "rotation": 0,
@@ -221,7 +221,7 @@
                 "UID": 3
               }
             },
-            "โอนย้ายงาน",
+            "ผู้แจ้งตรวจสอบงาน",
             {
               "NS.keys": [
                 {
@@ -403,7 +403,7 @@
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "dontSynchroniseWithSymbol": false,
-  "glyphBounds": "{{0, 0}, {65, 14}}",
+  "glyphBounds": "{{0, 0}, {99, 17}}",
   "heightIsClipped": false,
   "lineSpacingBehaviour": 2,
   "textBehaviour": 0

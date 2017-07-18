@@ -14,13 +14,13 @@
     "height": 667,
     "width": 375,
     "x": 3844,
-    "y": 3046
+    "y": 3111
   },
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "name": "SAP - list",
   "nameIsFixed": true,
   "resizingType": 0,

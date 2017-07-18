@@ -36,15 +36,15 @@
       "gesture": 0,
       "overlayPosition": 0,
       "scrollToPosition": 0,
-      "redirectAfter": 0,
       "maintainScrollPositionAfterGesture": 0,
-      "overlayTransition": 0,
       "smoothScrolling": 0,
+      "overlayTransition": 0,
+      "redirectAfter": 0,
       "componentType": "SRLink",
       "backgroundOpacity": 0,
       "linkType": 0,
       "transition": 0,
-      "targetArtboardID": "F06E27D0-AD64-428F-833C-1A8AC169BB91",
+      "targetArtboardID": "0E2A9916-2B4F-482E-90E5-B772464DF8E8",
       "maintainScrollPositionAfterRedirect": 0
     }
   },

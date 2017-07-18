@@ -14,7 +14,7 @@
     "height": 17,
     "width": 35,
     "x": 161,
-    "y": 12
+    "y": 12.00000000000003
   },
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -406,5 +406,5 @@
   "glyphBounds": "{{0, 0}, {34, 14}}",
   "heightIsClipped": false,
   "lineSpacingBehaviour": 2,
-  "textBehaviour": 0
+  "textBehaviour": 1
 }

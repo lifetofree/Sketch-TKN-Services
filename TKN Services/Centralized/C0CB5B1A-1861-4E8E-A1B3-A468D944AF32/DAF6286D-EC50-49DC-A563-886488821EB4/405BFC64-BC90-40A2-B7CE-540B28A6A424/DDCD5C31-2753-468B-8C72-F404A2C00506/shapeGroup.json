@@ -20,7 +20,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "name": "Rectangle 2",
   "nameIsFixed": false,
   "resizingType": 0,
@@ -35,16 +35,16 @@
       "reverseTransitionOnClose": 1,
       "gesture": 0,
       "overlayPosition": 0,
-      "redirectAfter": 0,
+      "scrollToPosition": 0,
       "maintainScrollPositionAfterGesture": 0,
       "smoothScrolling": 0,
       "overlayTransition": 0,
-      "scrollToPosition": 0,
+      "redirectAfter": 0,
       "componentType": "SRLink",
       "backgroundOpacity": 0,
       "linkType": 0,
       "transition": 0,
-      "targetArtboardID": "5C7A329D-4429-4919-9887-8B0F01FE6A84",
+      "targetArtboardID": "7E260403-12A1-48F2-AB9C-FF5ED628BD4E",
       "maintainScrollPositionAfterRedirect": 0
     }
   },
@@ -74,9 +74,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.1385422945022583,
-          "green": 0.6503673195838928,
-          "red": 0.9617109894752502
+          "blue": 0.996078431372549,
+          "green": 0.7490196078431373,
+          "red": 0.2627450980392156
         },
         "fillType": 0,
         "noiseIndex": 0,
