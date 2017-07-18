@@ -1,0 +1,54 @@
+{
+  "_class": "group",
+  "do_objectID": "C0BDE5D6-9256-4EE5-87DF-8579273DF631",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [],
+    "includedLayerIds": [],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 44,
+    "width": 375,
+    "x": 1,
+    "y": 533
+  },
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Cell/Cell with Input",
+  "nameIsFixed": false,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "hasClickThrough": false,
+  "layers": [
+    {
+      "id": "B54B4E2A-0425-456A-BAA0-2D0F74488B96",
+      "class": "shapeGroup"
+    },
+    {
+      "id": "A6108B5D-7470-4188-910A-8CBA1C5F0195",
+      "class": "shapeGroup"
+    },
+    {
+      "id": "E6049CB6-1540-4895-8DD4-5088BA41799A",
+      "class": "text"
+    },
+    {
+      "id": "980C3CF5-B9FD-43A9-88F7-719EDBFC342C",
+      "class": "text"
+    }
+  ]
+}
