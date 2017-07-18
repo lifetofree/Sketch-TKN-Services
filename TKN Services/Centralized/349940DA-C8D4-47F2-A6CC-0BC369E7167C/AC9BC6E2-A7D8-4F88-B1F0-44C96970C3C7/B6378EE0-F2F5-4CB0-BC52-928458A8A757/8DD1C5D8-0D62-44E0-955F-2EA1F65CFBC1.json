@@ -12,7 +12,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 24,
-    "width": 97,
+    "width": 82,
     "x": 15,
     "y": 10
   },
@@ -221,7 +221,7 @@
                 "UID": 3
               }
             },
-            "สาเหตุ LV3 : ",
+            "สาเหตุ LV3",
             {
               "NS.keys": [
                 {
@@ -401,7 +401,7 @@
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "dontSynchroniseWithSymbol": true,
-  "glyphBounds": "{{0, 0}, {91, 22}}",
+  "glyphBounds": "{{0, 0}, {80, 22}}",
   "heightIsClipped": false,
   "lineSpacingBehaviour": 0,
   "textBehaviour": 0

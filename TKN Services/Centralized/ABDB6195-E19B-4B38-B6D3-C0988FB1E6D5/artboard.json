@@ -20,7 +20,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "name": "SAP - Comment",
   "nameIsFixed": true,
   "resizingType": 0,
@@ -39,11 +39,7 @@
       "class": "bitmap"
     },
     {
-      "id": "4C7D05F2-777A-4B86-B4C8-332987C1139B",
-      "class": "group"
-    },
-    {
-      "id": "ED923ADC-1634-4495-A1CD-7C6431009FCE",
+      "id": "48E644E4-EA15-4D74-AB59-C6B319C9A0B9",
       "class": "group"
     },
     {

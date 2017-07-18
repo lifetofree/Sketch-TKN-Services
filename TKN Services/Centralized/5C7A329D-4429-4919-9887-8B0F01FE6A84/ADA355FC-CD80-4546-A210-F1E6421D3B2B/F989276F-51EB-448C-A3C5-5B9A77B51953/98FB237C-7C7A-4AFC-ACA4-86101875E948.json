@@ -12,8 +12,8 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 24,
-    "width": 135,
-    "x": 211,
+    "width": 96,
+    "x": 250,
     "y": 9
   },
   "isFlippedHorizontal": false,
@@ -163,11 +163,12 @@
                   "$class": {
                     "UID": 2
                   },
-                  "NSAlignment": 4
+                  "NSAlignment": 1
                 },
                 {
-                  "$classname": "NSParagraphStyle",
+                  "$classname": "NSMutableParagraphStyle",
                   "$classes": [
+                    "NSMutableParagraphStyle",
                     "NSParagraphStyle",
                     "NSObject"
                   ]
@@ -204,7 +205,7 @@
                 "UID": 3
               }
             },
-            "เลือก case แจ้งซ่อม",
+            "เลือกระบบงาน",
             {
               "NS.keys": [
                 {
@@ -298,11 +299,12 @@
               "$class": {
                 "UID": 18
               },
-              "NSAlignment": 4
+              "NSAlignment": 1
             },
             {
-              "$classname": "NSParagraphStyle",
+              "$classname": "NSMutableParagraphStyle",
               "$classes": [
+                "NSMutableParagraphStyle",
                 "NSParagraphStyle",
                 "NSObject"
               ]
@@ -367,7 +369,7 @@
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "dontSynchroniseWithSymbol": true,
-  "glyphBounds": "{{0, 0}, {134, 18}}",
+  "glyphBounds": "{{0, 0}, {96, 18}}",
   "heightIsClipped": false,
   "lineSpacingBehaviour": 0,
   "textBehaviour": 0

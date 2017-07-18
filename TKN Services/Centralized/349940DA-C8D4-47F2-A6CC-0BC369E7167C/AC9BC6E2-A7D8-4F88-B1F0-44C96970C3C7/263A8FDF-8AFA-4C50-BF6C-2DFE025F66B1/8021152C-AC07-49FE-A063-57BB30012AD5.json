@@ -12,7 +12,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 24,
-    "width": 121,
+    "width": 106,
     "x": 15,
     "y": 10
   },
@@ -221,7 +221,7 @@
                 "UID": 3
               }
             },
-            "เจ้าหน้าที่รับงาน : ",
+            "เจ้าหน้าที่รับงาน",
             {
               "NS.keys": [
                 {
@@ -401,7 +401,7 @@
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "dontSynchroniseWithSymbol": true,
-  "glyphBounds": "{{0, -1}, {114, 19}}",
+  "glyphBounds": "{{0, -1}, {105, 19}}",
   "heightIsClipped": false,
   "lineSpacingBehaviour": 0,
   "textBehaviour": 0

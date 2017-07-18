@@ -20,7 +20,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "name": "Cell/Cell with Input",
   "nameIsFixed": false,
   "resizingType": 0,
@@ -44,6 +44,10 @@
     },
     {
       "id": "C37FF5D7-90E8-4681-8F3A-FD37443DE043",
+      "class": "text"
+    },
+    {
+      "id": "B2F1BF8C-E6C4-4898-AF3B-33612979F0E4",
       "class": "text"
     }
   ]

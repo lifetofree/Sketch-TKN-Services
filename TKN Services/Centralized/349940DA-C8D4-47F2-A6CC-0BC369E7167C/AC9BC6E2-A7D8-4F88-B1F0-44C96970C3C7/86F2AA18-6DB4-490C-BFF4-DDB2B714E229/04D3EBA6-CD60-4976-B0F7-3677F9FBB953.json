@@ -12,7 +12,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 24,
-    "width": 135,
+    "width": 119,
     "x": 15,
     "y": 10
   },
@@ -221,7 +221,7 @@
                 "UID": 3
               }
             },
-            "ลำดับความสำคัญ : ",
+            "ลำดับความสำคัญ",
             {
               "NS.keys": [
                 {
@@ -401,7 +401,7 @@
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "dontSynchroniseWithSymbol": true,
-  "glyphBounds": "{{0, 0}, {128, 21}}",
+  "glyphBounds": "{{0, 0}, {119, 21}}",
   "heightIsClipped": false,
   "lineSpacingBehaviour": 0,
   "textBehaviour": 0

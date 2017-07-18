@@ -12,7 +12,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 24,
-    "width": 89,
+    "width": 73,
     "x": 15,
     "y": 10
   },
@@ -221,7 +221,7 @@
                 "UID": 3
               }
             },
-            "แก้ไข LV3 : ",
+            "แก้ไข LV3",
             {
               "NS.keys": [
                 {
@@ -401,7 +401,7 @@
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "dontSynchroniseWithSymbol": true,
-  "glyphBounds": "{{0, 0}, {82, 18}}",
+  "glyphBounds": "{{0, 0}, {72, 18}}",
   "heightIsClipped": false,
   "lineSpacingBehaviour": 0,
   "textBehaviour": 0

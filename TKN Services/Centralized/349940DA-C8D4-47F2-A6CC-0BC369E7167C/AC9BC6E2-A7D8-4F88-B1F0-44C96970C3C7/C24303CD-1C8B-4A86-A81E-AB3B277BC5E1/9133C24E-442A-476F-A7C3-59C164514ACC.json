@@ -12,7 +12,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 24,
-    "width": 123,
+    "width": 108,
     "x": 15,
     "y": 10
   },
@@ -221,7 +221,7 @@
                 "UID": 3
               }
             },
-            "เจ้าหน้าที่ปิดงาน : ",
+            "เจ้าหน้าที่ปิดงาน",
             {
               "NS.keys": [
                 {
@@ -401,7 +401,7 @@
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "dontSynchroniseWithSymbol": true,
-  "glyphBounds": "{{0, -1}, {117, 19}}",
+  "glyphBounds": "{{0, -1}, {108, 19}}",
   "heightIsClipped": false,
   "lineSpacingBehaviour": 0,
   "textBehaviour": 0

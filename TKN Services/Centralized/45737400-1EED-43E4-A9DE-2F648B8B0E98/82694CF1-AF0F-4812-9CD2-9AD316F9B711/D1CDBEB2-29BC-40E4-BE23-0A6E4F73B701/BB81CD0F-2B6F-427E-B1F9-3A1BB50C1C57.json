@@ -223,13 +223,13 @@
                 "UID": 2
               },
               "NSAttributeInfo": {
-                "UID": 38
+                "UID": 33
               },
               "NSAttributes": {
                 "UID": 3
               },
               "$class": {
-                "UID": 40
+                "UID": 35
               }
             },
             "นายพนักงาน_10 ทดสอบ",
@@ -243,7 +243,7 @@
                 }
               ],
               "$class": {
-                "UID": 37
+                "UID": 32
               }
             },
             {
@@ -411,7 +411,7 @@
                   "UID": 5
                 },
                 {
-                  "UID": 28
+                  "UID": 6
                 },
                 {
                   "UID": 8
@@ -422,33 +422,20 @@
               ],
               "NS.objects": [
                 {
-                  "UID": 29
+                  "UID": 9
                 },
                 {
-                  "UID": 30
+                  "UID": 28
                 },
                 {
-                  "UID": 35
+                  "UID": 22
                 },
                 {
-                  "UID": 36
+                  "UID": 21
                 }
               ],
               "$class": {
                 "UID": 26
-              }
-            },
-            "MSAttributedStringFontAttribute",
-            {
-              "NSTabStops": {
-                "UID": 0
-              },
-              "NSAlignment": 4,
-              "$class": {
-                "UID": 12
-              },
-              "NSTextLists": {
-                "UID": 10
               }
             },
             {
@@ -456,21 +443,21 @@
                 "UID": 20
               },
               "NSFontDescriptorAttributes": {
-                "UID": 31
+                "UID": 29
               }
             },
             {
               "NS.keys": [
                 {
-                  "UID": 32
+                  "UID": 30
                 },
                 {
-                  "UID": 33
+                  "UID": 15
                 }
               ],
               "NS.objects": [
                 {
-                  "UID": 34
+                  "UID": 31
                 },
                 {
                   "UID": 17
@@ -481,22 +468,7 @@
               }
             },
             "NSCTFontUIUsageAttribute",
-            "NSFontSizeAttribute",
             "CTFontRegularUsage",
-            {
-              "NSRGB": {
-                "type": "Buffer",
-                "data": "1 1 1\u0000"
-              },
-              "NSColorSpace": 1,
-              "NSCustomColorSpace": {
-                "UID": 23
-              },
-              "$class": {
-                "UID": 25
-              }
-            },
-            -0.23999999463558197,
             {
               "$classname": "NSMutableArray",
               "$classes": [
@@ -511,7 +483,7 @@
                 "data": "\n\u0000\u0004\u0001\u0005\u0000"
               },
               "$class": {
-                "UID": 39
+                "UID": 34
               }
             },
             {

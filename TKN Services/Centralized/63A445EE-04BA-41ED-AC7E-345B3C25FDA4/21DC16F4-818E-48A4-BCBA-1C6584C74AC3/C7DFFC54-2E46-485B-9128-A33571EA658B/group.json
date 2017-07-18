@@ -11,7 +11,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 82,
+    "height": 44,
     "width": 375,
     "x": 1,
     "y": 92
@@ -48,10 +48,6 @@
     },
     {
       "id": "3AB2429F-74EB-4E21-8879-A62198FD0132",
-      "class": "text"
-    },
-    {
-      "id": "A9B69EB4-80D6-4064-B477-EF778362A5D8",
       "class": "text"
     }
   ]

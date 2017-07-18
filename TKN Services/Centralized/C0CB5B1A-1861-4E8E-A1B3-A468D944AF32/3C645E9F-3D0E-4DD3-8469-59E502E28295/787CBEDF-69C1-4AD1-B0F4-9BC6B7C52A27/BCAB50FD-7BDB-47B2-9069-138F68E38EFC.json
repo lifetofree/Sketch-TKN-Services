@@ -12,8 +12,8 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 20,
-    "width": 39,
-    "x": 115,
+    "width": 96,
+    "x": 253,
     "y": 12
   },
   "isFlippedHorizontal": false,
@@ -204,7 +204,7 @@
                 "UID": 3
               }
             },
-            "Input",
+            "nonononono",
             {
               "NS.keys": [
                 {
@@ -367,7 +367,7 @@
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "dontSynchroniseWithSymbol": true,
-  "glyphBounds": "{{0, 0}, {39, 19}}",
+  "glyphBounds": "{{0, 0}, {96, 17}}",
   "heightIsClipped": false,
   "lineSpacingBehaviour": 0,
   "textBehaviour": 0

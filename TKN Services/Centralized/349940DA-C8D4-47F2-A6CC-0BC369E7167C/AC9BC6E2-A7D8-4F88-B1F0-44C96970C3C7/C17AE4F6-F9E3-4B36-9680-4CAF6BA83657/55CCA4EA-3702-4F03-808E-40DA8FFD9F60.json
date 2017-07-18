@@ -12,7 +12,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 24,
-    "width": 91,
+    "width": 75,
     "x": 15,
     "y": 14
   },
@@ -221,7 +221,7 @@
                 "UID": 3
               }
             },
-            "หัวข้อ LV2 : ",
+            "หัวข้อ LV2",
             {
               "NS.keys": [
                 {
@@ -401,7 +401,7 @@
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "dontSynchroniseWithSymbol": true,
-  "glyphBounds": "{{0, 0}, {84, 18}}",
+  "glyphBounds": "{{0, 0}, {74, 18}}",
   "heightIsClipped": false,
   "lineSpacingBehaviour": 0,
   "textBehaviour": 0
