@@ -27,28 +27,7 @@
   "resizingType": 1,
   "rotation": 0,
   "shouldBreakMaskChain": false,
-  "userInfo": {
-    "com.invision.prototype": {
-      "closeOnClickOutside": 1,
-      "stayOnTargetScreen": 0,
-      "fixOverlayPosition": 1,
-      "openURLInNewWindow": 0,
-      "reverseTransitionOnClose": 1,
-      "gesture": 0,
-      "overlayPosition": 0,
-      "redirectAfter": 0,
-      "maintainScrollPositionAfterGesture": 0,
-      "smoothScrolling": 0,
-      "overlayTransition": 0,
-      "scrollToPosition": 0,
-      "componentType": "SRLink",
-      "backgroundOpacity": 0,
-      "linkType": 0,
-      "transition": 0,
-      "targetArtboardID": "72396EB0-3783-4F3E-86FE-39825CA07B2B",
-      "maintainScrollPositionAfterRedirect": 0
-    }
-  },
+  "userInfo": {},
   "style": {
     "_class": "style",
     "endDecorationType": 0,

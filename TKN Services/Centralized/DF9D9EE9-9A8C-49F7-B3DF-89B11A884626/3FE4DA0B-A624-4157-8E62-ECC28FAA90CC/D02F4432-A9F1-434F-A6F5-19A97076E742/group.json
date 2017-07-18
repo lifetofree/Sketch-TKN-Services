@@ -14,7 +14,7 @@
     "height": 134,
     "width": 375,
     "x": 0,
-    "y": 317
+    "y": 451
   },
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -34,12 +34,12 @@
       "openURLInNewWindow": 0,
       "reverseTransitionOnClose": 1,
       "gesture": 0,
-      "smoothScrolling": 0,
-      "redirectAfter": 0,
       "overlayPosition": 0,
-      "scrollToPosition": 0,
-      "overlayTransition": 0,
+      "redirectAfter": 0,
       "maintainScrollPositionAfterGesture": 0,
+      "smoothScrolling": 0,
+      "overlayTransition": 0,
+      "scrollToPosition": 0,
       "componentType": "SRLink",
       "backgroundOpacity": 0,
       "linkType": 0,
@@ -89,8 +89,8 @@
       "class": "shapeGroup"
     },
     {
-      "id": "BDC71A9C-57E1-4478-A50A-4613B02DD447",
-      "class": "bitmap"
+      "id": "92024F23-5D39-4C52-90EE-CA0F75DD4A69",
+      "class": "group"
     }
   ]
 }

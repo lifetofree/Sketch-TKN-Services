@@ -35,11 +35,11 @@
       "reverseTransitionOnClose": 1,
       "gesture": 0,
       "overlayPosition": 0,
+      "scrollToPosition": 0,
       "redirectAfter": 0,
       "maintainScrollPositionAfterGesture": 0,
-      "smoothScrolling": 0,
       "overlayTransition": 0,
-      "scrollToPosition": 0,
+      "smoothScrolling": 0,
       "componentType": "SRLink",
       "backgroundOpacity": 0,
       "linkType": 0,
@@ -89,8 +89,8 @@
       "class": "shapeGroup"
     },
     {
-      "id": "14A3E6E9-0CE3-4603-AED9-0AC3E5F1CF1D",
-      "class": "bitmap"
+      "id": "AB27BD1C-27F4-4B3F-ADC2-38FA6DABC507",
+      "class": "group"
     }
   ]
 }

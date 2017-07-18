@@ -11,10 +11,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 80.0081787109375,
-    "width": 337,
+    "height": 71.4737548828125,
+    "width": 212,
     "x": 28,
-    "y": 48.5
+    "y": 50.5
   },
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -122,7 +122,7 @@
                 },
                 "NSFontSizeAttribute",
                 "NSFontNameAttribute",
-                15,
+                13,
                 "Thonburi",
                 {
                   "$classname": "NSMutableDictionary",
@@ -174,7 +174,7 @@
                 "UID": 27
               }
             },
-            "ฝ่าย : การจัดการระบบสารสนเทศ\nสถานที่แจ้ง : นพวงศ์\nรายละเอียด : คอมพิวเตอร์เสีย เปิดเครื่อง\nไม่ติด รบกวนหน่อย",
+            "ฝ่าย : การจัดการระบบสารสนเทศ\nสถานที่แจ้ง : นพวงศ์\nรายละเอียด : คอมพิวเตอร์เสีย เปิดเครื่องไม่ติด รบกวนหน่อย",
             {
               "NS.objects": [
                 {
@@ -242,8 +242,8 @@
             },
             "NSFontSizeAttribute",
             "NSFontNameAttribute",
-            15,
-            "Thonburi",
+            13,
+            ".SFNSText",
             {
               "$classname": "NSMutableDictionary",
               "$classes": [
@@ -355,7 +355,7 @@
             {
               "NS.data": {
                 "type": "Buffer",
-                "data": "2\u0000:\u0001"
+                "data": "2\u00009\u0001"
               },
               "$class": {
                 "UID": 26
@@ -389,7 +389,7 @@
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "dontSynchroniseWithSymbol": true,
-  "glyphBounds": "{{-1, 0}, {251, 76}}",
+  "glyphBounds": "{{0, 0}, {317, 49}}",
   "heightIsClipped": false,
   "lineSpacingBehaviour": 0,
   "textBehaviour": 1

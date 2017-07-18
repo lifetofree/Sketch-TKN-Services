@@ -11,10 +11,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 80.0081787109375,
-    "width": 337,
+    "height": 71.4737548828125,
+    "width": 212,
     "x": 28,
-    "y": 48.5
+    "y": 50.5
   },
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -122,7 +122,7 @@
                 },
                 "NSFontSizeAttribute",
                 "NSFontNameAttribute",
-                15,
+                13,
                 "Thonburi",
                 {
                   "$classname": "NSMutableDictionary",
@@ -165,16 +165,16 @@
                 "UID": 2
               },
               "NSAttributeInfo": {
-                "UID": 25
+                "UID": 30
               },
               "NSAttributes": {
                 "UID": 3
               },
               "$class": {
-                "UID": 27
+                "UID": 32
               }
             },
-            "ฝ่าย : การจัดการระบบสารสนเทศ\nสถานที่แจ้ง : นพวงศ์\nรายละเอียด : คอมพิวเตอร์เสีย เปิดเครื่อง\nไม่ติด รบกวนหน่อย",
+            "ฝ่าย : การจัดการระบบสารสนเทศ\nสถานที่แจ้ง : นพวงศ์\nรายละเอียด : คอมพิวเตอร์เสีย เปิดเครื่องไม่ติด รบกวนหน่อย",
             {
               "NS.objects": [
                 {
@@ -182,10 +182,16 @@
                 },
                 {
                   "UID": 20
+                },
+                {
+                  "UID": 24
+                },
+                {
+                  "UID": 28
                 }
               ],
               "$class": {
-                "UID": 24
+                "UID": 29
               }
             },
             {
@@ -242,7 +248,7 @@
             },
             "NSFontSizeAttribute",
             "NSFontNameAttribute",
-            15,
+            13,
             "Thonburi",
             {
               "$classname": "NSMutableDictionary",
@@ -302,10 +308,61 @@
             {
               "NS.keys": [
                 {
+                  "UID": 5
+                },
+                {
+                  "UID": 6
+                }
+              ],
+              "NS.objects": [
+                {
+                  "UID": 21
+                },
+                {
+                  "UID": 15
+                }
+              ],
+              "$class": {
+                "UID": 19
+              }
+            },
+            {
+              "$class": {
+                "UID": 14
+              },
+              "NSFontDescriptorAttributes": {
+                "UID": 22
+              }
+            },
+            {
+              "NS.keys": [
+                {
+                  "UID": 9
+                },
+                {
+                  "UID": 10
+                }
+              ],
+              "NS.objects": [
+                {
+                  "UID": 11
+                },
+                {
+                  "UID": 23
+                }
+              ],
+              "$class": {
+                "UID": 13
+              }
+            },
+            ".SFNSText",
+            {
+              "NS.keys": [
+                {
                   "UID": 6
                 },
                 {
-                  "UID": 21
+                  "UID": 25
                 },
                 {
                   "UID": 5
@@ -316,7 +373,7 @@
                   "UID": 15
                 },
                 {
-                  "UID": 22
+                  "UID": 26
                 },
                 {
                   "UID": 7
@@ -334,7 +391,7 @@
               "NSAlignment": 4,
               "NSAllowsTighteningForTruncation": 1,
               "$class": {
-                "UID": 23
+                "UID": 27
               }
             },
             {
@@ -343,6 +400,33 @@
                 "NSParagraphStyle",
                 "NSObject"
               ]
+            },
+            {
+              "NS.keys": [
+                {
+                  "UID": 6
+                },
+                {
+                  "UID": 25
+                },
+                {
+                  "UID": 5
+                }
+              ],
+              "NS.objects": [
+                {
+                  "UID": 15
+                },
+                {
+                  "UID": 26
+                },
+                {
+                  "UID": 21
+                }
+              ],
+              "$class": {
+                "UID": 19
+              }
             },
             {
               "$classname": "NSMutableArray",
@@ -355,10 +439,10 @@
             {
               "NS.data": {
                 "type": "Buffer",
-                "data": "2\u0000:\u0001"
+                "data": "\u0004\u0000\u0003\u0001\u0015\u0000\u0001\u0001\u000b\u0000\u0003\u0001\u0006\u0000\u0001\u0001\n\u0002\u0003\u0003\u000f\u0002\u0001\u0003\u0011\u0002\u0001\u0003\n\u0002"
               },
               "$class": {
-                "UID": 26
+                "UID": 31
               }
             },
             {
@@ -389,7 +473,7 @@
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "dontSynchroniseWithSymbol": true,
-  "glyphBounds": "{{-1, 0}, {251, 76}}",
+  "glyphBounds": "{{0, 0}, {317, 49}}",
   "heightIsClipped": false,
   "lineSpacingBehaviour": 0,
   "textBehaviour": 1

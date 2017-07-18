@@ -34,12 +34,12 @@
       "openURLInNewWindow": 0,
       "reverseTransitionOnClose": 1,
       "gesture": 0,
-      "smoothScrolling": 0,
-      "redirectAfter": 0,
       "overlayPosition": 0,
-      "scrollToPosition": 0,
-      "overlayTransition": 0,
+      "redirectAfter": 0,
       "maintainScrollPositionAfterGesture": 0,
+      "smoothScrolling": 0,
+      "overlayTransition": 0,
+      "scrollToPosition": 0,
       "componentType": "SRLink",
       "backgroundOpacity": 0,
       "linkType": 0,
@@ -89,8 +89,8 @@
       "class": "shapeGroup"
     },
     {
-      "id": "C8D5DE52-1A45-4E4E-96F9-F9DAE82E9248",
-      "class": "bitmap"
+      "id": "06941F6D-F880-4FD0-B885-8074B3C72355",
+      "class": "group"
     }
   ]
 }
