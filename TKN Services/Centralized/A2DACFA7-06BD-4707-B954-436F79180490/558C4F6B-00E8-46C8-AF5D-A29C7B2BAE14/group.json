@@ -11,7 +11,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 167,
+    "height": 228,
     "width": 361,
     "x": 8,
     "y": 543
@@ -20,7 +20,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "name": "button",
   "nameIsFixed": true,
   "resizingType": 0,
@@ -35,11 +35,15 @@
   "hasClickThrough": false,
   "layers": [
     {
-      "id": "3C41FE9A-A68B-404C-885E-6A9EB50A11BE",
+      "id": "E26DAB46-808B-407E-B04E-99D4DEDA29CF",
       "class": "group"
     },
     {
       "id": "C428F5D5-BEA7-41A5-BFEB-D10B9A307462",
+      "class": "group"
+    },
+    {
+      "id": "3C41FE9A-A68B-404C-885E-6A9EB50A11BE",
       "class": "group"
     },
     {

@@ -20,7 +20,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "name": "Cell/Mail",
   "nameIsFixed": false,
   "resizingType": 0,
@@ -89,8 +89,8 @@
       "class": "shapeGroup"
     },
     {
-      "id": "34B353CC-184F-4490-A924-3AE2C77FD08F",
-      "class": "bitmap"
+      "id": "C7A1ACBC-B5B4-4E57-9705-F54959E75C7A",
+      "class": "group"
     }
   ]
 }
