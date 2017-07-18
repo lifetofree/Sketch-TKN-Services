@@ -11,7 +11,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 406,
+    "height": 540,
     "width": 375,
     "x": 0,
     "y": 129
@@ -20,7 +20,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "name": "list",
   "nameIsFixed": true,
   "resizingType": 0,
@@ -56,6 +56,10 @@
   },
   "hasClickThrough": false,
   "layers": [
+    {
+      "id": "9FE396D0-F23A-4E61-93A1-C4151BB9C869",
+      "class": "group"
+    },
     {
       "id": "3A41B615-E3BF-4EAB-AD3C-EBB098B024B5",
       "class": "group"

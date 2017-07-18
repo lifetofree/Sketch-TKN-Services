@@ -1,6 +1,6 @@
 {
   "_class": "bitmap",
-  "do_objectID": "F6E3C094-4A81-4F81-AC54-EE918B4F0B0A",
+  "do_objectID": "B649B9B0-3D86-460F-AB01-163991A3648F",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [],
@@ -11,17 +11,17 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
-    "height": 36,
-    "width": 36,
-    "x": 306,
-    "y": 52
+    "height": 85,
+    "width": 453,
+    "x": 0,
+    "y": 0
   },
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "icon_warning",
+  "name": "bg_title",
   "nameIsFixed": false,
   "resizingType": 0,
   "rotation": 0,
@@ -29,24 +29,6 @@
   "style": {
     "_class": "style",
     "endDecorationType": 0,
-    "fills": [
-      {
-        "_class": "fill",
-        "isEnabled": true,
-        "color": {
-          "_class": "color",
-          "alpha": 1,
-          "blue": 0.1385422945022583,
-          "green": 0.6503673195838928,
-          "red": 0.9617109894752502
-        },
-        "fillType": 0,
-        "noiseIndex": 0,
-        "noiseIntensity": 0,
-        "patternFillType": 1,
-        "patternTileScale": 1
-      }
-    ],
     "miterLimit": 10,
     "startDecorationType": 0
   },
@@ -55,7 +37,7 @@
   "image": {
     "_class": "MSJSONFileReference",
     "_ref_class": "MSImageData",
-    "_ref": "images/9573f8aa9d20a4718521f99820294475d3d47ccc"
+    "_ref": "images/b1adb4dcde8a42f5ff469cf09297044081bfd4e0"
   },
   "nineSliceCenterRect": "{{0, 0}, {0, 0}}",
   "nineSliceScale": "{0, 0}"

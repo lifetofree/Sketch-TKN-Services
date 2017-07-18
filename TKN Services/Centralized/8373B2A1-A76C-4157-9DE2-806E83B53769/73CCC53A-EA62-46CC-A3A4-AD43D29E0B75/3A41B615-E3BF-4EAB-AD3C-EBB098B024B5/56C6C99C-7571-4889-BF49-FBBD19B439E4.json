@@ -11,10 +11,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 18,
-    "width": 130,
-    "x": 213,
-    "y": 10
+    "height": 15,
+    "width": 108,
+    "x": 240,
+    "y": 11
   },
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -36,71 +36,6 @@
     "textStyle": {
       "_class": "textStyle",
       "encodedAttributes": {
-        "MSAttributedStringFontAttribute": {
-          "_archive": [
-            {
-              "$version": 100000,
-              "$objects": [
-                "$null",
-                {
-                  "$class": {
-                    "UID": 8
-                  },
-                  "NSFontDescriptorAttributes": {
-                    "UID": 2
-                  }
-                },
-                {
-                  "NS.keys": [
-                    {
-                      "UID": 3
-                    },
-                    {
-                      "UID": 4
-                    }
-                  ],
-                  "NS.objects": [
-                    {
-                      "UID": 5
-                    },
-                    {
-                      "UID": 6
-                    }
-                  ],
-                  "$class": {
-                    "UID": 7
-                  }
-                },
-                "NSCTFontUIUsageAttribute",
-                "NSFontSizeAttribute",
-                "CTFontRegularUsage",
-                15,
-                {
-                  "$classname": "NSMutableDictionary",
-                  "$classes": [
-                    "NSMutableDictionary",
-                    "NSDictionary",
-                    "NSObject"
-                  ]
-                },
-                {
-                  "$classname": "NSFontDescriptor",
-                  "$classes": [
-                    "NSFontDescriptor",
-                    "NSObject"
-                  ]
-                }
-              ],
-              "$archiver": "NSKeyedArchiver",
-              "$top": {
-                "root": {
-                  "UID": 1
-                }
-              }
-            }
-          ]
-        },
-        "NSKern": -0.239999994635582,
         "NSColor": {
           "_archive": [
             {
@@ -137,6 +72,70 @@
                   "$classname": "NSColor",
                   "$classes": [
                     "NSColor",
+                    "NSObject"
+                  ]
+                }
+              ],
+              "$archiver": "NSKeyedArchiver",
+              "$top": {
+                "root": {
+                  "UID": 1
+                }
+              }
+            }
+          ]
+        },
+        "MSAttributedStringFontAttribute": {
+          "_archive": [
+            {
+              "$version": 100000,
+              "$objects": [
+                "$null",
+                {
+                  "$class": {
+                    "UID": 8
+                  },
+                  "NSFontDescriptorAttributes": {
+                    "UID": 2
+                  }
+                },
+                {
+                  "NS.keys": [
+                    {
+                      "UID": 3
+                    },
+                    {
+                      "UID": 4
+                    }
+                  ],
+                  "NS.objects": [
+                    {
+                      "UID": 5
+                    },
+                    {
+                      "UID": 6
+                    }
+                  ],
+                  "$class": {
+                    "UID": 7
+                  }
+                },
+                "NSFontSizeAttribute",
+                "NSFontNameAttribute",
+                12,
+                ".SFNSText",
+                {
+                  "$classname": "NSMutableDictionary",
+                  "$classes": [
+                    "NSMutableDictionary",
+                    "NSDictionary",
+                    "NSObject"
+                  ]
+                },
+                {
+                  "$classname": "NSFontDescriptor",
+                  "$classes": [
+                    "NSFontDescriptor",
                     "NSObject"
                   ]
                 }
@@ -198,7 +197,8 @@
               }
             }
           ]
-        }
+        },
+        "NSKern": -0.192
       }
     }
   },
@@ -242,10 +242,10 @@
                   "UID": 8
                 },
                 {
-                  "UID": 9
+                  "UID": 12
                 },
                 {
-                  "UID": 17
+                  "UID": 20
                 },
                 {
                   "UID": 21
@@ -255,75 +255,26 @@
                 "UID": 25
               }
             },
-            "NSKern",
-            "MSAttributedStringFontAttribute",
             "NSParagraphStyle",
+            "MSAttributedStringFontAttribute",
+            "NSKern",
             "NSColor",
-            -0.23999999463558197,
-            {
-              "$class": {
-                "UID": 16
-              },
-              "NSFontDescriptorAttributes": {
-                "UID": 10
-              }
-            },
-            {
-              "NS.keys": [
-                {
-                  "UID": 11
-                },
-                {
-                  "UID": 12
-                }
-              ],
-              "NS.objects": [
-                {
-                  "UID": 13
-                },
-                {
-                  "UID": 14
-                }
-              ],
-              "$class": {
-                "UID": 15
-              }
-            },
-            "NSCTFontUIUsageAttribute",
-            "NSFontSizeAttribute",
-            "CTFontRegularUsage",
-            15,
-            {
-              "$classname": "NSMutableDictionary",
-              "$classes": [
-                "NSMutableDictionary",
-                "NSDictionary",
-                "NSObject"
-              ]
-            },
-            {
-              "$classname": "NSFontDescriptor",
-              "$classes": [
-                "NSFontDescriptor",
-                "NSObject"
-              ]
-            },
             {
               "NSTabStops": {
                 "UID": 0
               },
               "NSAlignment": 1,
               "$class": {
-                "UID": 20
+                "UID": 11
               },
               "NSTextLists": {
-                "UID": 18
+                "UID": 9
               }
             },
             {
               "NS.objects": [],
               "$class": {
-                "UID": 19
+                "UID": 10
               }
             },
             {
@@ -341,6 +292,55 @@
                 "NSObject"
               ]
             },
+            {
+              "$class": {
+                "UID": 19
+              },
+              "NSFontDescriptorAttributes": {
+                "UID": 13
+              }
+            },
+            {
+              "NS.keys": [
+                {
+                  "UID": 14
+                },
+                {
+                  "UID": 15
+                }
+              ],
+              "NS.objects": [
+                {
+                  "UID": 16
+                },
+                {
+                  "UID": 17
+                }
+              ],
+              "$class": {
+                "UID": 18
+              }
+            },
+            "NSFontSizeAttribute",
+            "NSFontNameAttribute",
+            12,
+            ".SFNSText",
+            {
+              "$classname": "NSMutableDictionary",
+              "$classes": [
+                "NSMutableDictionary",
+                "NSDictionary",
+                "NSObject"
+              ]
+            },
+            {
+              "$classname": "NSFontDescriptor",
+              "$classes": [
+                "NSFontDescriptor",
+                "NSObject"
+              ]
+            },
+            -0.19200000166893005,
             {
               "NSRGB": {
                 "type": "Buffer",
@@ -401,7 +401,7 @@
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "dontSynchroniseWithSymbol": true,
-  "glyphBounds": "{{0, 0}, {129, 18}}",
+  "glyphBounds": "{{0, 0}, {107, 14}}",
   "heightIsClipped": false,
   "lineSpacingBehaviour": 0,
   "textBehaviour": 0

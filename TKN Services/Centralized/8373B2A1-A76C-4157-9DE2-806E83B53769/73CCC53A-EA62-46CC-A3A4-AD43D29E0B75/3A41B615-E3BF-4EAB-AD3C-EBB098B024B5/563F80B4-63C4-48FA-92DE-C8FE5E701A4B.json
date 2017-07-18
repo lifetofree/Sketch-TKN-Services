@@ -11,10 +11,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 80.0081787109375,
-    "width": 337,
+    "height": 71.4737548828125,
+    "width": 212,
     "x": 28,
-    "y": 48.5
+    "y": 50.5
   },
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -122,7 +122,7 @@
                 },
                 "NSFontSizeAttribute",
                 "NSFontNameAttribute",
-                15,
+                13,
                 "Thonburi",
                 {
                   "$classname": "NSMutableDictionary",
@@ -242,7 +242,7 @@
             },
             "NSFontSizeAttribute",
             "NSFontNameAttribute",
-            15,
+            13,
             "Thonburi",
             {
               "$classname": "NSMutableDictionary",
@@ -389,7 +389,7 @@
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "dontSynchroniseWithSymbol": true,
-  "glyphBounds": "{{0, 0}, {357, 56}}",
+  "glyphBounds": "{{0, 0}, {309, 50}}",
   "heightIsClipped": false,
   "lineSpacingBehaviour": 0,
   "textBehaviour": 1

@@ -1,6 +1,6 @@
 {
-  "_class": "bitmap",
-  "do_objectID": "625719EB-F609-478E-8B6A-8708066BE5CF",
+  "_class": "shapeGroup",
+  "do_objectID": "63453EF6-52DC-482C-A06B-C3C1F8D820ED",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [],
@@ -10,19 +10,20 @@
   },
   "frame": {
     "_class": "rect",
-    "constrainProportions": true,
-    "height": 40,
-    "width": 40,
-    "x": 308,
-    "y": 47
+    "constrainProportions": false,
+    "height": 21,
+    "width": 12.5,
+    "x": 0.5,
+    "y": 0.5
   },
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "icon_completed",
-  "nameIsFixed": false,
+  "name": "Back Chevron",
+  "nameIsFixed": true,
+  "originalObjectID": "5A0B9047-4D2E-427D-B8BB-858FD9001A36",
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
@@ -36,27 +37,29 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.1298772692680359,
-          "green": 0.8262341022491455,
-          "red": 0.4941504597663879
+          "blue": 1,
+          "green": 1,
+          "red": 1
         },
         "fillType": 0,
         "noiseIndex": 0,
         "noiseIntensity": 0,
-        "patternFillType": 1,
+        "patternFillType": 0,
         "patternTileScale": 1
       }
     ],
     "miterLimit": 10,
+    "sharedObjectID": "8A5A372B-F98B-44ED-BDFE-08A448CEAB0B",
     "startDecorationType": 0
   },
-  "clippingMask": "{{0, 0}, {1, 1}}",
-  "fillReplacesImage": false,
-  "image": {
-    "_class": "MSJSONFileReference",
-    "_ref_class": "MSImageData",
-    "_ref": "images/9a6d7a6251221f8cf6660de947bdff8b59d84f16"
-  },
-  "nineSliceCenterRect": "{{0, 0}, {0, 0}}",
-  "nineSliceScale": "{0, 0}"
+  "hasClickThrough": false,
+  "layers": [
+    {
+      "id": "C07AFA7E-3803-48BB-87E9-328830BAA4F8",
+      "class": "shapePath"
+    }
+  ],
+  "clippingMaskMode": 0,
+  "hasClippingMask": false,
+  "windingRule": 1
 }

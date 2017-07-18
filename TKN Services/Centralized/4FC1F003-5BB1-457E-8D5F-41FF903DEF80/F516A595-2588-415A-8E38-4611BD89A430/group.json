@@ -11,7 +11,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 221.9999999999999,
+    "height": 222,
     "width": 376,
     "x": 0,
     "y": 84
@@ -20,7 +20,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "name": "google detail",
   "nameIsFixed": true,
   "resizingType": 0,

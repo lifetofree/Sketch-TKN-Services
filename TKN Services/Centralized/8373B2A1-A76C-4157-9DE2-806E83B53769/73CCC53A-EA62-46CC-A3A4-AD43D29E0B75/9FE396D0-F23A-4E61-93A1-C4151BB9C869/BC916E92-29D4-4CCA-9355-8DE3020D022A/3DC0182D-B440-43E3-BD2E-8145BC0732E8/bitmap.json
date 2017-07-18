@@ -1,6 +1,6 @@
 {
   "_class": "bitmap",
-  "do_objectID": "64747DFC-E879-4A17-A1D9-07F2B3F68A21",
+  "do_objectID": "3DC0182D-B440-43E3-BD2E-8145BC0732E8",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [],
@@ -11,10 +11,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
-    "height": 31,
-    "width": 31,
-    "x": 309,
-    "y": 52
+    "height": 25,
+    "width": 25,
+    "x": 22,
+    "y": 0
   },
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
