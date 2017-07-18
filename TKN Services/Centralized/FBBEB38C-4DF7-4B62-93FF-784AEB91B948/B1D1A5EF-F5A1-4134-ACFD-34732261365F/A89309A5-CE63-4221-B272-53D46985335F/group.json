@@ -61,10 +61,6 @@
       "class": "shapeGroup"
     },
     {
-      "id": "F7EF54D8-FF93-4C31-A62F-198F51DD1B7F",
-      "class": "bitmap"
-    },
-    {
       "id": "62FD45F8-242E-42BD-9454-566812E40B8F",
       "class": "shapeGroup"
     },
@@ -91,6 +87,10 @@
     {
       "id": "CD06CBB6-E82D-4BFC-A1AE-160F562DDC21",
       "class": "shapeGroup"
+    },
+    {
+      "id": "F7EF54D8-FF93-4C31-A62F-198F51DD1B7F",
+      "class": "bitmap"
     }
   ]
 }

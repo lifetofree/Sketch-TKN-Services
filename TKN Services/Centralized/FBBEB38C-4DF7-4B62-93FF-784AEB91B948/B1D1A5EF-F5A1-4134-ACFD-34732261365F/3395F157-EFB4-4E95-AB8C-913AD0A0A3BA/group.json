@@ -61,10 +61,6 @@
       "class": "shapeGroup"
     },
     {
-      "id": "34B353CC-184F-4490-A924-3AE2C77FD08F",
-      "class": "bitmap"
-    },
-    {
       "id": "DEF9EDCC-05B2-4FD5-9DBF-973CACD8A552",
       "class": "shapeGroup"
     },
@@ -91,6 +87,10 @@
     {
       "id": "CE672DAC-4131-4C6A-9996-A4AB29EFCC71",
       "class": "shapeGroup"
+    },
+    {
+      "id": "34B353CC-184F-4490-A924-3AE2C77FD08F",
+      "class": "bitmap"
     }
   ]
 }
