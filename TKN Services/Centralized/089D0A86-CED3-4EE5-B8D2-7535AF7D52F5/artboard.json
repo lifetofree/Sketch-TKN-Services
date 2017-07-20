@@ -20,7 +20,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "name": "SAP - Job Transfer",
   "nameIsFixed": true,
   "resizingType": 0,
@@ -37,6 +37,10 @@
     {
       "id": "2A1158D5-9686-480C-AE91-59809F7E7399",
       "class": "bitmap"
+    },
+    {
+      "id": "E7E7AC2D-24B6-4FDD-9EE0-9D1C7A85D376",
+      "class": "group"
     },
     {
       "id": "F550784D-D429-4E5A-8586-A560B1D03330",

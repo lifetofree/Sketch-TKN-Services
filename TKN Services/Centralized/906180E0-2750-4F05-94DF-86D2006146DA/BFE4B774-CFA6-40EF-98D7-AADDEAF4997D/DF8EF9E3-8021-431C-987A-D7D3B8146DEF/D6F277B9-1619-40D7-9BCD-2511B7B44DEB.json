@@ -12,8 +12,8 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 15,
-    "width": 46,
-    "x": 164,
+    "width": 59,
+    "x": 157.5,
     "y": 15
   },
   "isFlippedHorizontal": false,
@@ -21,7 +21,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Second",
+  "name": "Comment",
   "nameIsFixed": false,
   "resizingType": 0,
   "rotation": 0,
@@ -242,7 +242,7 @@
                 "UID": 3
               }
             },
-            "Second",
+            "Comment",
             {
               "NS.keys": [
                 {
@@ -422,7 +422,7 @@
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "dontSynchroniseWithSymbol": false,
-  "glyphBounds": "{{0, 0}, {46, 15.513671875}}",
+  "glyphBounds": "{{0, 0}, {59, 13}}",
   "heightIsClipped": false,
   "lineSpacingBehaviour": 0,
   "textBehaviour": 0
