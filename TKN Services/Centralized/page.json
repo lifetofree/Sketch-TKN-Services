@@ -27,6 +27,9 @@
   "rotation": 0,
   "shouldBreakMaskChain": false,
   "userInfo": {
+    "com.abynim.sketchplugins.userflows": {
+      "homeScreenID": "5F238C37-AC34-48B7-85D8-D32A6DCF60D6"
+    },
     "com.invision.prototype": {
       "lastUsedGestureID": 0
     }
@@ -69,6 +72,10 @@
     },
     {
       "id": "FBBEB38C-4DF7-4B62-93FF-784AEB91B948",
+      "class": "artboard"
+    },
+    {
+      "id": "522ED5C0-2A1C-4FD1-B498-6045ECC5F9E6",
       "class": "artboard"
     },
     {

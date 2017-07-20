@@ -221,24 +221,23 @@
                 "UID": 21
               }
             },
-            "NSColor",
-            "MSAttributedStringFontAttribute",
             "NSParagraphStyle",
+            "MSAttributedStringFontAttribute",
+            "NSColor",
             "NSKern",
             {
-              "NSRGB": {
-                "type": "Buffer",
-                "data": "1 1 1\u0000"
+              "NSTabStops": {
+                "UID": 0
               },
-              "NSColorSpace": 1,
               "$class": {
                 "UID": 9
-              }
+              },
+              "NSAlignment": 4
             },
             {
-              "$classname": "NSColor",
+              "$classname": "NSParagraphStyle",
               "$classes": [
-                "NSColor",
+                "NSParagraphStyle",
                 "NSObject"
               ]
             },
@@ -291,18 +290,19 @@
               ]
             },
             {
-              "NSTabStops": {
-                "UID": 0
+              "NSRGB": {
+                "type": "Buffer",
+                "data": "1 1 1\u0000"
               },
+              "NSColorSpace": 1,
               "$class": {
                 "UID": 19
-              },
-              "NSAlignment": 4
+              }
             },
             {
-              "$classname": "NSParagraphStyle",
+              "$classname": "NSColor",
               "$classes": [
-                "NSParagraphStyle",
+                "NSColor",
                 "NSObject"
               ]
             },

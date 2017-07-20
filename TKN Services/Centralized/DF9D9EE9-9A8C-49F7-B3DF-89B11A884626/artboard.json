@@ -5,7 +5,7 @@
     "_class": "exportOptions",
     "exportFormats": [],
     "includedLayerIds": [],
-    "layerOptions": 0,
+    "layerOptions": 2,
     "shouldTrim": false
   },
   "frame": {
@@ -26,13 +26,18 @@
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
+  "userInfo": {
+    "com.abynim.sketchplugins.userflows": {
+      "artboardID": "DF9D9EE9-9A8C-49F7-B3DF-89B11A884626"
+    }
+  },
   "style": {
     "_class": "style",
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
   },
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "layers": [
     {
       "id": "11201693-28CC-4E46-9A3D-D6FC6F59D8D5",

@@ -5,7 +5,7 @@
     "_class": "exportOptions",
     "exportFormats": [],
     "includedLayerIds": [],
-    "layerOptions": 0,
+    "layerOptions": 2,
     "shouldTrim": false
   },
   "frame": {
@@ -26,6 +26,11 @@
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
+  "userInfo": {
+    "com.abynim.sketchplugins.userflows": {
+      "artboardID": "72396EB0-3783-4F3E-86FE-39825CA07B2B"
+    }
+  },
   "style": {
     "_class": "style",
     "endDecorationType": 0,

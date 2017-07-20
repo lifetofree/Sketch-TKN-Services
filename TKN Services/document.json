@@ -109,6 +109,9 @@
     },
     "com.invisionlabs.getty1": {
       "ids": "[{\"id\":\"540272899\",\"layerId\":\"33311FDC-5B7A-4731-A133-38CC406D92C9\"}]"
+    },
+    "com.abynim.sketchplugins.userflows": {
+      "lastUsedFlowPage": "_Flows"
     }
   }
 }

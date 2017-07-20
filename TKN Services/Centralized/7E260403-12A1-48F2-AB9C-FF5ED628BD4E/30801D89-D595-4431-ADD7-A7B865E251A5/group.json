@@ -1,0 +1,94 @@
+{
+  "_class": "group",
+  "do_objectID": "30801D89-D595-4431-ADD7-A7B865E251A5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [],
+    "includedLayerIds": [],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 259,
+    "width": 375,
+    "x": 0,
+    "y": 410
+  },
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "option picker",
+  "nameIsFixed": true,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "hasClickThrough": false,
+  "layers": [
+    {
+      "id": "A37EF83B-CD89-4A72-BA03-638E7ABD5598",
+      "class": "shapeGroup"
+    },
+    {
+      "id": "2A1DDA25-E7C4-4EC7-90C3-417AABAF2FAC",
+      "class": "text"
+    },
+    {
+      "id": "2322E6CC-7BB2-40E7-82AC-73E2A30ED24D",
+      "class": "text"
+    },
+    {
+      "id": "231ED093-FEA5-4984-95D1-286CD17AB026",
+      "class": "text"
+    },
+    {
+      "id": "9A07F82B-4D59-41D1-8AC9-0D12E079F725",
+      "class": "text"
+    },
+    {
+      "id": "2EAB35AE-F9C3-4D73-BF9F-C919B72A0EC2",
+      "class": "shapeGroup"
+    },
+    {
+      "id": "AADF7FD8-A62C-4619-9687-22BBBC91C6BE",
+      "class": "text"
+    },
+    {
+      "id": "DE22022E-DB14-4C7F-BFEA-AFF1D1F6EFD4",
+      "class": "text"
+    },
+    {
+      "id": "7FDB69F4-2A23-4677-9A4C-80D87A9B9475",
+      "class": "text"
+    },
+    {
+      "id": "3DB6E76C-39C3-4897-9462-26D73988BA38",
+      "class": "text"
+    },
+    {
+      "id": "AD2B50B3-B5E5-412F-8ABD-320B8C736FE4",
+      "class": "text"
+    },
+    {
+      "id": "8EE3FD0E-A603-4854-BBF1-13535D9BA6A2",
+      "class": "shapeGroup"
+    },
+    {
+      "id": "9383AA42-EB15-4915-8E33-8E0ED4E30EAB",
+      "class": "shapeGroup"
+    },
+    {
+      "id": "CAC06FDA-B560-49D5-98B9-F658D0162A2A",
+      "class": "group"
+    }
+  ]
+}

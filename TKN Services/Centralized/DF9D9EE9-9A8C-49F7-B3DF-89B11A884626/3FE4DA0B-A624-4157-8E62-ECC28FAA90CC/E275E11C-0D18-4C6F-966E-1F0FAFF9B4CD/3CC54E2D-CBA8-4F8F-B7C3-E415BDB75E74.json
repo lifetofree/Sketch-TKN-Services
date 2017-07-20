@@ -165,13 +165,13 @@
                 "UID": 2
               },
               "NSAttributeInfo": {
-                "UID": 30
+                "UID": 35
               },
               "NSAttributes": {
                 "UID": 3
               },
               "$class": {
-                "UID": 32
+                "UID": 37
               }
             },
             "ฝ่าย : การจัดการระบบสารสนเทศ\nสถานที่แจ้ง : นพวงศ์\nรายละเอียด : คอมพิวเตอร์เสีย เปิดเครื่องไม่ติด รบกวนหน่อย",
@@ -184,14 +184,14 @@
                   "UID": 20
                 },
                 {
-                  "UID": 24
+                  "UID": 28
                 },
                 {
-                  "UID": 28
+                  "UID": 32
                 }
               ],
               "$class": {
-                "UID": 29
+                "UID": 34
               }
             },
             {
@@ -308,7 +308,7 @@
             {
               "NS.keys": [
                 {
-                  "UID": 5
+                  "UID": 21
                 },
                 {
                   "UID": 6
@@ -316,31 +316,32 @@
               ],
               "NS.objects": [
                 {
-                  "UID": 21
+                  "UID": 22
                 },
                 {
-                  "UID": 15
+                  "UID": 27
                 }
               ],
               "$class": {
                 "UID": 19
               }
             },
+            "MSAttributedStringFontAttribute",
             {
               "$class": {
                 "UID": 14
               },
               "NSFontDescriptorAttributes": {
-                "UID": 22
+                "UID": 23
               }
             },
             {
               "NS.keys": [
                 {
-                  "UID": 9
+                  "UID": 24
                 },
                 {
-                  "UID": 10
+                  "UID": 25
                 }
               ],
               "NS.objects": [
@@ -348,21 +349,36 @@
                   "UID": 11
                 },
                 {
-                  "UID": 23
+                  "UID": 26
                 }
               ],
               "$class": {
                 "UID": 13
               }
             },
+            "NSFontSizeAttribute",
+            "NSFontNameAttribute",
             ".SFNSText",
+            {
+              "NSRGB": {
+                "type": "Buffer",
+                "data": "0.937254902 0.937254902 0.9568627451\u0000"
+              },
+              "NSColorSpace": 1,
+              "NSCustomColorSpace": {
+                "UID": 16
+              },
+              "$class": {
+                "UID": 18
+              }
+            },
             {
               "NS.keys": [
                 {
                   "UID": 6
                 },
                 {
-                  "UID": 25
+                  "UID": 29
                 },
                 {
                   "UID": 5
@@ -373,7 +389,7 @@
                   "UID": 15
                 },
                 {
-                  "UID": 26
+                  "UID": 30
                 },
                 {
                   "UID": 7
@@ -391,7 +407,7 @@
               "NSAlignment": 4,
               "NSAllowsTighteningForTruncation": 1,
               "$class": {
-                "UID": 27
+                "UID": 31
               }
             },
             {
@@ -407,25 +423,35 @@
                   "UID": 6
                 },
                 {
-                  "UID": 25
-                },
-                {
-                  "UID": 5
-                }
-              ],
-              "NS.objects": [
-                {
-                  "UID": 15
-                },
-                {
-                  "UID": 26
+                  "UID": 29
                 },
                 {
                   "UID": 21
                 }
               ],
+              "NS.objects": [
+                {
+                  "UID": 27
+                },
+                {
+                  "UID": 33
+                },
+                {
+                  "UID": 22
+                }
+              ],
               "$class": {
                 "UID": 19
+              }
+            },
+            {
+              "NSTabStops": {
+                "UID": 0
+              },
+              "NSAlignment": 4,
+              "NSAllowsTighteningForTruncation": 1,
+              "$class": {
+                "UID": 31
               }
             },
             {
@@ -442,7 +468,7 @@
                 "data": "\u0004\u0000\u0003\u0001\u0015\u0000\u0001\u0001\u000b\u0000\u0003\u0001\u0006\u0000\u0001\u0001\n\u0002\u0003\u0003\u000f\u0002\u0001\u0003\u0011\u0002\u0001\u0003\n\u0002"
               },
               "$class": {
-                "UID": 31
+                "UID": 36
               }
             },
             {

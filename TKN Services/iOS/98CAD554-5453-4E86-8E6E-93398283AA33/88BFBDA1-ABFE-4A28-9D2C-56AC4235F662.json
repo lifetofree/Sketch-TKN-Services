@@ -243,10 +243,10 @@
                   "UID": 9
                 },
                 {
-                  "UID": 10
+                  "UID": 11
                 },
                 {
-                  "UID": 18
+                  "UID": 19
                 },
                 {
                   "UID": 20
@@ -256,38 +256,56 @@
                 "UID": 24
               }
             },
-            "NSKern",
-            "MSAttributedStringFontAttribute",
             "NSParagraphStyle",
+            "MSAttributedStringFontAttribute",
+            "NSKern",
             "NSColor",
-            -0.15000000596046448,
+            {
+              "NSAlignment": 1,
+              "NSTabStops": {
+                "UID": 0
+              },
+              "NSMinLineHeight": 18,
+              "$class": {
+                "UID": 10
+              },
+              "NSMaxLineHeight": 18
+            },
+            {
+              "$classname": "NSMutableParagraphStyle",
+              "$classes": [
+                "NSMutableParagraphStyle",
+                "NSParagraphStyle",
+                "NSObject"
+              ]
+            },
             {
               "$class": {
-                "UID": 17
+                "UID": 18
               },
               "NSFontDescriptorAttributes": {
-                "UID": 11
+                "UID": 12
               }
             },
             {
               "NS.keys": [
                 {
-                  "UID": 12
+                  "UID": 13
                 },
                 {
-                  "UID": 13
+                  "UID": 14
                 }
               ],
               "NS.objects": [
                 {
-                  "UID": 14
+                  "UID": 15
                 },
                 {
-                  "UID": 15
+                  "UID": 16
                 }
               ],
               "$class": {
-                "UID": 16
+                "UID": 17
               }
             },
             "NSFontSizeAttribute",
@@ -309,25 +327,7 @@
                 "NSObject"
               ]
             },
-            {
-              "NSAlignment": 1,
-              "NSTabStops": {
-                "UID": 0
-              },
-              "NSMinLineHeight": 18,
-              "$class": {
-                "UID": 19
-              },
-              "NSMaxLineHeight": 18
-            },
-            {
-              "$classname": "NSMutableParagraphStyle",
-              "$classes": [
-                "NSMutableParagraphStyle",
-                "NSParagraphStyle",
-                "NSObject"
-              ]
-            },
+            -0.15000000596046448,
             {
               "NSRGB": {
                 "type": "Buffer",
@@ -371,7 +371,7 @@
             {
               "NS.keys": [
                 {
-                  "UID": 5
+                  "UID": 7
                 },
                 {
                   "UID": 6
@@ -386,12 +386,12 @@
                   "UID": 27
                 },
                 {
-                  "UID": 7
+                  "UID": 5
                 }
               ],
               "NS.objects": [
                 {
-                  "UID": 9
+                  "UID": 19
                 },
                 {
                   "UID": 28
@@ -406,7 +406,7 @@
                   "UID": 31
                 },
                 {
-                  "UID": 18
+                  "UID": 9
                 }
               ],
               "$class": {
@@ -417,7 +417,7 @@
             "NSUnderline",
             {
               "$class": {
-                "UID": 17
+                "UID": 18
               },
               "NSFontDescriptorAttributes": {
                 "UID": 29
@@ -426,22 +426,22 @@
             {
               "NS.keys": [
                 {
-                  "UID": 12
+                  "UID": 13
                 },
                 {
-                  "UID": 13
+                  "UID": 14
                 }
               ],
               "NS.objects": [
                 {
-                  "UID": 14
+                  "UID": 15
                 },
                 {
                   "UID": 30
                 }
               ],
               "$class": {
-                "UID": 16
+                "UID": 17
               }
             },
             "SFUIText-Medium",

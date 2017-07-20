@@ -242,58 +242,66 @@
                   "UID": 9
                 },
                 {
-                  "UID": 11
+                  "UID": 13
                 },
                 {
-                  "UID": 19
+                  "UID": 21
                 },
                 {
-                  "UID": 20
+                  "UID": 23
                 }
               ],
               "$class": {
                 "UID": 24
               }
             },
-            "NSParagraphStyle",
-            "MSAttributedStringFontAttribute",
-            "NSKern",
             "NSColor",
+            "MSAttributedStringFontAttribute",
+            "NSParagraphStyle",
+            "NSKern",
             {
-              "NSTabStops": {
-                "UID": 0
+              "NSRGB": {
+                "type": "Buffer",
+                "data": "0.9960784314 0.2196078431 0.1411764706\u0000"
               },
-              "$class": {
+              "NSColorSpace": 1,
+              "NSCustomColorSpace": {
                 "UID": 10
               },
-              "NSAlignment": 2
+              "$class": {
+                "UID": 12
+              }
             },
             {
-              "$classname": "NSMutableParagraphStyle",
+              "NSID": 1,
+              "$class": {
+                "UID": 11
+              }
+            },
+            {
+              "$classname": "NSColorSpace",
               "$classes": [
-                "NSMutableParagraphStyle",
-                "NSParagraphStyle",
+                "NSColorSpace",
+                "NSObject"
+              ]
+            },
+            {
+              "$classname": "NSColor",
+              "$classes": [
+                "NSColor",
                 "NSObject"
               ]
             },
             {
               "$class": {
-                "UID": 18
+                "UID": 20
               },
               "NSFontDescriptorAttributes": {
-                "UID": 12
+                "UID": 14
               }
             },
             {
               "NS.keys": [
-                {
-                  "UID": 13
-                },
-                {
-                  "UID": 14
-                }
-              ],
-              "NS.objects": [
                 {
                   "UID": 15
                 },
@@ -301,8 +309,16 @@
                   "UID": 16
                 }
               ],
+              "NS.objects": [
+                {
+                  "UID": 17
+                },
+                {
+                  "UID": 18
+                }
+              ],
               "$class": {
-                "UID": 17
+                "UID": 19
               }
             },
             "NSFontSizeAttribute",
@@ -324,40 +340,24 @@
                 "NSObject"
               ]
             },
-            0.3799999952316284,
             {
-              "NSRGB": {
-                "type": "Buffer",
-                "data": "0.9960784314 0.2196078431 0.1411764706\u0000"
+              "NSTabStops": {
+                "UID": 0
               },
-              "NSColorSpace": 1,
-              "NSCustomColorSpace": {
-                "UID": 21
-              },
-              "$class": {
-                "UID": 23
-              }
-            },
-            {
-              "NSID": 1,
               "$class": {
                 "UID": 22
-              }
+              },
+              "NSAlignment": 2
             },
             {
-              "$classname": "NSColorSpace",
+              "$classname": "NSMutableParagraphStyle",
               "$classes": [
-                "NSColorSpace",
+                "NSMutableParagraphStyle",
+                "NSParagraphStyle",
                 "NSObject"
               ]
             },
-            {
-              "$classname": "NSColor",
-              "$classes": [
-                "NSColor",
-                "NSObject"
-              ]
-            },
+            0.3799999952316284,
             {
               "$classname": "NSDictionary",
               "$classes": [
@@ -385,13 +385,13 @@
                   "UID": 9
                 },
                 {
-                  "UID": 11
+                  "UID": 13
+                },
+                {
+                  "UID": 21
                 },
                 {
                   "UID": 26
-                },
-                {
-                  "UID": 20
                 }
               ],
               "$class": {

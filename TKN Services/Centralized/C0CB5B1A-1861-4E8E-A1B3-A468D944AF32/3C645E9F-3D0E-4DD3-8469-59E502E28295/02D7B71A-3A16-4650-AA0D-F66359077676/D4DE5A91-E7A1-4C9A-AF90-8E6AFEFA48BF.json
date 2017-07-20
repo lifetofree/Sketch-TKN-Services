@@ -11,17 +11,17 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 15,
-    "width": 27,
-    "x": 59.5,
-    "y": 15
+    "height": 18,
+    "width": 36,
+    "x": 55,
+    "y": 13
   },
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "First",
+  "name": "Detail",
   "nameIsFixed": false,
   "resizingType": 0,
   "rotation": 0,
@@ -35,6 +35,55 @@
     "textStyle": {
       "_class": "textStyle",
       "encodedAttributes": {
+        "NSColor": {
+          "_archive": [
+            {
+              "$version": 100000,
+              "$objects": [
+                "$null",
+                {
+                  "NSRGB": {
+                    "type": "Buffer",
+                    "data": "1 1 1\u0000"
+                  },
+                  "NSColorSpace": 1,
+                  "NSCustomColorSpace": {
+                    "UID": 2
+                  },
+                  "$class": {
+                    "UID": 4
+                  }
+                },
+                {
+                  "NSID": 1,
+                  "$class": {
+                    "UID": 3
+                  }
+                },
+                {
+                  "$classname": "NSColorSpace",
+                  "$classes": [
+                    "NSColorSpace",
+                    "NSObject"
+                  ]
+                },
+                {
+                  "$classname": "NSColor",
+                  "$classes": [
+                    "NSColor",
+                    "NSObject"
+                  ]
+                }
+              ],
+              "$archiver": "NSKeyedArchiver",
+              "$top": {
+                "root": {
+                  "UID": 1
+                }
+              }
+            }
+          ]
+        },
         "MSAttributedStringFontAttribute": {
           "_archive": [
             {
@@ -73,7 +122,7 @@
                 "NSFontSizeAttribute",
                 "NSFontNameAttribute",
                 13,
-                "SFUIText-Regular",
+                "Thonburi",
                 {
                   "$classname": "NSMutableDictionary",
                   "$classes": [
@@ -86,56 +135,6 @@
                   "$classname": "NSFontDescriptor",
                   "$classes": [
                     "NSFontDescriptor",
-                    "NSObject"
-                  ]
-                }
-              ],
-              "$archiver": "NSKeyedArchiver",
-              "$top": {
-                "root": {
-                  "UID": 1
-                }
-              }
-            }
-          ]
-        },
-        "NSKern": -0.07999999821186066,
-        "NSColor": {
-          "_archive": [
-            {
-              "$version": 100000,
-              "$objects": [
-                "$null",
-                {
-                  "NSRGB": {
-                    "type": "Buffer",
-                    "data": "1 1 1\u0000"
-                  },
-                  "NSColorSpace": 1,
-                  "NSCustomColorSpace": {
-                    "UID": 2
-                  },
-                  "$class": {
-                    "UID": 4
-                  }
-                },
-                {
-                  "NSID": 1,
-                  "$class": {
-                    "UID": 3
-                  }
-                },
-                {
-                  "$classname": "NSColorSpace",
-                  "$classes": [
-                    "NSColorSpace",
-                    "NSObject"
-                  ]
-                },
-                {
-                  "$classname": "NSColor",
-                  "$classes": [
-                    "NSColor",
                     "NSObject"
                   ]
                 }
@@ -197,7 +196,8 @@
               }
             }
           ]
-        }
+        },
+        "NSKern": -0.07999999821186066
       }
     }
   },
@@ -220,7 +220,7 @@
                 "UID": 3
               }
             },
-            "First",
+            "Detail",
             {
               "NS.keys": [
                 {
@@ -247,47 +247,47 @@
                   "UID": 20
                 },
                 {
-                  "UID": 24
+                  "UID": 21
                 }
               ],
               "$class": {
                 "UID": 25
               }
             },
-            "NSColor",
-            "MSAttributedStringFontAttribute",
             "NSParagraphStyle",
+            "MSAttributedStringFontAttribute",
             "NSKern",
+            "NSColor",
             {
-              "NSRGB": {
-                "type": "Buffer",
-                "data": "1 1 1\u0000"
+              "NSTabStops": {
+                "UID": 0
               },
-              "NSColorSpace": 1,
-              "NSCustomColorSpace": {
-                "UID": 9
-              },
+              "NSAlignment": 2,
               "$class": {
                 "UID": 11
+              },
+              "NSTextLists": {
+                "UID": 9
               }
             },
             {
-              "NSID": 1,
+              "NS.objects": [],
               "$class": {
                 "UID": 10
               }
             },
             {
-              "$classname": "NSColorSpace",
+              "$classname": "NSArray",
               "$classes": [
-                "NSColorSpace",
+                "NSArray",
                 "NSObject"
               ]
             },
             {
-              "$classname": "NSColor",
+              "$classname": "NSMutableParagraphStyle",
               "$classes": [
-                "NSColor",
+                "NSMutableParagraphStyle",
+                "NSParagraphStyle",
                 "NSObject"
               ]
             },
@@ -323,7 +323,7 @@
             "NSFontSizeAttribute",
             "NSFontNameAttribute",
             13,
-            "SFUIText-Regular",
+            "Thonburi",
             {
               "$classname": "NSMutableDictionary",
               "$classes": [
@@ -339,40 +339,40 @@
                 "NSObject"
               ]
             },
+            -0.07999999821186066,
             {
-              "NSTabStops": {
-                "UID": 0
+              "NSRGB": {
+                "type": "Buffer",
+                "data": "1 1 1\u0000"
               },
-              "NSAlignment": 2,
+              "NSColorSpace": 1,
+              "NSCustomColorSpace": {
+                "UID": 22
+              },
+              "$class": {
+                "UID": 24
+              }
+            },
+            {
+              "NSID": 1,
               "$class": {
                 "UID": 23
-              },
-              "NSTextLists": {
-                "UID": 21
               }
             },
             {
-              "NS.objects": [],
-              "$class": {
-                "UID": 22
-              }
-            },
-            {
-              "$classname": "NSArray",
+              "$classname": "NSColorSpace",
               "$classes": [
-                "NSArray",
+                "NSColorSpace",
                 "NSObject"
               ]
             },
             {
-              "$classname": "NSMutableParagraphStyle",
+              "$classname": "NSColor",
               "$classes": [
-                "NSMutableParagraphStyle",
-                "NSParagraphStyle",
+                "NSColor",
                 "NSObject"
               ]
             },
-            -0.07999999821186066,
             {
               "$classname": "NSDictionary",
               "$classes": [
@@ -400,7 +400,7 @@
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "dontSynchroniseWithSymbol": false,
-  "glyphBounds": "{{0, 0}, {27, 15.513671875}}",
+  "glyphBounds": "{{0, 0}, {35, 14}}",
   "heightIsClipped": false,
   "lineSpacingBehaviour": 0,
   "textBehaviour": 0

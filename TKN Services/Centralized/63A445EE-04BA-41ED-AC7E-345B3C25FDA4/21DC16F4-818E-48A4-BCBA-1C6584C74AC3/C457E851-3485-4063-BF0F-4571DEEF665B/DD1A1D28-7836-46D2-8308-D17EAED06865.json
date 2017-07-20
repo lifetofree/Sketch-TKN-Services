@@ -11,9 +11,9 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 16,
-    "width": 32,
-    "x": 285.5,
+    "height": 15,
+    "width": 82,
+    "x": 260.5,
     "y": 14.5
   },
   "isFlippedHorizontal": false,
@@ -21,7 +21,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Third",
+  "name": "Administrator",
   "nameIsFixed": false,
   "resizingType": 0,
   "rotation": 0,
@@ -220,7 +220,7 @@
                 "UID": 3
               }
             },
-            "Third",
+            "Administrator",
             {
               "NS.keys": [
                 {
@@ -254,40 +254,40 @@
                 "UID": 25
               }
             },
-            "NSColor",
-            "MSAttributedStringFontAttribute",
             "NSParagraphStyle",
+            "MSAttributedStringFontAttribute",
+            "NSColor",
             "NSKern",
             {
-              "NSRGB": {
-                "type": "Buffer",
-                "data": "1 1 1\u0000"
+              "NSTabStops": {
+                "UID": 0
               },
-              "NSColorSpace": 1,
-              "NSCustomColorSpace": {
-                "UID": 9
-              },
+              "NSAlignment": 2,
               "$class": {
                 "UID": 11
+              },
+              "NSTextLists": {
+                "UID": 9
               }
             },
             {
-              "NSID": 1,
+              "NS.objects": [],
               "$class": {
                 "UID": 10
               }
             },
             {
-              "$classname": "NSColorSpace",
+              "$classname": "NSArray",
               "$classes": [
-                "NSColorSpace",
+                "NSArray",
                 "NSObject"
               ]
             },
             {
-              "$classname": "NSColor",
+              "$classname": "NSMutableParagraphStyle",
               "$classes": [
-                "NSColor",
+                "NSMutableParagraphStyle",
+                "NSParagraphStyle",
                 "NSObject"
               ]
             },
@@ -340,35 +340,35 @@
               ]
             },
             {
-              "NSTabStops": {
-                "UID": 0
+              "NSRGB": {
+                "type": "Buffer",
+                "data": "1 1 1\u0000"
               },
-              "NSAlignment": 2,
+              "NSColorSpace": 1,
+              "NSCustomColorSpace": {
+                "UID": 21
+              },
               "$class": {
                 "UID": 23
-              },
-              "NSTextLists": {
-                "UID": 21
               }
             },
             {
-              "NS.objects": [],
+              "NSID": 1,
               "$class": {
                 "UID": 22
               }
             },
             {
-              "$classname": "NSArray",
+              "$classname": "NSColorSpace",
               "$classes": [
-                "NSArray",
+                "NSColorSpace",
                 "NSObject"
               ]
             },
             {
-              "$classname": "NSMutableParagraphStyle",
+              "$classname": "NSColor",
               "$classes": [
-                "NSMutableParagraphStyle",
-                "NSParagraphStyle",
+                "NSColor",
                 "NSObject"
               ]
             },
@@ -400,8 +400,8 @@
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "dontSynchroniseWithSymbol": false,
-  "glyphBounds": "{{0, 0}, {31, 14}}",
+  "glyphBounds": "{{0, 0}, {82, 13}}",
   "heightIsClipped": false,
   "lineSpacingBehaviour": 0,
-  "textBehaviour": 1
+  "textBehaviour": 0
 }
