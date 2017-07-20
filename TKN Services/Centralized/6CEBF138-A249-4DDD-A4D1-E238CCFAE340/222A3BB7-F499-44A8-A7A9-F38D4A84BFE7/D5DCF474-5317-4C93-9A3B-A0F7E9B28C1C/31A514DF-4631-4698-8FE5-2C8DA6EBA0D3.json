@@ -12,8 +12,8 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 15,
-    "width": 32,
-    "x": 285.5,
+    "width": 82,
+    "x": 260.5,
     "y": 15
   },
   "isFlippedHorizontal": false,
@@ -21,7 +21,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Third",
+  "name": "Administrator",
   "nameIsFixed": false,
   "resizingType": 0,
   "rotation": 0,
@@ -242,7 +242,7 @@
                 "UID": 3
               }
             },
-            "Third",
+            "Administrator",
             {
               "NS.keys": [
                 {
@@ -422,7 +422,7 @@
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "dontSynchroniseWithSymbol": false,
-  "glyphBounds": "{{0, 0}, {31, 13}}",
+  "glyphBounds": "{{0, 0}, {82, 13}}",
   "heightIsClipped": false,
   "lineSpacingBehaviour": 0,
   "textBehaviour": 0

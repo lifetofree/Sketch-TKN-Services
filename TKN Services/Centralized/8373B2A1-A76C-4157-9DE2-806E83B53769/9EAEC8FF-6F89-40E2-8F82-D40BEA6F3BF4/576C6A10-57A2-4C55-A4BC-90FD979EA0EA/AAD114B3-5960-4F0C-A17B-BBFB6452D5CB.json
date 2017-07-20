@@ -12,8 +12,8 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 12,
-    "width": 20,
-    "x": 2.5,
+    "width": 18,
+    "x": 3.5,
     "y": 28.5
   },
   "isFlippedHorizontal": false,
@@ -36,6 +36,55 @@
     "textStyle": {
       "_class": "textStyle",
       "encodedAttributes": {
+        "NSColor": {
+          "_archive": [
+            {
+              "$version": 100000,
+              "$objects": [
+                "$null",
+                {
+                  "NSRGB": {
+                    "type": "Buffer",
+                    "data": "0 0.462745098 1\u0000"
+                  },
+                  "NSColorSpace": 1,
+                  "NSCustomColorSpace": {
+                    "UID": 2
+                  },
+                  "$class": {
+                    "UID": 4
+                  }
+                },
+                {
+                  "NSID": 1,
+                  "$class": {
+                    "UID": 3
+                  }
+                },
+                {
+                  "$classname": "NSColorSpace",
+                  "$classes": [
+                    "NSColorSpace",
+                    "NSObject"
+                  ]
+                },
+                {
+                  "$classname": "NSColor",
+                  "$classes": [
+                    "NSColor",
+                    "NSObject"
+                  ]
+                }
+              ],
+              "$archiver": "NSKeyedArchiver",
+              "$top": {
+                "root": {
+                  "UID": 1
+                }
+              }
+            }
+          ]
+        },
         "MSAttributedStringFontAttribute": {
           "_archive": [
             {
@@ -101,55 +150,6 @@
           ]
         },
         "NSKern": 0.119999997317791,
-        "NSColor": {
-          "_archive": [
-            {
-              "$version": 100000,
-              "$objects": [
-                "$null",
-                {
-                  "NSRGB": {
-                    "type": "Buffer",
-                    "data": "0 0.462745098 1\u0000"
-                  },
-                  "NSColorSpace": 1,
-                  "NSCustomColorSpace": {
-                    "UID": 2
-                  },
-                  "$class": {
-                    "UID": 4
-                  }
-                },
-                {
-                  "NSID": 1,
-                  "$class": {
-                    "UID": 3
-                  }
-                },
-                {
-                  "$classname": "NSColorSpace",
-                  "$classes": [
-                    "NSColorSpace",
-                    "NSObject"
-                  ]
-                },
-                {
-                  "$classname": "NSColor",
-                  "$classes": [
-                    "NSColor",
-                    "NSObject"
-                  ]
-                }
-              ],
-              "$archiver": "NSKeyedArchiver",
-              "$top": {
-                "root": {
-                  "UID": 1
-                }
-              }
-            }
-          ]
-        },
         "NSParagraphStyle": {
           "_archive": [
             {
@@ -198,32 +198,19 @@
               "NSString": {
                 "UID": 2
               },
-              "NSAttributeInfo": {
-                "UID": 28
+              "$class": {
+                "UID": 24
               },
               "NSAttributes": {
                 "UID": 3
-              },
-              "$class": {
-                "UID": 30
               }
             },
-            "One",
+            "List",
             {
-              "NS.objects": [
+              "NS.keys": [
                 {
                   "UID": 4
                 },
-                {
-                  "UID": 25
-                }
-              ],
-              "$class": {
-                "UID": 27
-              }
-            },
-            {
-              "NS.keys": [
                 {
                   "UID": 5
                 },
@@ -232,27 +219,24 @@
                 },
                 {
                   "UID": 7
-                },
-                {
-                  "UID": 8
                 }
               ],
               "NS.objects": [
                 {
+                  "UID": 8
+                },
+                {
                   "UID": 9
                 },
                 {
-                  "UID": 10
+                  "UID": 17
                 },
                 {
-                  "UID": 18
-                },
-                {
-                  "UID": 20
+                  "UID": 19
                 }
               ],
               "$class": {
-                "UID": 24
+                "UID": 23
               }
             },
             "NSKern",
@@ -262,31 +246,31 @@
             0.11999999731779099,
             {
               "$class": {
-                "UID": 17
+                "UID": 16
               },
               "NSFontDescriptorAttributes": {
-                "UID": 11
+                "UID": 10
               }
             },
             {
               "NS.keys": [
                 {
-                  "UID": 12
+                  "UID": 11
                 },
                 {
-                  "UID": 13
+                  "UID": 12
                 }
               ],
               "NS.objects": [
                 {
-                  "UID": 14
+                  "UID": 13
                 },
                 {
-                  "UID": 15
+                  "UID": 14
                 }
               ],
               "$class": {
-                "UID": 16
+                "UID": 15
               }
             },
             "NSFontSizeAttribute",
@@ -313,7 +297,7 @@
                 "UID": 0
               },
               "$class": {
-                "UID": 19
+                "UID": 18
               },
               "NSAlignment": 2
             },
@@ -332,16 +316,16 @@
               },
               "NSColorSpace": 1,
               "NSCustomColorSpace": {
-                "UID": 21
+                "UID": 20
               },
               "$class": {
-                "UID": 23
+                "UID": 22
               }
             },
             {
               "NSID": 1,
               "$class": {
-                "UID": 22
+                "UID": 21
               }
             },
             {
@@ -366,65 +350,6 @@
               ]
             },
             {
-              "NS.keys": [
-                {
-                  "UID": 5
-                },
-                {
-                  "UID": 6
-                },
-                {
-                  "UID": 7
-                },
-                {
-                  "UID": 8
-                }
-              ],
-              "NS.objects": [
-                {
-                  "UID": 26
-                },
-                {
-                  "UID": 10
-                },
-                {
-                  "UID": 18
-                },
-                {
-                  "UID": 20
-                }
-              ],
-              "$class": {
-                "UID": 24
-              }
-            },
-            0,
-            {
-              "$classname": "NSMutableArray",
-              "$classes": [
-                "NSMutableArray",
-                "NSArray",
-                "NSObject"
-              ]
-            },
-            {
-              "NS.data": {
-                "type": "Buffer",
-                "data": "\u0002\u0000\u0001\u0001"
-              },
-              "$class": {
-                "UID": 29
-              }
-            },
-            {
-              "$classname": "NSMutableData",
-              "$classes": [
-                "NSMutableData",
-                "NSData",
-                "NSObject"
-              ]
-            },
-            {
               "$classname": "NSAttributedString",
               "$classes": [
                 "NSAttributedString",
@@ -444,7 +369,7 @@
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "dontSynchroniseWithSymbol": false,
-  "glyphBounds": "{{0, 0}, {20, 12}}",
+  "glyphBounds": "{{0, 0}, {17, 11}}",
   "heightIsClipped": false,
   "lineSpacingBehaviour": 0,
   "textBehaviour": 0

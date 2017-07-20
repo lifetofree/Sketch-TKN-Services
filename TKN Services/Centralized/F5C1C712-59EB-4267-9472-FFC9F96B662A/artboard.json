@@ -20,7 +20,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "name": "Google - Create",
   "nameIsFixed": true,
   "resizingType": 0,
@@ -42,6 +42,10 @@
     {
       "id": "A1C818E3-7364-441A-A869-E0C0CCF86583",
       "class": "bitmap"
+    },
+    {
+      "id": "98D1DA8B-950E-4A2E-8A75-0642B3C69F2A",
+      "class": "group"
     },
     {
       "id": "9D5F1325-1CCA-47CC-BFA9-7E324447456B",

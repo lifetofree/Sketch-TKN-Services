@@ -20,7 +20,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "name": "Google - Job Transfer",
   "nameIsFixed": true,
   "resizingType": 0,
@@ -37,6 +37,10 @@
     {
       "id": "0A350500-8991-46DD-95F6-DA7E3A3FBF7D",
       "class": "bitmap"
+    },
+    {
+      "id": "C2D7DE16-B2B8-4436-829E-8EF8F20F15F1",
+      "class": "group"
     },
     {
       "id": "D45305A1-7D70-4463-86A3-FDB631CA70EA",
