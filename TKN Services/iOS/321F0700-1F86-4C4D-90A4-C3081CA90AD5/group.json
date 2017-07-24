@@ -3,8 +3,10 @@
   "do_objectID": "321F0700-1F86-4C4D-90A4-C3081CA90AD5",
   "exportOptions": {
     "_class": "exportOptions",
-    "exportFormats": [],
-    "includedLayerIds": [],
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
     "layerOptions": 0,
     "shouldTrim": false
   },
@@ -16,11 +18,34 @@
     "x": 1060,
     "y": 926
   },
+  "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "CFDDF189-8A14-488C-A207-A359775B2101"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2F8CA7C8-E713-4C42-865E-0E9EB55DE104"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6AA8636F-5D8B-4ACF-98AB-821154F7D6BD"
+    },
+    {
+      "class": "text",
+      "id": "B9CB7083-52B1-4A87-9156-64EB34C3E3AB"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C09A42B9-D328-497F-A119-2E025AF72596"
+    }
+  ],
   "name": "Navigation Bar/Search - Active",
   "nameIsFixed": false,
   "resizingType": 0,
@@ -31,28 +56,5 @@
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
-  },
-  "hasClickThrough": false,
-  "layers": [
-    {
-      "id": "CFDDF189-8A14-488C-A207-A359775B2101",
-      "class": "shapeGroup"
-    },
-    {
-      "id": "2F8CA7C8-E713-4C42-865E-0E9EB55DE104",
-      "class": "shapeGroup"
-    },
-    {
-      "id": "6AA8636F-5D8B-4ACF-98AB-821154F7D6BD",
-      "class": "shapeGroup"
-    },
-    {
-      "id": "B9CB7083-52B1-4A87-9156-64EB34C3E3AB",
-      "class": "text"
-    },
-    {
-      "id": "C09A42B9-D328-497F-A119-2E025AF72596",
-      "class": "shapeGroup"
-    }
-  ]
+  }
 }

@@ -3,8 +3,10 @@
   "do_objectID": "4DF2BEE4-6458-405C-936D-E4B2EA200247",
   "exportOptions": {
     "_class": "exportOptions",
-    "exportFormats": [],
-    "includedLayerIds": [],
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
     "layerOptions": 0,
     "shouldTrim": false
   },
@@ -16,53 +18,53 @@
     "x": 1,
     "y": 0
   },
+  "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "B2C25F0F-1C38-4728-9455-24985D015A41"
+    },
+    {
+      "class": "text",
+      "id": "D542415B-9F65-4129-B6BD-112C45590794"
+    }
+  ],
   "name": "receive job",
   "nameIsFixed": true,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
-  "userInfo": {
-    "com.invision.prototype": {
-      "closeOnClickOutside": 1,
-      "stayOnTargetScreen": 0,
-      "fixOverlayPosition": 1,
-      "openURLInNewWindow": 0,
-      "reverseTransitionOnClose": 1,
-      "gesture": 0,
-      "smoothScrolling": 0,
-      "redirectAfter": 0,
-      "overlayPosition": 0,
-      "scrollToPosition": 0,
-      "overlayTransition": 0,
-      "maintainScrollPositionAfterGesture": 0,
-      "componentType": "SRLink",
-      "backgroundOpacity": 0,
-      "linkType": 0,
-      "transition": 0,
-      "targetArtboardID": "DF9D9EE9-9A8C-49F7-B3DF-89B11A884626",
-      "maintainScrollPositionAfterRedirect": 0
-    }
-  },
   "style": {
     "_class": "style",
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
   },
-  "hasClickThrough": false,
-  "layers": [
-    {
-      "id": "B2C25F0F-1C38-4728-9455-24985D015A41",
-      "class": "shapeGroup"
-    },
-    {
-      "id": "D542415B-9F65-4129-B6BD-112C45590794",
-      "class": "text"
+  "userInfo": {
+    "com.invision.prototype": {
+      "backgroundOpacity": 0,
+      "closeOnClickOutside": 1,
+      "componentType": "SRLink",
+      "fixOverlayPosition": 1,
+      "gesture": 0,
+      "linkType": 0,
+      "maintainScrollPositionAfterGesture": 0,
+      "maintainScrollPositionAfterRedirect": 0,
+      "openURLInNewWindow": 0,
+      "overlayPosition": 0,
+      "overlayTransition": 0,
+      "redirectAfter": 0,
+      "reverseTransitionOnClose": 1,
+      "scrollToPosition": 0,
+      "smoothScrolling": 0,
+      "stayOnTargetScreen": 0,
+      "targetArtboardID": "DF9D9EE9-9A8C-49F7-B3DF-89B11A884626",
+      "transition": 0
     }
-  ]
+  }
 }

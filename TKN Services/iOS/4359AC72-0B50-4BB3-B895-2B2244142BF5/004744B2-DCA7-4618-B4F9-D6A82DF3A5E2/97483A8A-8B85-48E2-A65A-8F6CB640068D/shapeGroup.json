@@ -1,10 +1,13 @@
 {
   "_class": "shapeGroup",
+  "clippingMaskMode": 0,
   "do_objectID": "97483A8A-8B85-48E2-A65A-8F6CB640068D",
   "exportOptions": {
     "_class": "exportOptions",
-    "exportFormats": [],
-    "includedLayerIds": [],
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
     "layerOptions": 0,
     "shouldTrim": false
   },
@@ -16,11 +19,27 @@
     "x": 81.5,
     "y": 2.5
   },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "89EB6FA7-365D-45E2-A9AC-5A441F61F310"
+    },
+    {
+      "class": "shapePath",
+      "id": "A8A9EDCB-5D69-43F6-87F9-6214B9F6C37A"
+    },
+    {
+      "class": "shapePath",
+      "id": "7C9D75AE-DD7B-4D62-8F43-01D43DB3F4F4"
+    }
+  ],
   "name": "Wi-Fi",
   "nameIsFixed": true,
   "originalObjectID": "EA1EC08F-01DB-48C1-A0DA-5DC3159FF325",
@@ -31,8 +50,8 @@
     "_class": "style",
     "blur": {
       "_class": "blur",
-      "isEnabled": false,
       "center": "{0.5, 0.5}",
+      "isEnabled": false,
       "motionAngle": 0,
       "radius": 4.979428817286283,
       "type": 0
@@ -41,7 +60,6 @@
     "fills": [
       {
         "_class": "fill",
-        "isEnabled": true,
         "color": {
           "_class": "color",
           "alpha": 1,
@@ -50,6 +68,7 @@
           "red": 0.01176470588235294
         },
         "fillType": 0,
+        "isEnabled": true,
         "noiseIndex": 0,
         "noiseIntensity": 0,
         "patternFillType": 0,
@@ -59,22 +78,5 @@
     "miterLimit": 10,
     "startDecorationType": 0
   },
-  "hasClickThrough": false,
-  "layers": [
-    {
-      "id": "89EB6FA7-365D-45E2-A9AC-5A441F61F310",
-      "class": "shapePath"
-    },
-    {
-      "id": "A8A9EDCB-5D69-43F6-87F9-6214B9F6C37A",
-      "class": "shapePath"
-    },
-    {
-      "id": "7C9D75AE-DD7B-4D62-8F43-01D43DB3F4F4",
-      "class": "shapePath"
-    }
-  ],
-  "clippingMaskMode": 0,
-  "hasClippingMask": false,
   "windingRule": 1
 }

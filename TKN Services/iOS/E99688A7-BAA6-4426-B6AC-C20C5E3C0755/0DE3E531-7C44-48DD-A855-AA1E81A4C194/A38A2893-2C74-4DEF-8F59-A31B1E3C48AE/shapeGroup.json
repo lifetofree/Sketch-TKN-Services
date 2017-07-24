@@ -1,10 +1,13 @@
 {
   "_class": "shapeGroup",
+  "clippingMaskMode": 0,
   "do_objectID": "A38A2893-2C74-4DEF-8F59-A31B1E3C48AE",
   "exportOptions": {
     "_class": "exportOptions",
-    "exportFormats": [],
-    "includedLayerIds": [],
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
     "layerOptions": 0,
     "shouldTrim": false
   },
@@ -16,11 +19,19 @@
     "x": 0,
     "y": 0
   },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "44A9CFB8-BB10-488B-A8BC-217E967248FC"
+    }
+  ],
   "name": "Button Background",
   "nameIsFixed": true,
   "originalObjectID": "5B371D03-FA0B-4B72-93CB-F2D4BD96412C",
@@ -32,7 +43,6 @@
     "borders": [
       {
         "_class": "border",
-        "isEnabled": true,
         "color": {
           "_class": "color",
           "alpha": 1,
@@ -41,6 +51,7 @@
           "red": 0
         },
         "fillType": 0,
+        "isEnabled": true,
         "position": 1,
         "thickness": 1
       }
@@ -50,14 +61,5 @@
     "sharedObjectID": "4DD785BE-6949-411C-BB8E-ABC249E1B7A9",
     "startDecorationType": 0
   },
-  "hasClickThrough": false,
-  "layers": [
-    {
-      "id": "44A9CFB8-BB10-488B-A8BC-217E967248FC",
-      "class": "rectangle"
-    }
-  ],
-  "clippingMaskMode": 0,
-  "hasClippingMask": false,
   "windingRule": 1
 }

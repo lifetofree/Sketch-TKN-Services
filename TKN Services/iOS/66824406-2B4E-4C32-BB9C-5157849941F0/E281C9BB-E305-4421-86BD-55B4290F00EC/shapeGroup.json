@@ -1,10 +1,13 @@
 {
   "_class": "shapeGroup",
+  "clippingMaskMode": 0,
   "do_objectID": "E281C9BB-E305-4421-86BD-55B4290F00EC",
   "exportOptions": {
     "_class": "exportOptions",
-    "exportFormats": [],
-    "includedLayerIds": [],
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
     "layerOptions": 0,
     "shouldTrim": false
   },
@@ -16,11 +19,19 @@
     "x": 0,
     "y": 0.5
   },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "0F654855-9C84-4484-969B-5C8278BB928E"
+    }
+  ],
   "name": "Bar",
   "nameIsFixed": true,
   "originalObjectID": "ECE7639D-21C2-49FD-9367-C39CBFFA0006",
@@ -33,7 +44,6 @@
     "fills": [
       {
         "_class": "fill",
-        "isEnabled": true,
         "color": {
           "_class": "color",
           "alpha": 1,
@@ -42,6 +52,7 @@
           "red": 1
         },
         "fillType": 0,
+        "isEnabled": true,
         "noiseIndex": 0,
         "noiseIntensity": 0,
         "patternFillType": 0,
@@ -52,7 +63,6 @@
     "shadows": [
       {
         "_class": "shadow",
-        "isEnabled": true,
         "blurRadius": 0,
         "color": {
           "_class": "color",
@@ -66,6 +76,7 @@
           "blendMode": 0,
           "opacity": 1
         },
+        "isEnabled": true,
         "offsetX": 0,
         "offsetY": 0.5,
         "spread": 0
@@ -73,14 +84,5 @@
     ],
     "startDecorationType": 0
   },
-  "hasClickThrough": false,
-  "layers": [
-    {
-      "id": "0F654855-9C84-4484-969B-5C8278BB928E",
-      "class": "rectangle"
-    }
-  ],
-  "clippingMaskMode": 0,
-  "hasClippingMask": false,
   "windingRule": 1
 }

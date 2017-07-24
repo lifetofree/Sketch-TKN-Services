@@ -1,10 +1,19 @@
 {
   "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
   "do_objectID": "43E31D80-B126-4348-B6C1-DDF8C0FAD6EA",
   "exportOptions": {
     "_class": "exportOptions",
-    "exportFormats": [],
-    "includedLayerIds": [],
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
     "layerOptions": 0,
     "shouldTrim": false
   },
@@ -16,11 +25,43 @@
     "x": 4319,
     "y": 7186
   },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "bitmap",
+      "id": "3D325566-0106-437E-8263-C24D30EFD206"
+    },
+    {
+      "class": "group",
+      "id": "3264F5AF-1D4E-4140-AD70-C3D75049B9BE"
+    },
+    {
+      "class": "group",
+      "id": "F29832C8-0CB5-47B5-A9CE-8B670A5E20D2"
+    },
+    {
+      "class": "group",
+      "id": "B9325CAB-6576-4E1B-9541-F2BA1E7FDE20"
+    },
+    {
+      "class": "group",
+      "id": "61ED0186-B18C-46E0-AAA8-A8548BFF3E7F"
+    }
+  ],
   "name": "POS - Create",
   "nameIsFixed": true,
   "resizingType": 0,
@@ -32,47 +73,10 @@
     "miterLimit": 10,
     "startDecorationType": 0
   },
-  "hasClickThrough": true,
-  "layers": [
-    {
-      "id": "3D325566-0106-437E-8263-C24D30EFD206",
-      "class": "bitmap"
-    },
-    {
-      "id": "3264F5AF-1D4E-4140-AD70-C3D75049B9BE",
-      "class": "group"
-    },
-    {
-      "id": "F29832C8-0CB5-47B5-A9CE-8B670A5E20D2",
-      "class": "group"
-    },
-    {
-      "id": "B9325CAB-6576-4E1B-9541-F2BA1E7FDE20",
-      "class": "group"
-    },
-    {
-      "id": "61ED0186-B18C-46E0-AAA8-A8548BFF3E7F",
-      "class": "group"
-    }
-  ],
-  "backgroundColor": {
-    "_class": "color",
-    "alpha": 1,
-    "blue": 1,
-    "green": 1,
-    "red": 1
-  },
-  "hasBackgroundColor": false,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": []
-  },
-  "includeBackgroundColorInExport": true,
-  "includeInCloudUpload": true,
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "guides": []
+    "guides": [
+    ]
   }
 }

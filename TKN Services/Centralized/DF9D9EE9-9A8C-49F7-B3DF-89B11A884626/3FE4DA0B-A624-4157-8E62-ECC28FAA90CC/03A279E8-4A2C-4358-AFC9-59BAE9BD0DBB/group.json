@@ -3,8 +3,10 @@
   "do_objectID": "03A279E8-4A2C-4358-AFC9-59BAE9BD0DBB",
   "exportOptions": {
     "_class": "exportOptions",
-    "exportFormats": [],
-    "includedLayerIds": [],
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
     "layerOptions": 0,
     "shouldTrim": false
   },
@@ -16,81 +18,81 @@
     "x": 0,
     "y": 45
   },
+  "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "B72848D6-B4D1-4A49-A904-E76050811D0A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "882C0194-7D67-4C17-909F-7F83D57297F6"
+    },
+    {
+      "class": "text",
+      "id": "4FC7D777-87B8-4DCB-BAF5-8918C7A63DFA"
+    },
+    {
+      "class": "text",
+      "id": "3B08B6D8-5919-4703-84C5-EECDB6B98C3B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "FF0DF36E-B1D2-489F-A009-A2823B96BACE"
+    },
+    {
+      "class": "text",
+      "id": "2888ABC0-C2BD-41DD-9BEE-DAE577837C1C"
+    },
+    {
+      "class": "text",
+      "id": "F25343A6-3E02-4016-8A7C-0B5A083C148D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F0A389A9-E3BD-419F-9CA4-BB7BCD30AD13"
+    },
+    {
+      "class": "group",
+      "id": "AB27BD1C-27F4-4B3F-ADC2-38FA6DABC507"
+    }
+  ],
   "name": "Cell/Mail",
   "nameIsFixed": false,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
-  "userInfo": {
-    "com.invision.prototype": {
-      "closeOnClickOutside": 1,
-      "stayOnTargetScreen": 0,
-      "fixOverlayPosition": 1,
-      "openURLInNewWindow": 0,
-      "reverseTransitionOnClose": 1,
-      "gesture": 0,
-      "smoothScrolling": 0,
-      "redirectAfter": 0,
-      "overlayPosition": 0,
-      "scrollToPosition": 0,
-      "overlayTransition": 0,
-      "maintainScrollPositionAfterGesture": 0,
-      "componentType": "SRLink",
-      "backgroundOpacity": 0,
-      "linkType": 0,
-      "transition": 0,
-      "targetArtboardID": "C0CB5B1A-1861-4E8E-A1B3-A468D944AF32",
-      "maintainScrollPositionAfterRedirect": 0
-    }
-  },
   "style": {
     "_class": "style",
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
   },
-  "hasClickThrough": false,
-  "layers": [
-    {
-      "id": "B72848D6-B4D1-4A49-A904-E76050811D0A",
-      "class": "shapeGroup"
-    },
-    {
-      "id": "882C0194-7D67-4C17-909F-7F83D57297F6",
-      "class": "shapeGroup"
-    },
-    {
-      "id": "4FC7D777-87B8-4DCB-BAF5-8918C7A63DFA",
-      "class": "text"
-    },
-    {
-      "id": "3B08B6D8-5919-4703-84C5-EECDB6B98C3B",
-      "class": "text"
-    },
-    {
-      "id": "FF0DF36E-B1D2-489F-A009-A2823B96BACE",
-      "class": "shapeGroup"
-    },
-    {
-      "id": "2888ABC0-C2BD-41DD-9BEE-DAE577837C1C",
-      "class": "text"
-    },
-    {
-      "id": "F25343A6-3E02-4016-8A7C-0B5A083C148D",
-      "class": "text"
-    },
-    {
-      "id": "F0A389A9-E3BD-419F-9CA4-BB7BCD30AD13",
-      "class": "shapeGroup"
-    },
-    {
-      "id": "AB27BD1C-27F4-4B3F-ADC2-38FA6DABC507",
-      "class": "group"
+  "userInfo": {
+    "com.invision.prototype": {
+      "backgroundOpacity": 0,
+      "closeOnClickOutside": 1,
+      "componentType": "SRLink",
+      "fixOverlayPosition": 1,
+      "gesture": 0,
+      "linkType": 0,
+      "maintainScrollPositionAfterGesture": 0,
+      "maintainScrollPositionAfterRedirect": 0,
+      "openURLInNewWindow": 0,
+      "overlayPosition": 0,
+      "overlayTransition": 0,
+      "redirectAfter": 0,
+      "reverseTransitionOnClose": 1,
+      "scrollToPosition": 0,
+      "smoothScrolling": 0,
+      "stayOnTargetScreen": 0,
+      "targetArtboardID": "C0CB5B1A-1861-4E8E-A1B3-A468D944AF32",
+      "transition": 0
     }
-  ]
+  }
 }

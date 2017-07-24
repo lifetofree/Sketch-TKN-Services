@@ -3,8 +3,10 @@
   "do_objectID": "5A6B957E-2689-4AD9-80C2-78C721BBF49A",
   "exportOptions": {
     "_class": "exportOptions",
-    "exportFormats": [],
-    "includedLayerIds": [],
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
     "layerOptions": 0,
     "shouldTrim": false
   },
@@ -16,11 +18,30 @@
     "x": 1060,
     "y": 462
   },
+  "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "610563FC-6DFF-4F2E-A157-853467B997B0"
+    },
+    {
+      "class": "text",
+      "id": "BEFB3E86-70BD-47AE-8ED5-93795EA259F1"
+    },
+    {
+      "class": "text",
+      "id": "DFB7FDA9-CC5D-4EA2-9B5F-BD8F85F317B9"
+    },
+    {
+      "class": "text",
+      "id": "AB478B42-7851-437F-9BA3-0219B05C37A3"
+    }
+  ],
   "name": "Navigation Bar/Normal - Dark",
   "nameIsFixed": false,
   "resizingType": 0,
@@ -31,24 +52,5 @@
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
-  },
-  "hasClickThrough": false,
-  "layers": [
-    {
-      "id": "610563FC-6DFF-4F2E-A157-853467B997B0",
-      "class": "shapeGroup"
-    },
-    {
-      "id": "BEFB3E86-70BD-47AE-8ED5-93795EA259F1",
-      "class": "text"
-    },
-    {
-      "id": "DFB7FDA9-CC5D-4EA2-9B5F-BD8F85F317B9",
-      "class": "text"
-    },
-    {
-      "id": "AB478B42-7851-437F-9BA3-0219B05C37A3",
-      "class": "text"
-    }
-  ]
+  }
 }

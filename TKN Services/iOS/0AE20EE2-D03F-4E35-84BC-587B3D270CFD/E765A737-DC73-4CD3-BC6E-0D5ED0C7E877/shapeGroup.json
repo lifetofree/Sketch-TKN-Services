@@ -1,10 +1,13 @@
 {
   "_class": "shapeGroup",
+  "clippingMaskMode": 0,
   "do_objectID": "E765A737-DC73-4CD3-BC6E-0D5ED0C7E877",
   "exportOptions": {
     "_class": "exportOptions",
-    "exportFormats": [],
-    "includedLayerIds": [],
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
     "layerOptions": 0,
     "shouldTrim": false
   },
@@ -16,11 +19,27 @@
     "x": 0,
     "y": 0
   },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "oval",
+      "id": "BE0AE75A-BF37-4858-83A6-63C4938EC62C"
+    },
+    {
+      "class": "oval",
+      "id": "BEE23DBC-0954-401A-9408-0E57865282C6"
+    },
+    {
+      "class": "rectangle",
+      "id": "C6EC6766-83D6-4A4E-8527-5AD068C2E1C8"
+    }
+  ],
   "name": "Download Status",
   "nameIsFixed": false,
   "originalObjectID": "3A41A48D-3FFC-450C-B702-E7C4913DC36D",
@@ -33,7 +52,6 @@
     "fills": [
       {
         "_class": "fill",
-        "isEnabled": true,
         "color": {
           "_class": "color",
           "alpha": 1,
@@ -42,6 +60,7 @@
           "red": 0
         },
         "fillType": 0,
+        "isEnabled": true,
         "noiseIndex": 0,
         "noiseIntensity": 0,
         "patternFillType": 0,
@@ -52,22 +71,5 @@
     "sharedObjectID": "8A5A372B-F98B-44ED-BDFE-08A448CEAB0B",
     "startDecorationType": 0
   },
-  "hasClickThrough": false,
-  "layers": [
-    {
-      "id": "BE0AE75A-BF37-4858-83A6-63C4938EC62C",
-      "class": "oval"
-    },
-    {
-      "id": "BEE23DBC-0954-401A-9408-0E57865282C6",
-      "class": "oval"
-    },
-    {
-      "id": "C6EC6766-83D6-4A4E-8527-5AD068C2E1C8",
-      "class": "rectangle"
-    }
-  ],
-  "clippingMaskMode": 0,
-  "hasClippingMask": false,
   "windingRule": 1
 }

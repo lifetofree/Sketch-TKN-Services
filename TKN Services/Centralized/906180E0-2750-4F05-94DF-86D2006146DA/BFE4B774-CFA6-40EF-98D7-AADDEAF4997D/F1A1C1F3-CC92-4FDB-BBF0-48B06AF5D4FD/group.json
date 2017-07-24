@@ -3,8 +3,10 @@
   "do_objectID": "F1A1C1F3-CC92-4FDB-BBF0-48B06AF5D4FD",
   "exportOptions": {
     "_class": "exportOptions",
-    "exportFormats": [],
-    "includedLayerIds": [],
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
     "layerOptions": 0,
     "shouldTrim": false
   },
@@ -16,61 +18,61 @@
     "x": 1,
     "y": 311
   },
+  "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "872E897F-8BDE-41A4-BE16-E2E974365DED"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D438086B-348D-4E36-9946-3467EAE7B0A1"
+    },
+    {
+      "class": "text",
+      "id": "4120F517-1138-4B90-8BF2-24086DFBF3C7"
+    },
+    {
+      "class": "text",
+      "id": "2C12B860-63BB-4AE5-9F5B-5F4C984C739F"
+    }
+  ],
   "name": "Cell/Cell with Input",
   "nameIsFixed": false,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
-  "userInfo": {
-    "com.invision.prototype": {
-      "closeOnClickOutside": 1,
-      "stayOnTargetScreen": 0,
-      "fixOverlayPosition": 1,
-      "openURLInNewWindow": 0,
-      "reverseTransitionOnClose": 1,
-      "gesture": 0,
-      "overlayPosition": 0,
-      "scrollToPosition": 0,
-      "redirectAfter": 0,
-      "maintainScrollPositionAfterGesture": 0,
-      "overlayTransition": 0,
-      "smoothScrolling": 0,
-      "componentType": "SRLink",
-      "backgroundOpacity": 0,
-      "linkType": 0,
-      "transition": 0,
-      "targetArtboardID": "2559CD89-48F4-48CD-9F4A-30CA00D5E739",
-      "maintainScrollPositionAfterRedirect": 0
-    }
-  },
   "style": {
     "_class": "style",
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
   },
-  "hasClickThrough": false,
-  "layers": [
-    {
-      "id": "872E897F-8BDE-41A4-BE16-E2E974365DED",
-      "class": "shapeGroup"
-    },
-    {
-      "id": "D438086B-348D-4E36-9946-3467EAE7B0A1",
-      "class": "shapeGroup"
-    },
-    {
-      "id": "4120F517-1138-4B90-8BF2-24086DFBF3C7",
-      "class": "text"
-    },
-    {
-      "id": "2C12B860-63BB-4AE5-9F5B-5F4C984C739F",
-      "class": "text"
+  "userInfo": {
+    "com.invision.prototype": {
+      "backgroundOpacity": 0,
+      "closeOnClickOutside": 1,
+      "componentType": "SRLink",
+      "fixOverlayPosition": 1,
+      "gesture": 0,
+      "linkType": 0,
+      "maintainScrollPositionAfterGesture": 0,
+      "maintainScrollPositionAfterRedirect": 0,
+      "openURLInNewWindow": 0,
+      "overlayPosition": 0,
+      "overlayTransition": 0,
+      "redirectAfter": 0,
+      "reverseTransitionOnClose": 1,
+      "scrollToPosition": 0,
+      "smoothScrolling": 0,
+      "stayOnTargetScreen": 0,
+      "targetArtboardID": "2559CD89-48F4-48CD-9F4A-30CA00D5E739",
+      "transition": 0
     }
-  ]
+  }
 }

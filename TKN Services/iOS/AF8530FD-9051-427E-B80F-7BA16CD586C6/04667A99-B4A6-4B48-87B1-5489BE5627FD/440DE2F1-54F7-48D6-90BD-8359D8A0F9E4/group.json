@@ -3,8 +3,10 @@
   "do_objectID": "440DE2F1-54F7-48D6-90BD-8359D8A0F9E4",
   "exportOptions": {
     "_class": "exportOptions",
-    "exportFormats": [],
-    "includedLayerIds": [],
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
     "layerOptions": 0,
     "shouldTrim": false
   },
@@ -16,11 +18,22 @@
     "x": 93,
     "y": 0
   },
+  "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "053A1DDE-4F30-44C0-9BCF-6CF70470379F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "07E98D51-2E23-4C85-9D56-593CEBF4A561"
+    }
+  ],
   "name": "Voice",
   "nameIsFixed": true,
   "resizingType": 0,
@@ -31,16 +44,5 @@
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
-  },
-  "hasClickThrough": false,
-  "layers": [
-    {
-      "id": "053A1DDE-4F30-44C0-9BCF-6CF70470379F",
-      "class": "shapeGroup"
-    },
-    {
-      "id": "07E98D51-2E23-4C85-9D56-593CEBF4A561",
-      "class": "shapeGroup"
-    }
-  ]
+  }
 }

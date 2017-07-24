@@ -3,8 +3,10 @@
   "do_objectID": "1F794F45-F358-4A25-A605-B0C6E51CBB37",
   "exportOptions": {
     "_class": "exportOptions",
-    "exportFormats": [],
-    "includedLayerIds": [],
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
     "layerOptions": 0,
     "shouldTrim": false
   },
@@ -16,11 +18,42 @@
     "x": 0,
     "y": 85
   },
+  "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "4948F160-C4B6-4625-A146-60AB7A9634EC"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "EF328E0B-B0EC-4012-A171-04AA3BF09DDC"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9535A00C-E25A-4609-99A9-3FE9B4FA9FF4"
+    },
+    {
+      "class": "group",
+      "id": "6873353E-A4A8-4D08-9200-F15862F14E70"
+    },
+    {
+      "class": "text",
+      "id": "131B6121-AD68-4070-A351-F38E6BE921EC"
+    },
+    {
+      "class": "text",
+      "id": "2C681276-6711-40BF-B10E-BD5DFBBCAE50"
+    },
+    {
+      "class": "text",
+      "id": "D8BB2B3E-8547-4FC5-9506-6046AEF447F7"
+    }
+  ],
   "name": "Navigation Bar/Segmented - Third",
   "nameIsFixed": false,
   "resizingType": 0,
@@ -31,36 +64,5 @@
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
-  },
-  "hasClickThrough": false,
-  "layers": [
-    {
-      "id": "4948F160-C4B6-4625-A146-60AB7A9634EC",
-      "class": "shapeGroup"
-    },
-    {
-      "id": "EF328E0B-B0EC-4012-A171-04AA3BF09DDC",
-      "class": "shapeGroup"
-    },
-    {
-      "id": "9535A00C-E25A-4609-99A9-3FE9B4FA9FF4",
-      "class": "shapeGroup"
-    },
-    {
-      "id": "6873353E-A4A8-4D08-9200-F15862F14E70",
-      "class": "group"
-    },
-    {
-      "id": "131B6121-AD68-4070-A351-F38E6BE921EC",
-      "class": "text"
-    },
-    {
-      "id": "2C681276-6711-40BF-B10E-BD5DFBBCAE50",
-      "class": "text"
-    },
-    {
-      "id": "D8BB2B3E-8547-4FC5-9506-6046AEF447F7",
-      "class": "text"
-    }
-  ]
+  }
 }

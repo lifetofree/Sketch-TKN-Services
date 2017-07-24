@@ -3,8 +3,10 @@
   "do_objectID": "C2C878D3-0477-43FA-9D91-859EAA799BA4",
   "exportOptions": {
     "_class": "exportOptions",
-    "exportFormats": [],
-    "includedLayerIds": [],
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
     "layerOptions": 0,
     "shouldTrim": false
   },
@@ -16,11 +18,22 @@
     "x": 421,
     "y": 1043
   },
+  "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "DF95EFE7-036B-445F-AA35-909CEC3E9500"
+    },
+    {
+      "class": "text",
+      "id": "58638675-1320-4994-A793-282A9CD31A03"
+    }
+  ],
   "name": "Elements/Notification (4 Digits)",
   "nameIsFixed": false,
   "resizingType": 0,
@@ -31,16 +44,5 @@
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
-  },
-  "hasClickThrough": false,
-  "layers": [
-    {
-      "id": "DF95EFE7-036B-445F-AA35-909CEC3E9500",
-      "class": "shapeGroup"
-    },
-    {
-      "id": "58638675-1320-4994-A793-282A9CD31A03",
-      "class": "text"
-    }
-  ]
+  }
 }

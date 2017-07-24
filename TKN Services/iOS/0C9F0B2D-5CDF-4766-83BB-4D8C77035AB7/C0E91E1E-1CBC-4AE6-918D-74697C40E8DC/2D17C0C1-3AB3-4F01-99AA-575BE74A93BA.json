@@ -1,10 +1,14 @@
 {
   "_class": "oval",
+  "booleanOperation": 0,
   "do_objectID": "2D17C0C1-3AB3-4F01-99AA-575BE74A93BA",
+  "edited": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "exportFormats": [],
-    "includedLayerIds": [],
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
     "layerOptions": 0,
     "shouldTrim": false
   },
@@ -23,11 +27,6 @@
   "layerListExpandedType": 0,
   "name": "Path",
   "nameIsFixed": false,
-  "resizingType": 0,
-  "rotation": 0,
-  "shouldBreakMaskChain": false,
-  "booleanOperation": 0,
-  "edited": false,
   "path": {
     "_class": "path",
     "isClosed": true,
@@ -73,5 +72,8 @@
         "point": "{0, 0.5}"
       }
     ]
-  }
+  },
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false
 }

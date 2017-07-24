@@ -3,8 +3,10 @@
   "do_objectID": "BE980D76-7122-45B7-AAED-158C9C530B47",
   "exportOptions": {
     "_class": "exportOptions",
-    "exportFormats": [],
-    "includedLayerIds": [],
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
     "layerOptions": 0,
     "shouldTrim": false
   },
@@ -16,11 +18,34 @@
     "x": 0,
     "y": 45
   },
+  "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "64392560-98D2-4AA0-BA85-78AFD2400EA8"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F9C9F34D-A67F-405A-87C2-5AD5B633D2D6"
+    },
+    {
+      "class": "text",
+      "id": "ABA3649D-2483-4AFC-B884-F014FD0B46E9"
+    },
+    {
+      "class": "text",
+      "id": "328BBDF5-7668-486F-95FF-BD2ADE0494DD"
+    },
+    {
+      "class": "bitmap",
+      "id": "07140D2E-D4EB-4379-9C7F-FB2A594DA6A3"
+    }
+  ],
   "name": "Cell/Reading List",
   "nameIsFixed": false,
   "resizingType": 0,
@@ -31,28 +56,5 @@
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
-  },
-  "hasClickThrough": false,
-  "layers": [
-    {
-      "id": "64392560-98D2-4AA0-BA85-78AFD2400EA8",
-      "class": "shapeGroup"
-    },
-    {
-      "id": "F9C9F34D-A67F-405A-87C2-5AD5B633D2D6",
-      "class": "shapeGroup"
-    },
-    {
-      "id": "ABA3649D-2483-4AFC-B884-F014FD0B46E9",
-      "class": "text"
-    },
-    {
-      "id": "328BBDF5-7668-486F-95FF-BD2ADE0494DD",
-      "class": "text"
-    },
-    {
-      "id": "07140D2E-D4EB-4379-9C7F-FB2A594DA6A3",
-      "class": "bitmap"
-    }
-  ]
+  }
 }

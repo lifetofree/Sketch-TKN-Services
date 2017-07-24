@@ -1,10 +1,14 @@
 {
   "_class": "shapePath",
+  "booleanOperation": -1,
   "do_objectID": "320DAC7B-1401-4538-AA11-6A579C9B7DA2",
+  "edited": true,
   "exportOptions": {
     "_class": "exportOptions",
-    "exportFormats": [],
-    "includedLayerIds": [],
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
     "layerOptions": 0,
     "shouldTrim": false
   },
@@ -23,22 +27,17 @@
   "layerListExpandedType": 0,
   "name": "Path",
   "nameIsFixed": false,
-  "resizingType": 0,
-  "rotation": 0,
-  "shouldBreakMaskChain": false,
-  "booleanOperation": -1,
-  "edited": true,
   "path": {
     "_class": "path",
     "isClosed": true,
     "points": [
       {
         "_class": "curvePoint",
-        "do_objectID": "3563C462-9985-4397-98C9-416DD645065C",
         "cornerRadius": 0,
         "curveFrom": "{0.43333333333333002, 1}",
         "curveMode": 1,
         "curveTo": "{0.43333333333333002, 1}",
+        "do_objectID": "3563C462-9985-4397-98C9-416DD645065C",
         "hasCurveFrom": false,
         "hasCurveTo": false,
         "point": "{0.4375, 1}"
@@ -75,22 +74,22 @@
       },
       {
         "_class": "curvePoint",
-        "do_objectID": "A391CD85-F16C-494B-B2A8-E43FC47A6814",
         "cornerRadius": 0,
         "curveFrom": "{0.43333333333333002, 0}",
         "curveMode": 1,
         "curveTo": "{0.43333333333333002, 0}",
+        "do_objectID": "A391CD85-F16C-494B-B2A8-E43FC47A6814",
         "hasCurveFrom": false,
         "hasCurveTo": false,
         "point": "{0.4375, 0}"
       },
       {
         "_class": "curvePoint",
-        "do_objectID": "8AFF9D34-6500-4AC6-A723-04CA7C18C892",
         "cornerRadius": 0,
         "curveFrom": "{0.43333333333333002, 0.39795918367346822}",
         "curveMode": 1,
         "curveTo": "{0.43333333333333002, 0.39795918367346822}",
+        "do_objectID": "8AFF9D34-6500-4AC6-A723-04CA7C18C892",
         "hasCurveFrom": false,
         "hasCurveTo": false,
         "point": "{0.4375, 0.39795918367346822}"
@@ -147,15 +146,18 @@
       },
       {
         "_class": "curvePoint",
-        "do_objectID": "AB6DBD14-CA71-42FE-A1CE-201E55162019",
         "cornerRadius": 0,
         "curveFrom": "{0.43333333333333002, 0.58418367346938893}",
         "curveMode": 1,
         "curveTo": "{0.43333333333333002, 0.58418367346938893}",
+        "do_objectID": "AB6DBD14-CA71-42FE-A1CE-201E55162019",
         "hasCurveFrom": false,
         "hasCurveTo": false,
         "point": "{0.4375, 0.58418367346938893}"
       }
     ]
-  }
+  },
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false
 }

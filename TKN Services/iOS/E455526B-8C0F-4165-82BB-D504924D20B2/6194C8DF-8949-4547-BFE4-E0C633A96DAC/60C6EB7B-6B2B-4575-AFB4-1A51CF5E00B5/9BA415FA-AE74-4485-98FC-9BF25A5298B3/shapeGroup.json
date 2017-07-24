@@ -1,10 +1,13 @@
 {
   "_class": "shapeGroup",
+  "clippingMaskMode": 0,
   "do_objectID": "9BA415FA-AE74-4485-98FC-9BF25A5298B3",
   "exportOptions": {
     "_class": "exportOptions",
-    "exportFormats": [],
-    "includedLayerIds": [],
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
     "layerOptions": 0,
     "shouldTrim": false
   },
@@ -16,11 +19,39 @@
     "x": 11,
     "y": 11
   },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "oval",
+      "id": "4529AA11-2EE8-4111-B24A-C5367CB23920"
+    },
+    {
+      "class": "oval",
+      "id": "600B0738-C7C3-4418-9C71-32ECB365BA9A"
+    },
+    {
+      "class": "oval",
+      "id": "05367F9C-080C-4F6F-9580-E0D9A994940A"
+    },
+    {
+      "class": "oval",
+      "id": "384330E4-D60A-4E7B-ACD9-30DCA82DC656"
+    },
+    {
+      "class": "shapePath",
+      "id": "C11F0828-2D17-4FBC-9D9D-94398904EC94"
+    },
+    {
+      "class": "shapePath",
+      "id": "350A4A39-D0BC-4A2F-8390-0A3F2F06E382"
+    }
+  ],
   "name": "Emoji",
   "nameIsFixed": true,
   "resizingType": 3,
@@ -32,7 +63,6 @@
     "fills": [
       {
         "_class": "fill",
-        "isEnabled": true,
         "color": {
           "_class": "color",
           "alpha": 1,
@@ -41,6 +71,7 @@
           "red": 1
         },
         "fillType": 0,
+        "isEnabled": true,
         "noiseIndex": 0,
         "noiseIntensity": 0,
         "patternFillType": 0,
@@ -50,34 +81,5 @@
     "miterLimit": 10,
     "startDecorationType": 0
   },
-  "hasClickThrough": false,
-  "layers": [
-    {
-      "id": "4529AA11-2EE8-4111-B24A-C5367CB23920",
-      "class": "oval"
-    },
-    {
-      "id": "600B0738-C7C3-4418-9C71-32ECB365BA9A",
-      "class": "oval"
-    },
-    {
-      "id": "05367F9C-080C-4F6F-9580-E0D9A994940A",
-      "class": "oval"
-    },
-    {
-      "id": "384330E4-D60A-4E7B-ACD9-30DCA82DC656",
-      "class": "oval"
-    },
-    {
-      "id": "C11F0828-2D17-4FBC-9D9D-94398904EC94",
-      "class": "shapePath"
-    },
-    {
-      "id": "350A4A39-D0BC-4A2F-8390-0A3F2F06E382",
-      "class": "shapePath"
-    }
-  ],
-  "clippingMaskMode": 0,
-  "hasClippingMask": false,
   "windingRule": 1
 }

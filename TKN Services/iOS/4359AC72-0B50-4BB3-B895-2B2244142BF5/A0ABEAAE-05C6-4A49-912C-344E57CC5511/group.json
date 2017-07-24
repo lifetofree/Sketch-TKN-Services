@@ -3,8 +3,10 @@
   "do_objectID": "A0ABEAAE-05C6-4A49-912C-344E57CC5511",
   "exportOptions": {
     "_class": "exportOptions",
-    "exportFormats": [],
-    "includedLayerIds": [],
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
     "layerOptions": 0,
     "shouldTrim": false
   },
@@ -16,11 +18,30 @@
     "x": 301,
     "y": 3
   },
+  "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "B2C37033-BDDF-406B-B14C-601811756E87"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9EE15C09-3A16-4FB6-9DF1-B988913290A8"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D652A8F4-2C46-44DD-B2C3-67258AF03F72"
+    },
+    {
+      "class": "text",
+      "id": "87D45083-FDF7-42FF-BFD5-334370A503BE"
+    }
+  ],
   "name": "Pin Right",
   "nameIsFixed": true,
   "resizingType": 1,
@@ -31,24 +52,5 @@
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
-  },
-  "hasClickThrough": false,
-  "layers": [
-    {
-      "id": "B2C37033-BDDF-406B-B14C-601811756E87",
-      "class": "shapeGroup"
-    },
-    {
-      "id": "9EE15C09-3A16-4FB6-9DF1-B988913290A8",
-      "class": "shapeGroup"
-    },
-    {
-      "id": "D652A8F4-2C46-44DD-B2C3-67258AF03F72",
-      "class": "shapeGroup"
-    },
-    {
-      "id": "87D45083-FDF7-42FF-BFD5-334370A503BE",
-      "class": "text"
-    }
-  ]
+  }
 }

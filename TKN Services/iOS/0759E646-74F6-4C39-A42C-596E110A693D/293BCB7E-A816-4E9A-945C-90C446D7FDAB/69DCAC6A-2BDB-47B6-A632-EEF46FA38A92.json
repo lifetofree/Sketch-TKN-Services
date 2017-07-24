@@ -1,10 +1,14 @@
 {
   "_class": "oval",
+  "booleanOperation": 1,
   "do_objectID": "69DCAC6A-2BDB-47B6-A632-EEF46FA38A92",
+  "edited": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "exportFormats": [],
-    "includedLayerIds": [],
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
     "layerOptions": 0,
     "shouldTrim": false
   },
@@ -23,11 +27,6 @@
   "layerListExpandedType": 0,
   "name": "Circle Copy",
   "nameIsFixed": false,
-  "resizingType": 0,
-  "rotation": 0,
-  "shouldBreakMaskChain": false,
-  "booleanOperation": 1,
-  "edited": false,
   "path": {
     "_class": "path",
     "isClosed": true,
@@ -73,5 +72,8 @@
         "point": "{0, 0.5}"
       }
     ]
-  }
+  },
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false
 }

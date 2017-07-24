@@ -3,8 +3,10 @@
   "do_objectID": "B9507E49-0F5C-4FE4-A053-85234656E0FD",
   "exportOptions": {
     "_class": "exportOptions",
-    "exportFormats": [],
-    "includedLayerIds": [],
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
     "layerOptions": 0,
     "shouldTrim": false
   },
@@ -16,11 +18,34 @@
     "x": 1060,
     "y": 1684
   },
+  "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "03D36948-761F-4708-8A52-F94F0116B981"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "7C2BF145-D220-4896-8FDE-DEBBAFB6A656"
+    },
+    {
+      "class": "group",
+      "id": "AB8EFE9B-66D3-4F9E-89A4-B9F043C0BC56"
+    },
+    {
+      "class": "text",
+      "id": "BD5E7DAE-F1FD-4024-8FB7-3149EC5EEDB4"
+    },
+    {
+      "class": "text",
+      "id": "585FC679-77B7-4DA9-9791-92FC96641E7B"
+    }
+  ],
   "name": "Navigation Bar/Segmented Small - Second",
   "nameIsFixed": false,
   "resizingType": 0,
@@ -31,28 +56,5 @@
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
-  },
-  "hasClickThrough": false,
-  "layers": [
-    {
-      "id": "03D36948-761F-4708-8A52-F94F0116B981",
-      "class": "shapeGroup"
-    },
-    {
-      "id": "7C2BF145-D220-4896-8FDE-DEBBAFB6A656",
-      "class": "shapeGroup"
-    },
-    {
-      "id": "AB8EFE9B-66D3-4F9E-89A4-B9F043C0BC56",
-      "class": "group"
-    },
-    {
-      "id": "BD5E7DAE-F1FD-4024-8FB7-3149EC5EEDB4",
-      "class": "text"
-    },
-    {
-      "id": "585FC679-77B7-4DA9-9791-92FC96641E7B",
-      "class": "text"
-    }
-  ]
+  }
 }

@@ -3,8 +3,10 @@
   "do_objectID": "FFFB8E7B-95BC-448F-877C-3B4B0D6D64C4",
   "exportOptions": {
     "_class": "exportOptions",
-    "exportFormats": [],
-    "includedLayerIds": [],
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
     "layerOptions": 0,
     "shouldTrim": false
   },
@@ -16,11 +18,26 @@
     "x": 414,
     "y": 1524
   },
+  "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "20395DBC-02F2-4176-BB11-7F7BCEA3F7E5"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A60AE945-7982-4B88-BDD1-008DDDE57B90"
+    },
+    {
+      "class": "text",
+      "id": "F185A2D1-3659-4E5C-AA5A-10EDA86B4F27"
+    }
+  ],
   "name": "Cell Elements/Reveal - Trash",
   "nameIsFixed": false,
   "resizingType": 0,
@@ -31,20 +48,5 @@
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
-  },
-  "hasClickThrough": false,
-  "layers": [
-    {
-      "id": "20395DBC-02F2-4176-BB11-7F7BCEA3F7E5",
-      "class": "shapeGroup"
-    },
-    {
-      "id": "A60AE945-7982-4B88-BDD1-008DDDE57B90",
-      "class": "shapeGroup"
-    },
-    {
-      "id": "F185A2D1-3659-4E5C-AA5A-10EDA86B4F27",
-      "class": "text"
-    }
-  ]
+  }
 }

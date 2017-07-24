@@ -1,10 +1,13 @@
 {
   "_class": "shapeGroup",
+  "clippingMaskMode": 0,
   "do_objectID": "4F9433FC-A31A-42AD-8537-50B67E69415D",
   "exportOptions": {
     "_class": "exportOptions",
-    "exportFormats": [],
-    "includedLayerIds": [],
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
     "layerOptions": 0,
     "shouldTrim": false
   },
@@ -16,11 +19,19 @@
     "x": 0,
     "y": 0
   },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "3121935C-B7DA-4BD5-8D12-20FA5183A18A"
+    }
+  ],
   "name": "Background",
   "nameIsFixed": true,
   "originalObjectID": "84772EBC-3C9E-4D4D-9165-DA0AC170F476",
@@ -31,8 +42,8 @@
     "_class": "style",
     "blur": {
       "_class": "blur",
-      "isEnabled": false,
       "center": "{0.5, 0.5}",
+      "isEnabled": false,
       "motionAngle": 0,
       "radius": 5,
       "type": 0
@@ -41,7 +52,6 @@
     "fills": [
       {
         "_class": "fill",
-        "isEnabled": true,
         "color": {
           "_class": "color",
           "alpha": 1,
@@ -50,6 +60,7 @@
           "red": 1
         },
         "fillType": 0,
+        "isEnabled": true,
         "noiseIndex": 0,
         "noiseIntensity": 0,
         "patternFillType": 0,
@@ -59,14 +70,5 @@
     "miterLimit": 10,
     "startDecorationType": 0
   },
-  "hasClickThrough": false,
-  "layers": [
-    {
-      "id": "3121935C-B7DA-4BD5-8D12-20FA5183A18A",
-      "class": "rectangle"
-    }
-  ],
-  "clippingMaskMode": 0,
-  "hasClippingMask": false,
   "windingRule": 1
 }

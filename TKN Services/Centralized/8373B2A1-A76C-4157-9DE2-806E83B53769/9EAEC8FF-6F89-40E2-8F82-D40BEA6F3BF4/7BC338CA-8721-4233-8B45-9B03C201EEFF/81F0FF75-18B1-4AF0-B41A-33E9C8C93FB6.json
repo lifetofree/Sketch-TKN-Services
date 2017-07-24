@@ -1,13 +1,18 @@
 {
   "_class": "rectangle",
+  "booleanOperation": 0,
   "do_objectID": "81F0FF75-18B1-4AF0-B41A-33E9C8C93FB6",
+  "edited": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "exportFormats": [],
-    "includedLayerIds": [],
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
     "layerOptions": 0,
     "shouldTrim": false
   },
+  "fixedRadius": 0,
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
@@ -16,6 +21,7 @@
     "x": 225,
     "y": 0
   },
+  "hasConvertedToNewRoundCorners": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -23,11 +29,6 @@
   "layerListExpandedType": 0,
   "name": "Icon Bounds",
   "nameIsFixed": false,
-  "resizingType": 0,
-  "rotation": 0,
-  "shouldBreakMaskChain": false,
-  "booleanOperation": 0,
-  "edited": false,
   "path": {
     "_class": "path",
     "isClosed": true,
@@ -74,6 +75,7 @@
       }
     ]
   },
-  "fixedRadius": 0,
-  "hasConvertedToNewRoundCorners": true
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false
 }

@@ -1,10 +1,13 @@
 {
   "_class": "shapeGroup",
+  "clippingMaskMode": 0,
   "do_objectID": "5FBDCF37-B7DC-4BBC-AE8A-5BCD146B1BC8",
   "exportOptions": {
     "_class": "exportOptions",
-    "exportFormats": [],
-    "includedLayerIds": [],
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
     "layerOptions": 0,
     "shouldTrim": false
   },
@@ -16,11 +19,19 @@
     "x": 0,
     "y": 0
   },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "E5B5693B-3C58-48A3-A5C4-6717EFB2918E"
+    }
+  ],
   "name": "Key",
   "nameIsFixed": true,
   "resizingType": 0,
@@ -32,7 +43,6 @@
     "fills": [
       {
         "_class": "fill",
-        "isEnabled": true,
         "color": {
           "_class": "color",
           "alpha": 0.5,
@@ -41,6 +51,7 @@
           "red": 0.6705882352941176
         },
         "fillType": 0,
+        "isEnabled": true,
         "noiseIndex": 0,
         "noiseIntensity": 0,
         "patternFillType": 0,
@@ -48,7 +59,6 @@
       },
       {
         "_class": "fill",
-        "isEnabled": true,
         "color": {
           "_class": "color",
           "alpha": 0.5,
@@ -62,6 +72,7 @@
           "opacity": 1
         },
         "fillType": 0,
+        "isEnabled": true,
         "noiseIndex": 0,
         "noiseIntensity": 0,
         "patternFillType": 0,
@@ -69,7 +80,6 @@
       },
       {
         "_class": "fill",
-        "isEnabled": true,
         "color": {
           "_class": "color",
           "alpha": 0.1000000014901161,
@@ -115,6 +125,7 @@
           ],
           "to": "{0.5, 1}"
         },
+        "isEnabled": true,
         "noiseIndex": 0,
         "noiseIntensity": 0,
         "patternFillType": 0,
@@ -125,7 +136,6 @@
     "shadows": [
       {
         "_class": "shadow",
-        "isEnabled": true,
         "blurRadius": 0,
         "color": {
           "_class": "color",
@@ -139,6 +149,7 @@
           "blendMode": 0,
           "opacity": 1
         },
+        "isEnabled": true,
         "offsetX": 0,
         "offsetY": 1,
         "spread": 0
@@ -146,14 +157,5 @@
     ],
     "startDecorationType": 0
   },
-  "hasClickThrough": false,
-  "layers": [
-    {
-      "id": "E5B5693B-3C58-48A3-A5C4-6717EFB2918E",
-      "class": "shapePath"
-    }
-  ],
-  "clippingMaskMode": 0,
-  "hasClippingMask": false,
   "windingRule": 1
 }

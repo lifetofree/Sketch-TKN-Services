@@ -1,10 +1,13 @@
 {
   "_class": "shapeGroup",
+  "clippingMaskMode": 0,
   "do_objectID": "C77B9917-E5E6-46A3-9D35-F95FDD3C8A60",
   "exportOptions": {
     "_class": "exportOptions",
-    "exportFormats": [],
-    "includedLayerIds": [],
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
     "layerOptions": 0,
     "shouldTrim": false
   },
@@ -16,11 +19,19 @@
     "x": 16,
     "y": 43
   },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "4C02C61E-4710-426C-8DA6-4A776A31DE49"
+    }
+  ],
   "name": "Separator",
   "nameIsFixed": true,
   "originalObjectID": "1E930AEC-CF1E-4553-92FF-9F5A2522BCED",
@@ -33,7 +44,6 @@
     "innerShadows": [
       {
         "_class": "innerShadow",
-        "isEnabled": true,
         "blurRadius": 0,
         "color": {
           "_class": "color",
@@ -47,6 +57,7 @@
           "blendMode": 0,
           "opacity": 1
         },
+        "isEnabled": true,
         "offsetX": 0,
         "offsetY": -0.5,
         "spread": 0
@@ -55,14 +66,5 @@
     "miterLimit": 10,
     "startDecorationType": 0
   },
-  "hasClickThrough": false,
-  "layers": [
-    {
-      "id": "4C02C61E-4710-426C-8DA6-4A776A31DE49",
-      "class": "rectangle"
-    }
-  ],
-  "clippingMaskMode": 0,
-  "hasClippingMask": false,
   "windingRule": 1
 }

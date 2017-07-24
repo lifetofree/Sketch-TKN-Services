@@ -1,10 +1,13 @@
 {
   "_class": "shapeGroup",
+  "clippingMaskMode": 0,
   "do_objectID": "EF5CA0C9-F1A7-44B9-B9BF-DBB534C4F0F2",
   "exportOptions": {
     "_class": "exportOptions",
-    "exportFormats": [],
-    "includedLayerIds": [],
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
     "layerOptions": 0,
     "shouldTrim": false
   },
@@ -16,11 +19,19 @@
     "x": 16,
     "y": 8
   },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "46FA95B2-F9F7-4C9B-BE36-0391737F5036"
+    }
+  ],
   "name": "Active Tab",
   "nameIsFixed": true,
   "resizingType": 2,
@@ -32,15 +43,15 @@
     "fills": [
       {
         "_class": "fill",
-        "isEnabled": true,
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 1,
-          "green": 0.4627450980392158,
-          "red": 0
+          "blue": 0.207843137254902,
+          "green": 0.1372549019607844,
+          "red": 0.1058823529411765
         },
         "fillType": 0,
+        "isEnabled": true,
         "noiseIndex": 0,
         "noiseIntensity": 0,
         "patternFillType": 0,
@@ -51,14 +62,5 @@
     "sharedObjectID": "8A5A372B-F98B-44ED-BDFE-08A448CEAB0B",
     "startDecorationType": 0
   },
-  "hasClickThrough": false,
-  "layers": [
-    {
-      "id": "46FA95B2-F9F7-4C9B-BE36-0391737F5036",
-      "class": "rectangle"
-    }
-  ],
-  "clippingMaskMode": 0,
-  "hasClippingMask": false,
   "windingRule": 1
 }

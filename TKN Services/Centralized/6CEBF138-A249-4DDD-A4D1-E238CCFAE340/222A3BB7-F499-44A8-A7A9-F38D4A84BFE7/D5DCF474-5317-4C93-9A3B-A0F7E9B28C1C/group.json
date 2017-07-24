@@ -3,8 +3,10 @@
   "do_objectID": "D5DCF474-5317-4C93-9A3B-A0F7E9B28C1C",
   "exportOptions": {
     "_class": "exportOptions",
-    "exportFormats": [],
-    "includedLayerIds": [],
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
     "layerOptions": 0,
     "shouldTrim": false
   },
@@ -16,11 +18,42 @@
     "x": 0,
     "y": 85
   },
+  "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "EF82DD9A-F55B-4A30-AD2D-8F89020F2B04"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "AA84343F-E597-41CD-B2DA-2188DA0E691C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "163D2FA1-7147-47F3-8663-C3CF7F5B0A83"
+    },
+    {
+      "class": "group",
+      "id": "0FC0EA17-9E0D-475F-8AA9-5DAEA2487B0C"
+    },
+    {
+      "class": "text",
+      "id": "31A514DF-4631-4698-8FE5-2C8DA6EBA0D3"
+    },
+    {
+      "class": "text",
+      "id": "635ECFBD-1E4F-46F9-96CD-D3927D9DA15A"
+    },
+    {
+      "class": "text",
+      "id": "9661873A-79CD-4281-8382-5BE854DE89BC"
+    }
+  ],
   "name": "Navigation Bar/Segmented - First",
   "nameIsFixed": false,
   "resizingType": 0,
@@ -31,36 +64,5 @@
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
-  },
-  "hasClickThrough": false,
-  "layers": [
-    {
-      "id": "EF82DD9A-F55B-4A30-AD2D-8F89020F2B04",
-      "class": "shapeGroup"
-    },
-    {
-      "id": "AA84343F-E597-41CD-B2DA-2188DA0E691C",
-      "class": "shapeGroup"
-    },
-    {
-      "id": "163D2FA1-7147-47F3-8663-C3CF7F5B0A83",
-      "class": "shapeGroup"
-    },
-    {
-      "id": "0FC0EA17-9E0D-475F-8AA9-5DAEA2487B0C",
-      "class": "group"
-    },
-    {
-      "id": "31A514DF-4631-4698-8FE5-2C8DA6EBA0D3",
-      "class": "text"
-    },
-    {
-      "id": "635ECFBD-1E4F-46F9-96CD-D3927D9DA15A",
-      "class": "text"
-    },
-    {
-      "id": "9661873A-79CD-4281-8382-5BE854DE89BC",
-      "class": "text"
-    }
-  ]
+  }
 }

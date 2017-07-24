@@ -1,10 +1,13 @@
 {
   "_class": "shapeGroup",
+  "clippingMaskMode": 0,
   "do_objectID": "23EC4B8A-8698-4AA4-8EA8-EBBC2EA27FA2",
   "exportOptions": {
     "_class": "exportOptions",
-    "exportFormats": [],
-    "includedLayerIds": [],
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
     "layerOptions": 0,
     "shouldTrim": false
   },
@@ -16,11 +19,35 @@
     "x": 0.5,
     "y": 4.5
   },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "oval",
+      "id": "8184E17A-78F9-4E74-AE43-580D362A8545"
+    },
+    {
+      "class": "oval",
+      "id": "9123CB72-BD55-4479-8A04-6B3C75EDE6AF"
+    },
+    {
+      "class": "oval",
+      "id": "64EF1A17-FC41-473F-838F-72D21E5EE731"
+    },
+    {
+      "class": "oval",
+      "id": "981CDA56-C3B3-4DF2-AE83-AF04CA5A9672"
+    },
+    {
+      "class": "oval",
+      "id": "8E29CFC9-3206-4EDF-8564-6F6A28E162BA"
+    }
+  ],
   "name": "Mobile Signal",
   "nameIsFixed": true,
   "originalObjectID": "2D14B331-D6AD-4FF9-A8F4-90CF0337B1DA",
@@ -33,7 +60,6 @@
     "fills": [
       {
         "_class": "fill",
-        "isEnabled": true,
         "color": {
           "_class": "color",
           "alpha": 1,
@@ -42,6 +68,7 @@
           "red": 1
         },
         "fillType": 0,
+        "isEnabled": true,
         "noiseIndex": 0,
         "noiseIntensity": 0,
         "patternFillType": 0,
@@ -51,30 +78,5 @@
     "miterLimit": 10,
     "startDecorationType": 0
   },
-  "hasClickThrough": false,
-  "layers": [
-    {
-      "id": "8184E17A-78F9-4E74-AE43-580D362A8545",
-      "class": "oval"
-    },
-    {
-      "id": "9123CB72-BD55-4479-8A04-6B3C75EDE6AF",
-      "class": "oval"
-    },
-    {
-      "id": "64EF1A17-FC41-473F-838F-72D21E5EE731",
-      "class": "oval"
-    },
-    {
-      "id": "981CDA56-C3B3-4DF2-AE83-AF04CA5A9672",
-      "class": "oval"
-    },
-    {
-      "id": "8E29CFC9-3206-4EDF-8564-6F6A28E162BA",
-      "class": "oval"
-    }
-  ],
-  "clippingMaskMode": 0,
-  "hasClippingMask": false,
   "windingRule": 1
 }

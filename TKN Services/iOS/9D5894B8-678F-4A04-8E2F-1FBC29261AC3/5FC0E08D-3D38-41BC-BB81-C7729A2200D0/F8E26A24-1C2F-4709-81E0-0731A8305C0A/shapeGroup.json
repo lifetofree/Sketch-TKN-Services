@@ -1,10 +1,13 @@
 {
   "_class": "shapeGroup",
+  "clippingMaskMode": 0,
   "do_objectID": "F8E26A24-1C2F-4709-81E0-0731A8305C0A",
   "exportOptions": {
     "_class": "exportOptions",
-    "exportFormats": [],
-    "includedLayerIds": [],
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
     "layerOptions": 0,
     "shouldTrim": false
   },
@@ -16,11 +19,19 @@
     "x": 52.5,
     "y": 0.5
   },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "04274F64-8DE9-453F-9D72-A07360BD2F1E"
+    }
+  ],
   "name": "Button Edges",
   "nameIsFixed": false,
   "originalObjectID": "EC6ACD85-328A-4E2D-9107-3BFC9F3495CD",
@@ -33,7 +44,6 @@
     "fills": [
       {
         "_class": "fill",
-        "isEnabled": true,
         "color": {
           "_class": "color",
           "alpha": 0.7800000309944153,
@@ -47,6 +57,7 @@
           "opacity": 1
         },
         "fillType": 0,
+        "isEnabled": true,
         "noiseIndex": 0,
         "noiseIntensity": 0,
         "patternFillType": 0,
@@ -54,7 +65,6 @@
       },
       {
         "_class": "fill",
-        "isEnabled": true,
         "color": {
           "_class": "color",
           "alpha": 1,
@@ -68,6 +78,7 @@
           "opacity": 1
         },
         "fillType": 0,
+        "isEnabled": true,
         "noiseIndex": 0,
         "noiseIntensity": 0,
         "patternFillType": 0,
@@ -82,7 +93,7 @@
         "MSAttributedStringFontAttribute": {
           "_archive": [
             {
-              "$version": 100000,
+              "$archiver": "NSKeyedArchiver",
               "$objects": [
                 "$null",
                 {
@@ -94,6 +105,9 @@
                   }
                 },
                 {
+                  "$class": {
+                    "UID": 7
+                  },
                   "NS.keys": [
                     {
                       "UID": 3
@@ -109,86 +123,83 @@
                     {
                       "UID": 6
                     }
-                  ],
-                  "$class": {
-                    "UID": 7
-                  }
+                  ]
                 },
                 "NSFontSizeAttribute",
                 "NSFontNameAttribute",
                 13,
                 "SFUIDisplay-Regular",
                 {
-                  "$classname": "NSMutableDictionary",
                   "$classes": [
                     "NSMutableDictionary",
                     "NSDictionary",
                     "NSObject"
-                  ]
+                  ],
+                  "$classname": "NSMutableDictionary"
                 },
                 {
-                  "$classname": "NSFontDescriptor",
                   "$classes": [
                     "NSFontDescriptor",
                     "NSObject"
-                  ]
+                  ],
+                  "$classname": "NSFontDescriptor"
                 }
               ],
-              "$archiver": "NSKeyedArchiver",
               "$top": {
                 "root": {
                   "UID": 1
                 }
-              }
+              },
+              "$version": 100000
             }
           ]
         },
         "NSColor": {
           "_archive": [
             {
-              "$version": 100000,
+              "$archiver": "NSKeyedArchiver",
               "$objects": [
                 "$null",
                 {
-                  "NSRGB": {
-                    "type": "Buffer",
-                    "data": "0.01176470588 0.01176470588 0.01176470588\u0000"
+                  "$class": {
+                    "UID": 4
                   },
                   "NSColorSpace": 1,
                   "NSCustomColorSpace": {
                     "UID": 2
                   },
-                  "$class": {
-                    "UID": 4
+                  "NSRGB": {
+                    "data": "0.01176470588 0.01176470588 0.01176470588\u0000",
+                    "type": "Buffer"
                   }
                 },
                 {
-                  "NSID": 1,
                   "$class": {
                     "UID": 3
-                  }
+                  },
+                  "NSID": 1
                 },
                 {
-                  "$classname": "NSColorSpace",
                   "$classes": [
                     "NSColorSpace",
                     "NSObject"
-                  ]
+                  ],
+                  "$classname": "NSColorSpace"
                 },
                 {
-                  "$classname": "NSColor",
                   "$classes": [
                     "NSColor",
                     "NSObject"
-                  ]
+                  ],
+                  "$classname": "NSColor"
                 }
               ],
-              "$archiver": "NSKeyedArchiver",
               "$top": {
                 "root": {
                   "UID": 1
                 }
-              }
+              },
+              "$version": 100000
             }
           ]
         },
@@ -196,49 +207,40 @@
         "NSParagraphStyle": {
           "_archive": [
             {
-              "$version": 100000,
+              "$archiver": "NSKeyedArchiver",
               "$objects": [
                 "$null",
                 {
-                  "NSAlignment": 2,
-                  "NSTabStops": {
-                    "UID": 0
-                  },
-                  "NSMinLineHeight": 16,
                   "$class": {
                     "UID": 2
                   },
-                  "NSMaxLineHeight": 16
+                  "NSAlignment": 2,
+                  "NSMaxLineHeight": 16,
+                  "NSMinLineHeight": 16,
+                  "NSTabStops": {
+                    "UID": 0
+                  }
                 },
                 {
-                  "$classname": "NSMutableParagraphStyle",
                   "$classes": [
                     "NSMutableParagraphStyle",
                     "NSParagraphStyle",
                     "NSObject"
-                  ]
+                  ],
+                  "$classname": "NSMutableParagraphStyle"
                 }
               ],
-              "$archiver": "NSKeyedArchiver",
               "$top": {
                 "root": {
                   "UID": 1
                 }
-              }
+              },
+              "$version": 100000
             }
           ]
         }
       }
     }
   },
-  "hasClickThrough": false,
-  "layers": [
-    {
-      "id": "04274F64-8DE9-453F-9D72-A07360BD2F1E",
-      "class": "rectangle"
-    }
-  ],
-  "clippingMaskMode": 0,
-  "hasClippingMask": false,
   "windingRule": 1
 }

@@ -14,7 +14,7 @@
         "MSAttributedStringFontAttribute": {
           "_archive": [
             {
-              "$version": 100000,
+              "$archiver": "NSKeyedArchiver",
               "$objects": [
                 "$null",
                 {
@@ -26,6 +26,9 @@
                   }
                 },
                 {
+                  "$class": {
+                    "UID": 7
+                  },
                   "NS.keys": [
                     {
                       "UID": 3
@@ -41,119 +44,116 @@
                     {
                       "UID": 6
                     }
-                  ],
-                  "$class": {
-                    "UID": 7
-                  }
+                  ]
                 },
                 "NSFontSizeAttribute",
                 "NSFontNameAttribute",
                 12,
                 "SFUIText-Regular",
                 {
-                  "$classname": "NSMutableDictionary",
                   "$classes": [
                     "NSMutableDictionary",
                     "NSDictionary",
                     "NSObject"
-                  ]
+                  ],
+                  "$classname": "NSMutableDictionary"
                 },
                 {
-                  "$classname": "NSFontDescriptor",
                   "$classes": [
                     "NSFontDescriptor",
                     "NSObject"
-                  ]
+                  ],
+                  "$classname": "NSFontDescriptor"
                 }
               ],
-              "$archiver": "NSKeyedArchiver",
               "$top": {
                 "root": {
                   "UID": 1
                 }
-              }
+              },
+              "$version": 100000
             }
           ]
         },
-        "NSKern": 0,
         "NSColor": {
           "_archive": [
             {
-              "$version": 100000,
+              "$archiver": "NSKeyedArchiver",
               "$objects": [
                 "$null",
                 {
-                  "NSRGB": {
-                    "type": "Buffer",
-                    "data": "0.5607843137 0.5568627451 0.5803921569\u0000"
+                  "$class": {
+                    "UID": 4
                   },
                   "NSColorSpace": 1,
                   "NSCustomColorSpace": {
                     "UID": 2
                   },
-                  "$class": {
-                    "UID": 4
+                  "NSRGB": {
+                    "data": "0.5607843137 0.5568627451 0.5803921569\u0000",
+                    "type": "Buffer"
                   }
                 },
                 {
-                  "NSID": 1,
                   "$class": {
                     "UID": 3
-                  }
+                  },
+                  "NSID": 1
                 },
                 {
-                  "$classname": "NSColorSpace",
                   "$classes": [
                     "NSColorSpace",
                     "NSObject"
-                  ]
+                  ],
+                  "$classname": "NSColorSpace"
                 },
                 {
-                  "$classname": "NSColor",
                   "$classes": [
                     "NSColor",
                     "NSObject"
-                  ]
+                  ],
+                  "$classname": "NSColor"
                 }
               ],
-              "$archiver": "NSKeyedArchiver",
               "$top": {
                 "root": {
                   "UID": 1
                 }
-              }
+              },
+              "$version": 100000
             }
           ]
         },
+        "NSKern": 0,
         "NSParagraphStyle": {
           "_archive": [
             {
-              "$version": 100000,
+              "$archiver": "NSKeyedArchiver",
               "$objects": [
                 "$null",
                 {
-                  "NSTabStops": {
-                    "UID": 0
-                  },
                   "$class": {
                     "UID": 2
                   },
-                  "NSAlignment": 4
+                  "NSAlignment": 4,
+                  "NSTabStops": {
+                    "UID": 0
+                  }
                 },
                 {
-                  "$classname": "NSParagraphStyle",
                   "$classes": [
                     "NSParagraphStyle",
                     "NSObject"
-                  ]
+                  ],
+                  "$classname": "NSParagraphStyle"
                 }
               ],
-              "$archiver": "NSKeyedArchiver",
               "$top": {
                 "root": {
                   "UID": 1
                 }
-              }
+              },
+              "$version": 100000
             }
           ]
         }

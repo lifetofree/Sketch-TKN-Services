@@ -1,10 +1,13 @@
 {
   "_class": "shapeGroup",
+  "clippingMaskMode": 0,
   "do_objectID": "273167C8-A4A4-4679-8324-2C7CEB53546B",
   "exportOptions": {
     "_class": "exportOptions",
-    "exportFormats": [],
-    "includedLayerIds": [],
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
     "layerOptions": 0,
     "shouldTrim": false
   },
@@ -16,11 +19,23 @@
     "x": 62.5,
     "y": 6.5
   },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "F73AEE74-DEC9-4413-BF5E-FC49BD7ABA13"
+    },
+    {
+      "class": "rectangle",
+      "id": "ED620A81-706B-4643-A829-038BB62C47E7"
+    }
+  ],
   "name": "Increase",
   "nameIsFixed": true,
   "originalObjectID": "7B618C3F-07A9-40F6-A205-B02C97355EB1",
@@ -33,7 +48,6 @@
     "fills": [
       {
         "_class": "fill",
-        "isEnabled": true,
         "color": {
           "_class": "color",
           "alpha": 1,
@@ -42,6 +56,7 @@
           "red": 0
         },
         "fillType": 0,
+        "isEnabled": true,
         "noiseIndex": 0,
         "noiseIntensity": 0,
         "patternFillType": 0,
@@ -52,18 +67,5 @@
     "sharedObjectID": "8A5A372B-F98B-44ED-BDFE-08A448CEAB0B",
     "startDecorationType": 0
   },
-  "hasClickThrough": false,
-  "layers": [
-    {
-      "id": "F73AEE74-DEC9-4413-BF5E-FC49BD7ABA13",
-      "class": "rectangle"
-    },
-    {
-      "id": "ED620A81-706B-4643-A829-038BB62C47E7",
-      "class": "rectangle"
-    }
-  ],
-  "clippingMaskMode": 0,
-  "hasClippingMask": false,
   "windingRule": 1
 }

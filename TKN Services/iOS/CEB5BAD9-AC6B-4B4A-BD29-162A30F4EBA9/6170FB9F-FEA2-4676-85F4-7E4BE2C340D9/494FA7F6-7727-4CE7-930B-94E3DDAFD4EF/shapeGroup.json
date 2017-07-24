@@ -1,10 +1,13 @@
 {
   "_class": "shapeGroup",
+  "clippingMaskMode": 0,
   "do_objectID": "494FA7F6-7727-4CE7-930B-94E3DDAFD4EF",
   "exportOptions": {
     "_class": "exportOptions",
-    "exportFormats": [],
-    "includedLayerIds": [],
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
     "layerOptions": 0,
     "shouldTrim": false
   },
@@ -16,11 +19,19 @@
     "x": 4.5,
     "y": 7
   },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "93EFE252-D794-475B-A566-032C61FCCB17"
+    }
+  ],
   "name": "Check",
   "nameIsFixed": false,
   "originalObjectID": "E9D60C79-8BF5-471C-82FF-C015336A15F1",
@@ -32,7 +43,6 @@
     "borders": [
       {
         "_class": "border",
-        "isEnabled": true,
         "color": {
           "_class": "color",
           "alpha": 1,
@@ -41,6 +51,7 @@
           "red": 1
         },
         "fillType": 0,
+        "isEnabled": true,
         "position": 0,
         "thickness": 1
       }
@@ -49,7 +60,6 @@
     "fills": [
       {
         "_class": "fill",
-        "isEnabled": false,
         "color": {
           "_class": "color",
           "alpha": 1,
@@ -58,6 +68,7 @@
           "red": 0.847
         },
         "fillType": 0,
+        "isEnabled": false,
         "noiseIndex": 0,
         "noiseIntensity": 0,
         "patternFillType": 0,
@@ -67,14 +78,5 @@
     "miterLimit": 10,
     "startDecorationType": 0
   },
-  "hasClickThrough": false,
-  "layers": [
-    {
-      "id": "93EFE252-D794-475B-A566-032C61FCCB17",
-      "class": "shapePath"
-    }
-  ],
-  "clippingMaskMode": 0,
-  "hasClippingMask": false,
   "windingRule": 1
 }

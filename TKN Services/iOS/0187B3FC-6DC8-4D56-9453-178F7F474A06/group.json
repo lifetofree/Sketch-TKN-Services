@@ -3,8 +3,10 @@
   "do_objectID": "0187B3FC-6DC8-4D56-9453-178F7F474A06",
   "exportOptions": {
     "_class": "exportOptions",
-    "exportFormats": [],
-    "includedLayerIds": [],
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
     "layerOptions": 0,
     "shouldTrim": false
   },
@@ -16,11 +18,22 @@
     "x": 258,
     "y": 1636
   },
+  "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "271A440A-0569-42CE-B81F-0EF2F3C90AA6"
+    },
+    {
+      "class": "group",
+      "id": "D34E64D7-153F-4122-9B3C-22B2FA7071F5"
+    }
+  ],
   "name": "Cell Elements/Delete Reveal",
   "nameIsFixed": false,
   "resizingType": 0,
@@ -31,16 +44,5 @@
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
-  },
-  "hasClickThrough": false,
-  "layers": [
-    {
-      "id": "271A440A-0569-42CE-B81F-0EF2F3C90AA6",
-      "class": "shapeGroup"
-    },
-    {
-      "id": "D34E64D7-153F-4122-9B3C-22B2FA7071F5",
-      "class": "group"
-    }
-  ]
+  }
 }

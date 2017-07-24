@@ -1,10 +1,13 @@
 {
   "_class": "shapeGroup",
+  "clippingMaskMode": 0,
   "do_objectID": "4BA9D505-B4E5-495D-A6F6-CE905494331F",
   "exportOptions": {
     "_class": "exportOptions",
-    "exportFormats": [],
-    "includedLayerIds": [],
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
     "layerOptions": 0,
     "shouldTrim": false
   },
@@ -16,11 +19,19 @@
     "x": 0,
     "y": 0
   },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "E5C1ABE6-F92B-4678-BD2C-277C698D11CA"
+    }
+  ],
   "name": "Bar",
   "nameIsFixed": true,
   "originalObjectID": "BFE18D71-BB78-4F8C-8DC2-2B4E3DEDF3D7",
@@ -31,8 +42,8 @@
     "_class": "style",
     "blur": {
       "_class": "blur",
-      "isEnabled": true,
       "center": "{0.5, 0.5}",
+      "isEnabled": true,
       "motionAngle": 0,
       "radius": 10,
       "type": 3
@@ -41,7 +52,6 @@
     "fills": [
       {
         "_class": "fill",
-        "isEnabled": true,
         "color": {
           "_class": "color",
           "alpha": 0.9,
@@ -50,6 +60,7 @@
           "red": 0.9803921568627451
         },
         "fillType": 0,
+        "isEnabled": true,
         "noiseIndex": 0,
         "noiseIntensity": 0,
         "patternFillType": 0,
@@ -60,7 +71,6 @@
     "shadows": [
       {
         "_class": "shadow",
-        "isEnabled": true,
         "blurRadius": 0,
         "color": {
           "_class": "color",
@@ -74,6 +84,7 @@
           "blendMode": 0,
           "opacity": 1
         },
+        "isEnabled": true,
         "offsetX": 0,
         "offsetY": 0.5,
         "spread": 0
@@ -82,14 +93,5 @@
     "sharedObjectID": "A75DBC00-2126-49DF-8C12-FA2D2052F545",
     "startDecorationType": 0
   },
-  "hasClickThrough": false,
-  "layers": [
-    {
-      "id": "E5C1ABE6-F92B-4678-BD2C-277C698D11CA",
-      "class": "rectangle"
-    }
-  ],
-  "clippingMaskMode": 0,
-  "hasClippingMask": false,
   "windingRule": 1
 }

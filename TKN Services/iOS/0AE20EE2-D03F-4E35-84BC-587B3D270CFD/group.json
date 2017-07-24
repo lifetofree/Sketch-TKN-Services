@@ -3,8 +3,10 @@
   "do_objectID": "0AE20EE2-D03F-4E35-84BC-587B3D270CFD",
   "exportOptions": {
     "_class": "exportOptions",
-    "exportFormats": [],
-    "includedLayerIds": [],
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
     "layerOptions": 0,
     "shouldTrim": false
   },
@@ -16,11 +18,22 @@
     "x": 214,
     "y": 1570
   },
+  "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "E765A737-DC73-4CD3-BC6E-0D5ED0C7E877"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C9DC45BE-0F4E-4784-8850-B6373091F5C1"
+    }
+  ],
   "name": "Float",
   "nameIsFixed": true,
   "resizingType": 3,
@@ -31,16 +44,5 @@
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
-  },
-  "hasClickThrough": false,
-  "layers": [
-    {
-      "id": "E765A737-DC73-4CD3-BC6E-0D5ED0C7E877",
-      "class": "shapeGroup"
-    },
-    {
-      "id": "C9DC45BE-0F4E-4784-8850-B6373091F5C1",
-      "class": "shapeGroup"
-    }
-  ]
+  }
 }

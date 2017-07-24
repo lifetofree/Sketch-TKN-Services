@@ -1,13 +1,18 @@
 {
   "_class": "rectangle",
+  "booleanOperation": 1,
   "do_objectID": "0FA91BDD-CBA6-4F87-9C23-97A373C06F4E",
+  "edited": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "exportFormats": [],
-    "includedLayerIds": [],
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
     "layerOptions": 0,
     "shouldTrim": false
   },
+  "fixedRadius": 0,
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
@@ -16,6 +21,7 @@
     "x": 169.5,
     "y": 9
   },
+  "hasConvertedToNewRoundCorners": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -24,11 +30,6 @@
   "name": "Right",
   "nameIsFixed": true,
   "originalObjectID": "233323D6-B4B8-4928-93F1-54E502716137",
-  "resizingType": 3,
-  "rotation": 0,
-  "shouldBreakMaskChain": false,
-  "booleanOperation": 1,
-  "edited": false,
   "path": {
     "_class": "path",
     "isClosed": true,
@@ -75,6 +76,7 @@
       }
     ]
   },
-  "fixedRadius": 0,
-  "hasConvertedToNewRoundCorners": true
+  "resizingType": 3,
+  "rotation": 0,
+  "shouldBreakMaskChain": false
 }

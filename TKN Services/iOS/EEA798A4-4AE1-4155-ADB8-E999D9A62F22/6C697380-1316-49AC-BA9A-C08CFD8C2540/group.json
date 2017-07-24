@@ -3,8 +3,10 @@
   "do_objectID": "6C697380-1316-49AC-BA9A-C08CFD8C2540",
   "exportOptions": {
     "_class": "exportOptions",
-    "exportFormats": [],
-    "includedLayerIds": [],
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
     "layerOptions": 0,
     "shouldTrim": false
   },
@@ -16,11 +18,22 @@
     "x": 123,
     "y": 162
   },
+  "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "764FA9D1-FEC6-4E79-A5EE-DCAB3DDCCEC7"
+    },
+    {
+      "class": "text",
+      "id": "E89FC4D7-A306-4FAD-943D-EAFE06608436"
+    }
+  ],
   "name": "0",
   "nameIsFixed": true,
   "resizingType": 0,
@@ -31,16 +44,5 @@
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
-  },
-  "hasClickThrough": false,
-  "layers": [
-    {
-      "id": "764FA9D1-FEC6-4E79-A5EE-DCAB3DDCCEC7",
-      "class": "shapeGroup"
-    },
-    {
-      "id": "E89FC4D7-A306-4FAD-943D-EAFE06608436",
-      "class": "text"
-    }
-  ]
+  }
 }

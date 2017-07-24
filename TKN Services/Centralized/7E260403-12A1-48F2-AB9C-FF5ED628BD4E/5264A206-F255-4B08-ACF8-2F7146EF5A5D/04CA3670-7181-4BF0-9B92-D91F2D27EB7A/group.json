@@ -3,8 +3,10 @@
   "do_objectID": "04CA3670-7181-4BF0-9B92-D91F2D27EB7A",
   "exportOptions": {
     "_class": "exportOptions",
-    "exportFormats": [],
-    "includedLayerIds": [],
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
     "layerOptions": 0,
     "shouldTrim": false
   },
@@ -16,11 +18,30 @@
     "x": 0,
     "y": 1
   },
+  "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "33D106BB-C6AC-4095-B5BB-93A80C8A9127"
+    },
+    {
+      "class": "group",
+      "id": "45132C86-058C-4B2F-8829-7AA3930AFF22"
+    },
+    {
+      "class": "text",
+      "id": "B643A2FB-57FF-4537-9867-31E135D3350D"
+    },
+    {
+      "class": "group",
+      "id": "350FEEB7-5490-4574-9FA5-05BEC4947001"
+    }
+  ],
   "name": "Status Bar/White/100%",
   "nameIsFixed": false,
   "resizingType": 0,
@@ -31,24 +52,5 @@
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
-  },
-  "hasClickThrough": false,
-  "layers": [
-    {
-      "id": "33D106BB-C6AC-4095-B5BB-93A80C8A9127",
-      "class": "shapeGroup"
-    },
-    {
-      "id": "45132C86-058C-4B2F-8829-7AA3930AFF22",
-      "class": "group"
-    },
-    {
-      "id": "B643A2FB-57FF-4537-9867-31E135D3350D",
-      "class": "text"
-    },
-    {
-      "id": "350FEEB7-5490-4574-9FA5-05BEC4947001",
-      "class": "group"
-    }
-  ]
+  }
 }

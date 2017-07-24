@@ -3,8 +3,10 @@
   "do_objectID": "3963C8B3-5588-441F-95F1-0C4215A00673",
   "exportOptions": {
     "_class": "exportOptions",
-    "exportFormats": [],
-    "includedLayerIds": [],
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
     "layerOptions": 0,
     "shouldTrim": false
   },
@@ -16,11 +18,22 @@
     "x": 8,
     "y": 410
   },
+  "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "FB8E02EC-7713-4347-8802-9134F1EF8D24"
+    },
+    {
+      "class": "group",
+      "id": "9431CAFA-3574-4C26-93E3-656E3262BEA0"
+    }
+  ],
   "name": "button",
   "nameIsFixed": true,
   "resizingType": 0,
@@ -31,16 +44,5 @@
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
-  },
-  "hasClickThrough": false,
-  "layers": [
-    {
-      "id": "FB8E02EC-7713-4347-8802-9134F1EF8D24",
-      "class": "group"
-    },
-    {
-      "id": "9431CAFA-3574-4C26-93E3-656E3262BEA0",
-      "class": "group"
-    }
-  ]
+  }
 }

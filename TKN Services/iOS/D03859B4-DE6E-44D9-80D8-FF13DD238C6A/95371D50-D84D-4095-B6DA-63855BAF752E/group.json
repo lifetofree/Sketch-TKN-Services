@@ -3,8 +3,10 @@
   "do_objectID": "95371D50-D84D-4095-B6DA-63855BAF752E",
   "exportOptions": {
     "_class": "exportOptions",
-    "exportFormats": [],
-    "includedLayerIds": [],
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
     "layerOptions": 0,
     "shouldTrim": false
   },
@@ -16,11 +18,34 @@
     "x": 3,
     "y": 170
   },
+  "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "A9C76B2E-3CB8-4C5D-962C-9708A5C15B4A"
+    },
+    {
+      "class": "group",
+      "id": "62D8DD5E-C205-4FB2-B9F1-874606F4ABE6"
+    },
+    {
+      "class": "group",
+      "id": "D8CC2E6B-D219-484C-BE2B-18A7167C1C93"
+    },
+    {
+      "class": "group",
+      "id": "95AE8246-16B6-46CA-BA4C-CD0165A3266D"
+    },
+    {
+      "class": "group",
+      "id": "6B077E68-1EFC-465D-9912-CAA52AB28680"
+    }
+  ],
   "name": "Bottom Row",
   "nameIsFixed": false,
   "originalObjectID": "B47A48EF-DD2C-441E-B80D-284B23F89E50",
@@ -32,28 +57,5 @@
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
-  },
-  "hasClickThrough": false,
-  "layers": [
-    {
-      "id": "A9C76B2E-3CB8-4C5D-962C-9708A5C15B4A",
-      "class": "group"
-    },
-    {
-      "id": "62D8DD5E-C205-4FB2-B9F1-874606F4ABE6",
-      "class": "group"
-    },
-    {
-      "id": "D8CC2E6B-D219-484C-BE2B-18A7167C1C93",
-      "class": "group"
-    },
-    {
-      "id": "95AE8246-16B6-46CA-BA4C-CD0165A3266D",
-      "class": "group"
-    },
-    {
-      "id": "6B077E68-1EFC-465D-9912-CAA52AB28680",
-      "class": "group"
-    }
-  ]
+  }
 }

@@ -3,8 +3,10 @@
   "do_objectID": "132CA7C5-EDDA-46B4-A3D3-421C767E82E0",
   "exportOptions": {
     "_class": "exportOptions",
-    "exportFormats": [],
-    "includedLayerIds": [],
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
     "layerOptions": 0,
     "shouldTrim": false
   },
@@ -16,11 +18,22 @@
     "x": 15,
     "y": 12
   },
+  "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "9286BEB8-7A08-44EE-8172-82ABA6FED3B1"
+    },
+    {
+      "class": "group",
+      "id": "83C47915-ECC1-407B-90BB-AA1984D69EDC"
+    }
+  ],
   "name": "Bin",
   "nameIsFixed": true,
   "resizingType": 1,
@@ -31,16 +44,5 @@
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
-  },
-  "hasClickThrough": false,
-  "layers": [
-    {
-      "id": "9286BEB8-7A08-44EE-8172-82ABA6FED3B1",
-      "class": "text"
-    },
-    {
-      "id": "83C47915-ECC1-407B-90BB-AA1984D69EDC",
-      "class": "group"
-    }
-  ]
+  }
 }

@@ -3,8 +3,10 @@
   "do_objectID": "B04DCE23-DA15-4EF6-9B9D-0B8426CDEEAE",
   "exportOptions": {
     "_class": "exportOptions",
-    "exportFormats": [],
-    "includedLayerIds": [],
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
     "layerOptions": 0,
     "shouldTrim": false
   },
@@ -16,11 +18,30 @@
     "x": 0,
     "y": 220
   },
+  "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "B581E1A8-0BA0-45A2-8A9A-2A5150304C99"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "019044D9-BD72-45CA-95F9-F4F6F9029A21"
+    },
+    {
+      "class": "text",
+      "id": "2CC882FE-5FA8-4138-BE6A-E3A35FDB4740"
+    },
+    {
+      "class": "text",
+      "id": "EC2E5417-1F9B-4005-A37C-7D81B2650A55"
+    }
+  ],
   "name": "Cell/Cell with Input",
   "nameIsFixed": false,
   "resizingType": 0,
@@ -31,24 +52,5 @@
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
-  },
-  "hasClickThrough": false,
-  "layers": [
-    {
-      "id": "B581E1A8-0BA0-45A2-8A9A-2A5150304C99",
-      "class": "shapeGroup"
-    },
-    {
-      "id": "019044D9-BD72-45CA-95F9-F4F6F9029A21",
-      "class": "shapeGroup"
-    },
-    {
-      "id": "2CC882FE-5FA8-4138-BE6A-E3A35FDB4740",
-      "class": "text"
-    },
-    {
-      "id": "EC2E5417-1F9B-4005-A37C-7D81B2650A55",
-      "class": "text"
-    }
-  ]
+  }
 }

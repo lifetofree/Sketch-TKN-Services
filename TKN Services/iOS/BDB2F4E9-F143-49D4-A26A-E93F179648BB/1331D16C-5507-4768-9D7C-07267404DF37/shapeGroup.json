@@ -1,10 +1,13 @@
 {
   "_class": "shapeGroup",
+  "clippingMaskMode": 0,
   "do_objectID": "1331D16C-5507-4768-9D7C-07267404DF37",
   "exportOptions": {
     "_class": "exportOptions",
-    "exportFormats": [],
-    "includedLayerIds": [],
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
     "layerOptions": 0,
     "shouldTrim": false
   },
@@ -16,11 +19,27 @@
     "x": 340,
     "y": 9.997502035348816
   },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "8762F4AF-2F46-40C6-82E8-771F0C44C008"
+    },
+    {
+      "class": "shapePath",
+      "id": "6F12F8B7-90B7-483E-B594-78D02744DBE7"
+    },
+    {
+      "class": "shapePath",
+      "id": "F58ACB15-7B29-4969-AC9E-BA9238C354BF"
+    }
+  ],
   "name": "Edit Button",
   "nameIsFixed": true,
   "originalObjectID": "C3673F91-378D-45C2-8D76-EEFCB15CCEAA",
@@ -33,7 +52,6 @@
     "fills": [
       {
         "_class": "fill",
-        "isEnabled": true,
         "color": {
           "_class": "color",
           "alpha": 1,
@@ -42,6 +60,7 @@
           "red": 0
         },
         "fillType": 0,
+        "isEnabled": true,
         "noiseIndex": 0,
         "noiseIntensity": 0,
         "patternFillType": 0,
@@ -52,22 +71,5 @@
     "sharedObjectID": "8A5A372B-F98B-44ED-BDFE-08A448CEAB0B",
     "startDecorationType": 0
   },
-  "hasClickThrough": false,
-  "layers": [
-    {
-      "id": "8762F4AF-2F46-40C6-82E8-771F0C44C008",
-      "class": "shapePath"
-    },
-    {
-      "id": "6F12F8B7-90B7-483E-B594-78D02744DBE7",
-      "class": "shapePath"
-    },
-    {
-      "id": "F58ACB15-7B29-4969-AC9E-BA9238C354BF",
-      "class": "shapePath"
-    }
-  ],
-  "clippingMaskMode": 0,
-  "hasClippingMask": false,
   "windingRule": 1
 }

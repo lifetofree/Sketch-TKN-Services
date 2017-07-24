@@ -1,10 +1,13 @@
 {
   "_class": "shapeGroup",
+  "clippingMaskMode": 0,
   "do_objectID": "610563FC-6DFF-4F2E-A157-853467B997B0",
   "exportOptions": {
     "_class": "exportOptions",
-    "exportFormats": [],
-    "includedLayerIds": [],
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
     "layerOptions": 0,
     "shouldTrim": false
   },
@@ -16,11 +19,19 @@
     "x": 0,
     "y": 0
   },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "206FAD4F-8A63-425F-81C9-4C155D99D25D"
+    }
+  ],
   "name": "Bar",
   "nameIsFixed": true,
   "originalObjectID": "E2C2F4F2-E8E6-4729-ADC4-3CB03EF5378B",
@@ -31,8 +42,8 @@
     "_class": "style",
     "blur": {
       "_class": "blur",
-      "isEnabled": true,
       "center": "{0.5, 0.5}",
+      "isEnabled": true,
       "motionAngle": 0,
       "radius": 10.19244025735294,
       "type": 3
@@ -41,7 +52,6 @@
     "fills": [
       {
         "_class": "fill",
-        "isEnabled": true,
         "color": {
           "_class": "color",
           "alpha": 0.6000000238418579,
@@ -50,6 +60,7 @@
           "red": 0
         },
         "fillType": 0,
+        "isEnabled": true,
         "noiseIndex": 0,
         "noiseIntensity": 0,
         "patternFillType": 0,
@@ -57,7 +68,6 @@
       },
       {
         "_class": "fill",
-        "isEnabled": true,
         "color": {
           "_class": "color",
           "alpha": 0.1000000014901161,
@@ -71,6 +81,7 @@
           "opacity": 1
         },
         "fillType": 0,
+        "isEnabled": true,
         "noiseIndex": 0,
         "noiseIntensity": 0,
         "patternFillType": 0,
@@ -81,7 +92,6 @@
     "shadows": [
       {
         "_class": "shadow",
-        "isEnabled": true,
         "blurRadius": 0,
         "color": {
           "_class": "color",
@@ -95,6 +105,7 @@
           "blendMode": 8,
           "opacity": 1
         },
+        "isEnabled": true,
         "offsetX": 0,
         "offsetY": 0.5,
         "spread": 0
@@ -103,14 +114,5 @@
     "sharedObjectID": "86C7CF09-4060-4A3E-BB69-2AD5D2C19E96",
     "startDecorationType": 0
   },
-  "hasClickThrough": false,
-  "layers": [
-    {
-      "id": "206FAD4F-8A63-425F-81C9-4C155D99D25D",
-      "class": "rectangle"
-    }
-  ],
-  "clippingMaskMode": 0,
-  "hasClippingMask": false,
   "windingRule": 1
 }

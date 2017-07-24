@@ -3,8 +3,10 @@
   "do_objectID": "5502075B-9313-4E59-8CB6-881089423AFE",
   "exportOptions": {
     "_class": "exportOptions",
-    "exportFormats": [],
-    "includedLayerIds": [],
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
     "layerOptions": 0,
     "shouldTrim": false
   },
@@ -16,11 +18,22 @@
     "x": 0,
     "y": 0
   },
+  "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "BD2FCB28-E79F-4F6D-9755-ECF29D5FCBFF"
+    },
+    {
+      "class": "text",
+      "id": "7D29AA14-C414-4FFE-A98F-492D9E78EAEF"
+    }
+  ],
   "name": "Bottom Bar/Toolbar Label",
   "nameIsFixed": false,
   "resizingType": 0,
@@ -31,16 +44,5 @@
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
-  },
-  "hasClickThrough": false,
-  "layers": [
-    {
-      "id": "BD2FCB28-E79F-4F6D-9755-ECF29D5FCBFF",
-      "class": "shapeGroup"
-    },
-    {
-      "id": "7D29AA14-C414-4FFE-A98F-492D9E78EAEF",
-      "class": "text"
-    }
-  ]
+  }
 }

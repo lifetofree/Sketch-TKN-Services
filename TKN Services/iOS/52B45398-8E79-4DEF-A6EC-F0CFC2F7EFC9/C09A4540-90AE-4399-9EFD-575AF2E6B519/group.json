@@ -3,8 +3,10 @@
   "do_objectID": "C09A4540-90AE-4399-9EFD-575AF2E6B519",
   "exportOptions": {
     "_class": "exportOptions",
-    "exportFormats": [],
-    "includedLayerIds": [],
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
     "layerOptions": 0,
     "shouldTrim": false
   },
@@ -16,11 +18,26 @@
     "x": 0,
     "y": 0
   },
+  "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "5E42D681-43D5-4C0F-985B-B95672392E27"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "49A6DB42-F371-4F42-B1B9-B08C4EB34992"
+    },
+    {
+      "class": "text",
+      "id": "4333EAC6-F342-4EB6-AFB6-CB4F30D057BB"
+    }
+  ],
   "name": "Action One",
   "nameIsFixed": false,
   "originalObjectID": "C09A4540-90AE-4399-9EFD-575AF2E6B519",
@@ -32,20 +49,5 @@
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
-  },
-  "hasClickThrough": false,
-  "layers": [
-    {
-      "id": "5E42D681-43D5-4C0F-985B-B95672392E27",
-      "class": "shapeGroup"
-    },
-    {
-      "id": "49A6DB42-F371-4F42-B1B9-B08C4EB34992",
-      "class": "shapeGroup"
-    },
-    {
-      "id": "4333EAC6-F342-4EB6-AFB6-CB4F30D057BB",
-      "class": "text"
-    }
-  ]
+  }
 }

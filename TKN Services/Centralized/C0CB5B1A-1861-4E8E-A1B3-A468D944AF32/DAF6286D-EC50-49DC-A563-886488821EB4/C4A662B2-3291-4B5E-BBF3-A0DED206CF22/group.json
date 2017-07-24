@@ -3,8 +3,10 @@
   "do_objectID": "C4A662B2-3291-4B5E-BBF3-A0DED206CF22",
   "exportOptions": {
     "_class": "exportOptions",
-    "exportFormats": [],
-    "includedLayerIds": [],
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
     "layerOptions": 0,
     "shouldTrim": false
   },
@@ -16,11 +18,22 @@
     "x": 1,
     "y": 61
   },
+  "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "C50A4DF7-8660-4400-8790-C70EB4E3E685"
+    },
+    {
+      "class": "text",
+      "id": "6512490F-0E3B-4160-A25E-70073FCF4E92"
+    }
+  ],
   "name": "transfer job",
   "nameIsFixed": true,
   "resizingType": 0,
@@ -31,16 +44,5 @@
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
-  },
-  "hasClickThrough": false,
-  "layers": [
-    {
-      "id": "C50A4DF7-8660-4400-8790-C70EB4E3E685",
-      "class": "shapeGroup"
-    },
-    {
-      "id": "6512490F-0E3B-4160-A25E-70073FCF4E92",
-      "class": "text"
-    }
-  ]
+  }
 }

@@ -3,8 +3,10 @@
   "do_objectID": "ABAD695A-4418-4B30-8295-3D2FF77DCE65",
   "exportOptions": {
     "_class": "exportOptions",
-    "exportFormats": [],
-    "includedLayerIds": [],
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
     "layerOptions": 0,
     "shouldTrim": false
   },
@@ -16,11 +18,50 @@
     "x": 21,
     "y": 64
   },
+  "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "B100BC98-D212-49C1-8959-992E9BCDE7E3"
+    },
+    {
+      "class": "group",
+      "id": "5B5B6168-B1B9-4F92-9181-DCE3D1B954A8"
+    },
+    {
+      "class": "group",
+      "id": "6BA0A2C4-9133-4594-B38A-6A406B090905"
+    },
+    {
+      "class": "group",
+      "id": "9E82CB2D-996E-4C32-8B3D-53EE0DE59F04"
+    },
+    {
+      "class": "group",
+      "id": "6A0B9636-848C-43CE-863E-6D457AE16FD5"
+    },
+    {
+      "class": "group",
+      "id": "107767D9-707E-4169-BA98-8CF9404F9B12"
+    },
+    {
+      "class": "group",
+      "id": "52B4024A-AAD3-450C-AFE7-8CF6B396D329"
+    },
+    {
+      "class": "group",
+      "id": "DD1ECBE4-AADD-480B-A061-B1990E854856"
+    },
+    {
+      "class": "group",
+      "id": "A579D2D7-4919-4539-AD4D-31F2DF3934F6"
+    }
+  ],
   "name": "Second Row",
   "nameIsFixed": false,
   "originalObjectID": "52CD1A34-1C04-4C61-8DA7-8A8119E95E96",
@@ -32,44 +73,5 @@
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
-  },
-  "hasClickThrough": false,
-  "layers": [
-    {
-      "id": "B100BC98-D212-49C1-8959-992E9BCDE7E3",
-      "class": "group"
-    },
-    {
-      "id": "5B5B6168-B1B9-4F92-9181-DCE3D1B954A8",
-      "class": "group"
-    },
-    {
-      "id": "6BA0A2C4-9133-4594-B38A-6A406B090905",
-      "class": "group"
-    },
-    {
-      "id": "9E82CB2D-996E-4C32-8B3D-53EE0DE59F04",
-      "class": "group"
-    },
-    {
-      "id": "6A0B9636-848C-43CE-863E-6D457AE16FD5",
-      "class": "group"
-    },
-    {
-      "id": "107767D9-707E-4169-BA98-8CF9404F9B12",
-      "class": "group"
-    },
-    {
-      "id": "52B4024A-AAD3-450C-AFE7-8CF6B396D329",
-      "class": "group"
-    },
-    {
-      "id": "DD1ECBE4-AADD-480B-A061-B1990E854856",
-      "class": "group"
-    },
-    {
-      "id": "A579D2D7-4919-4539-AD4D-31F2DF3934F6",
-      "class": "group"
-    }
-  ]
+  }
 }

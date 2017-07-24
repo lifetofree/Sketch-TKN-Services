@@ -3,8 +3,10 @@
   "do_objectID": "840CBEDB-B7D6-4156-8DA5-F2B6DB933DB1",
   "exportOptions": {
     "_class": "exportOptions",
-    "exportFormats": [],
-    "includedLayerIds": [],
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
     "layerOptions": 0,
     "shouldTrim": false
   },
@@ -16,11 +18,26 @@
     "x": 6,
     "y": 3
   },
+  "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "3301FEB2-5C9E-4337-9681-529D1BE3ECDA"
+    },
+    {
+      "class": "text",
+      "id": "3CCBDDEC-A9E8-43EB-B7E2-E4934172E84B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3A6A5204-75EC-4CA7-A16B-AAC944A0A746"
+    }
+  ],
   "name": "Pin Left",
   "nameIsFixed": true,
   "resizingType": 1,
@@ -31,20 +48,5 @@
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
-  },
-  "hasClickThrough": false,
-  "layers": [
-    {
-      "id": "3301FEB2-5C9E-4337-9681-529D1BE3ECDA",
-      "class": "shapeGroup"
-    },
-    {
-      "id": "3CCBDDEC-A9E8-43EB-B7E2-E4934172E84B",
-      "class": "text"
-    },
-    {
-      "id": "3A6A5204-75EC-4CA7-A16B-AAC944A0A746",
-      "class": "shapeGroup"
-    }
-  ]
+  }
 }

@@ -3,8 +3,10 @@
   "do_objectID": "C2CFDA5C-3B3D-4FDC-B2B8-6F525D8633C9",
   "exportOptions": {
     "_class": "exportOptions",
-    "exportFormats": [],
-    "includedLayerIds": [],
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
     "layerOptions": 0,
     "shouldTrim": false
   },
@@ -16,11 +18,38 @@
     "x": 112,
     "y": 1404
   },
+  "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "0786A3E8-D93B-48FB-88E2-F178698ED366"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "BE9DD4D5-1BE2-458D-92C8-DECE3DB4FB9D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C967399B-AA45-4614-BBBD-F3D6AD346957"
+    },
+    {
+      "class": "text",
+      "id": "49DD5E26-32A6-448A-AD25-B3107DE0B536"
+    },
+    {
+      "class": "text",
+      "id": "04ADA563-BB71-4DC9-A8D1-CC01AEE51330"
+    },
+    {
+      "class": "text",
+      "id": "67746DF9-42CA-44B5-AF23-A5E192DF2805"
+    }
+  ],
   "name": "Keyboard/Auto-Complete Bar Open",
   "nameIsFixed": false,
   "resizingType": 0,
@@ -31,32 +60,5 @@
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
-  },
-  "hasClickThrough": false,
-  "layers": [
-    {
-      "id": "0786A3E8-D93B-48FB-88E2-F178698ED366",
-      "class": "shapeGroup"
-    },
-    {
-      "id": "BE9DD4D5-1BE2-458D-92C8-DECE3DB4FB9D",
-      "class": "shapeGroup"
-    },
-    {
-      "id": "C967399B-AA45-4614-BBBD-F3D6AD346957",
-      "class": "shapeGroup"
-    },
-    {
-      "id": "49DD5E26-32A6-448A-AD25-B3107DE0B536",
-      "class": "text"
-    },
-    {
-      "id": "04ADA563-BB71-4DC9-A8D1-CC01AEE51330",
-      "class": "text"
-    },
-    {
-      "id": "67746DF9-42CA-44B5-AF23-A5E192DF2805",
-      "class": "text"
-    }
-  ]
+  }
 }

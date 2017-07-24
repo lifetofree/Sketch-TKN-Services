@@ -3,8 +3,10 @@
   "do_objectID": "EE1A2589-F95C-439E-9474-FEB14D26A809",
   "exportOptions": {
     "_class": "exportOptions",
-    "exportFormats": [],
-    "includedLayerIds": [],
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
     "layerOptions": 0,
     "shouldTrim": false
   },
@@ -16,11 +18,22 @@
     "x": 112,
     "y": 1375
   },
+  "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "6D5F104E-9C1E-402C-B5A5-5D76B2977DC9"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "DABAAF80-03A5-4A12-9EB8-E79375DF8D6B"
+    }
+  ],
   "name": "Keyboard/Auto-Complete Bar Closed",
   "nameIsFixed": false,
   "resizingType": 0,
@@ -31,16 +44,5 @@
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
-  },
-  "hasClickThrough": false,
-  "layers": [
-    {
-      "id": "6D5F104E-9C1E-402C-B5A5-5D76B2977DC9",
-      "class": "shapeGroup"
-    },
-    {
-      "id": "DABAAF80-03A5-4A12-9EB8-E79375DF8D6B",
-      "class": "shapeGroup"
-    }
-  ]
+  }
 }

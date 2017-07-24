@@ -1,13 +1,18 @@
 {
   "_class": "rectangle",
+  "booleanOperation": -1,
   "do_objectID": "ED54C634-06C0-4C2E-9DF9-FE23C0B2E30E",
+  "edited": true,
   "exportOptions": {
     "_class": "exportOptions",
-    "exportFormats": [],
-    "includedLayerIds": [],
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
     "layerOptions": 0,
     "shouldTrim": false
   },
+  "fixedRadius": 0,
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
@@ -16,6 +21,7 @@
     "x": -0.2053971109083363,
     "y": -7.99360577730113e-14
   },
+  "hasConvertedToNewRoundCorners": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -23,11 +29,6 @@
   "layerListExpandedType": 0,
   "name": "Path",
   "nameIsFixed": false,
-  "resizingType": 0,
-  "rotation": 0,
-  "shouldBreakMaskChain": false,
-  "booleanOperation": -1,
-  "edited": true,
   "path": {
     "_class": "path",
     "isClosed": true,
@@ -84,6 +85,7 @@
       }
     ]
   },
-  "fixedRadius": 0,
-  "hasConvertedToNewRoundCorners": true
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false
 }

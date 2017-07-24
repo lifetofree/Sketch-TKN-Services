@@ -3,8 +3,10 @@
   "do_objectID": "E2887B7A-5F2C-443E-A980-8C39EE6BFAC9",
   "exportOptions": {
     "_class": "exportOptions",
-    "exportFormats": [],
-    "includedLayerIds": [],
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
     "layerOptions": 0,
     "shouldTrim": false
   },
@@ -16,11 +18,46 @@
     "x": -2,
     "y": 1078
   },
+  "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "E1CF1480-B814-4761-A751-307FD621156F"
+    },
+    {
+      "class": "bitmap",
+      "id": "F69AE4EB-6466-4682-B303-91213F9CF39C"
+    },
+    {
+      "class": "group",
+      "id": "E4EF016F-CD3A-419F-9A4A-4E71D549D45B"
+    },
+    {
+      "class": "group",
+      "id": "28A5C2BA-6FCA-4431-B30A-7768BF411D34"
+    },
+    {
+      "class": "group",
+      "id": "63FCAEA0-715B-489E-9287-0E48073BB175"
+    },
+    {
+      "class": "group",
+      "id": "05A4F911-FA02-437A-9169-B9F62B752438"
+    },
+    {
+      "class": "group",
+      "id": "A6157829-AB27-4883-8162-04D406EF0673"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2498541F-863B-4CE7-A884-87B7E471A188"
+    }
+  ],
   "name": "Bottom Bar/Tab Bar",
   "nameIsFixed": false,
   "resizingType": 0,
@@ -31,40 +68,5 @@
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
-  },
-  "hasClickThrough": false,
-  "layers": [
-    {
-      "id": "E1CF1480-B814-4761-A751-307FD621156F",
-      "class": "shapeGroup"
-    },
-    {
-      "id": "F69AE4EB-6466-4682-B303-91213F9CF39C",
-      "class": "bitmap"
-    },
-    {
-      "id": "E4EF016F-CD3A-419F-9A4A-4E71D549D45B",
-      "class": "group"
-    },
-    {
-      "id": "28A5C2BA-6FCA-4431-B30A-7768BF411D34",
-      "class": "group"
-    },
-    {
-      "id": "63FCAEA0-715B-489E-9287-0E48073BB175",
-      "class": "group"
-    },
-    {
-      "id": "05A4F911-FA02-437A-9169-B9F62B752438",
-      "class": "group"
-    },
-    {
-      "id": "A6157829-AB27-4883-8162-04D406EF0673",
-      "class": "group"
-    },
-    {
-      "id": "2498541F-863B-4CE7-A884-87B7E471A188",
-      "class": "shapeGroup"
-    }
-  ]
+  }
 }

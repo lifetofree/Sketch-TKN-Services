@@ -3,8 +3,10 @@
   "do_objectID": "AC6C2877-6E38-4458-B004-9842618735DC",
   "exportOptions": {
     "_class": "exportOptions",
-    "exportFormats": [],
-    "includedLayerIds": [],
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
     "layerOptions": 0,
     "shouldTrim": false
   },
@@ -16,11 +18,26 @@
     "x": 0,
     "y": -1
   },
+  "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "bitmap",
+      "id": "85B958A4-B7B2-450D-8273-7E8CB5CCC84D"
+    },
+    {
+      "class": "group",
+      "id": "DB6E1FBA-A8CD-4040-A72A-8CA9CC9F94FB"
+    },
+    {
+      "class": "group",
+      "id": "86E579ED-06D1-44A1-BF11-9E5CDE914F0B"
+    }
+  ],
   "name": "top",
   "nameIsFixed": true,
   "resizingType": 0,
@@ -31,20 +48,5 @@
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
-  },
-  "hasClickThrough": false,
-  "layers": [
-    {
-      "id": "85B958A4-B7B2-450D-8273-7E8CB5CCC84D",
-      "class": "bitmap"
-    },
-    {
-      "id": "DB6E1FBA-A8CD-4040-A72A-8CA9CC9F94FB",
-      "class": "group"
-    },
-    {
-      "id": "86E579ED-06D1-44A1-BF11-9E5CDE914F0B",
-      "class": "group"
-    }
-  ]
+  }
 }

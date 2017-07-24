@@ -3,8 +3,10 @@
   "do_objectID": "5603F518-C387-4E7B-8D24-779ECA457641",
   "exportOptions": {
     "_class": "exportOptions",
-    "exportFormats": [],
-    "includedLayerIds": [],
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
     "layerOptions": 0,
     "shouldTrim": false
   },
@@ -16,11 +18,22 @@
     "x": 309,
     "y": 3
   },
+  "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "1A4632A4-9766-47A2-8E6D-088BE677DEDC"
+    },
+    {
+      "class": "text",
+      "id": "C00DBBB9-A4CD-4D2C-9A46-786AC56343A0"
+    }
+  ],
   "name": "Pin Right",
   "nameIsFixed": true,
   "resizingType": 1,
@@ -31,16 +44,5 @@
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
-  },
-  "hasClickThrough": false,
-  "layers": [
-    {
-      "id": "1A4632A4-9766-47A2-8E6D-088BE677DEDC",
-      "class": "shapeGroup"
-    },
-    {
-      "id": "C00DBBB9-A4CD-4D2C-9A46-786AC56343A0",
-      "class": "text"
-    }
-  ]
+  }
 }

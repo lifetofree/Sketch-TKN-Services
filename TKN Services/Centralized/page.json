@@ -3,8 +3,10 @@
   "do_objectID": "7A6D8445-B9E5-4ECB-B314-A952A222150F",
   "exportOptions": {
     "_class": "exportOptions",
-    "exportFormats": [],
-    "includedLayerIds": [],
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
     "layerOptions": 0,
     "shouldTrim": false
   },
@@ -16,190 +18,171 @@
     "x": 0,
     "y": 0
   },
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -302,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Centralized",
-  "nameIsFixed": true,
-  "resizingType": 0,
-  "rotation": 0,
-  "shouldBreakMaskChain": false,
-  "userInfo": {
-    "com.abynim.sketchplugins.userflows": {
-      "homeScreenID": "5F238C37-AC34-48B7-85D8-D32A6DCF60D6"
-    },
-    "com.invision.prototype": {
-      "lastUsedGestureID": 0
-    }
-  },
-  "style": {
-    "_class": "style",
-    "endDecorationType": 0,
-    "miterLimit": 10,
-    "startDecorationType": 0
-  },
-  "hasClickThrough": true,
   "layers": [
     {
-      "id": "46CE5EF1-1F09-46F9-BE4F-B8CC2E4AEA1F",
-      "class": "artboard"
+      "class": "artboard",
+      "id": "46CE5EF1-1F09-46F9-BE4F-B8CC2E4AEA1F"
     },
     {
-      "id": "6320C9F8-A745-4E6B-8B1B-E2BB6833E1F1",
-      "class": "artboard"
+      "class": "artboard",
+      "id": "6320C9F8-A745-4E6B-8B1B-E2BB6833E1F1"
     },
     {
-      "id": "43E31D80-B126-4348-B6C1-DDF8C0FAD6EA",
-      "class": "artboard"
+      "class": "artboard",
+      "id": "43E31D80-B126-4348-B6C1-DDF8C0FAD6EA"
     },
     {
-      "id": "522ED5C0-2A1C-4FD1-B498-6045ECC5F9E6",
-      "class": "artboard"
+      "class": "artboard",
+      "id": "522ED5C0-2A1C-4FD1-B498-6045ECC5F9E6"
     },
     {
-      "id": "02F67CEE-24CB-4B45-9B87-7E90299823F9",
-      "class": "artboard"
+      "class": "artboard",
+      "id": "02F67CEE-24CB-4B45-9B87-7E90299823F9"
     },
     {
-      "id": "CE876250-701D-4EC5-A298-6EE23E738ABE",
-      "class": "artboard"
+      "class": "artboard",
+      "id": "CE876250-701D-4EC5-A298-6EE23E738ABE"
     },
     {
-      "id": "C228AEAB-142D-41E9-8A7D-D95D172865E6",
-      "class": "artboard"
+      "class": "artboard",
+      "id": "C228AEAB-142D-41E9-8A7D-D95D172865E6"
     },
     {
-      "id": "A2DACFA7-06BD-4707-B954-436F79180490",
-      "class": "artboard"
+      "class": "artboard",
+      "id": "A2DACFA7-06BD-4707-B954-436F79180490"
     },
     {
-      "id": "FBBEB38C-4DF7-4B62-93FF-784AEB91B948",
-      "class": "artboard"
+      "class": "artboard",
+      "id": "FBBEB38C-4DF7-4B62-93FF-784AEB91B948"
     },
     {
-      "id": "1873B4BB-10AF-453B-A7B9-398A3D4EF55E",
-      "class": "artboard"
+      "class": "artboard",
+      "id": "1873B4BB-10AF-453B-A7B9-398A3D4EF55E"
     },
     {
-      "id": "4FC1F003-5BB1-457E-8D5F-41FF903DEF80",
-      "class": "artboard"
+      "class": "artboard",
+      "id": "4FC1F003-5BB1-457E-8D5F-41FF903DEF80"
     },
     {
-      "id": "F5C1C712-59EB-4267-9472-FFC9F96B662A",
-      "class": "artboard"
+      "class": "artboard",
+      "id": "F5C1C712-59EB-4267-9472-FFC9F96B662A"
     },
     {
-      "id": "264B1404-1F46-4D02-B562-C17DE0FDF09F",
-      "class": "artboard"
+      "class": "artboard",
+      "id": "264B1404-1F46-4D02-B562-C17DE0FDF09F"
     },
     {
-      "id": "97386155-9B6D-4D5E-B777-0A71891EC9E8",
-      "class": "artboard"
+      "class": "artboard",
+      "id": "97386155-9B6D-4D5E-B777-0A71891EC9E8"
     },
     {
-      "id": "D8F9350C-3F83-4E30-8767-2B7C55544B68",
-      "class": "artboard"
+      "class": "artboard",
+      "id": "D8F9350C-3F83-4E30-8767-2B7C55544B68"
     },
     {
-      "id": "6CEBF138-A249-4DDD-A4D1-E238CCFAE340",
-      "class": "artboard"
+      "class": "artboard",
+      "id": "6CEBF138-A249-4DDD-A4D1-E238CCFAE340"
     },
     {
-      "id": "8373B2A1-A76C-4157-9DE2-806E83B53769",
-      "class": "artboard"
+      "class": "artboard",
+      "id": "8373B2A1-A76C-4157-9DE2-806E83B53769"
     },
     {
-      "id": "089D0A86-CED3-4EE5-B8D2-7535AF7D52F5",
-      "class": "artboard"
+      "class": "artboard",
+      "id": "089D0A86-CED3-4EE5-B8D2-7535AF7D52F5"
     },
     {
-      "id": "8C4F641D-1B52-4A7B-82CA-2D0433F170A2",
-      "class": "artboard"
+      "class": "artboard",
+      "id": "8C4F641D-1B52-4A7B-82CA-2D0433F170A2"
     },
     {
-      "id": "00DB5E95-4B68-4EF6-A059-7BE304F3E39C",
-      "class": "artboard"
+      "class": "artboard",
+      "id": "00DB5E95-4B68-4EF6-A059-7BE304F3E39C"
     },
     {
-      "id": "FE2CA111-1E90-4C6B-95A9-D9FA7121BB8D",
-      "class": "artboard"
+      "class": "artboard",
+      "id": "FE2CA111-1E90-4C6B-95A9-D9FA7121BB8D"
     },
     {
-      "id": "F1F1AF10-7315-4F52-BB04-9A97E0DD593F",
-      "class": "artboard"
+      "class": "artboard",
+      "id": "F1F1AF10-7315-4F52-BB04-9A97E0DD593F"
     },
     {
-      "id": "349940DA-C8D4-47F2-A6CC-0BC369E7167C",
-      "class": "artboard"
+      "class": "artboard",
+      "id": "349940DA-C8D4-47F2-A6CC-0BC369E7167C"
     },
     {
-      "id": "ABDB6195-E19B-4B38-B6D3-C0988FB1E6D5",
-      "class": "artboard"
+      "class": "artboard",
+      "id": "ABDB6195-E19B-4B38-B6D3-C0988FB1E6D5"
     },
     {
-      "id": "906180E0-2750-4F05-94DF-86D2006146DA",
-      "class": "artboard"
+      "class": "artboard",
+      "id": "906180E0-2750-4F05-94DF-86D2006146DA"
     },
     {
-      "id": "F0199C20-3A0D-46A7-BE7A-F07DCAB66C40",
-      "class": "artboard"
+      "class": "artboard",
+      "id": "F0199C20-3A0D-46A7-BE7A-F07DCAB66C40"
     },
     {
-      "id": "5C7A329D-4429-4919-9887-8B0F01FE6A84",
-      "class": "artboard"
+      "class": "artboard",
+      "id": "5C7A329D-4429-4919-9887-8B0F01FE6A84"
     },
     {
-      "id": "82F837A3-78F2-4391-B926-01F15FA02327",
-      "class": "artboard"
+      "class": "artboard",
+      "id": "82F837A3-78F2-4391-B926-01F15FA02327"
     },
     {
-      "id": "0E2A9916-2B4F-482E-90E5-B772464DF8E8",
-      "class": "artboard"
+      "class": "artboard",
+      "id": "0E2A9916-2B4F-482E-90E5-B772464DF8E8"
     },
     {
-      "id": "4870FAEA-3CE2-4535-A0BA-D3E420DAD3F9",
-      "class": "artboard"
+      "class": "artboard",
+      "id": "4870FAEA-3CE2-4535-A0BA-D3E420DAD3F9"
     },
     {
-      "id": "7E260403-12A1-48F2-AB9C-FF5ED628BD4E",
-      "class": "artboard"
+      "class": "artboard",
+      "id": "7E260403-12A1-48F2-AB9C-FF5ED628BD4E"
     },
     {
-      "id": "63A445EE-04BA-41ED-AC7E-345B3C25FDA4",
-      "class": "artboard"
+      "class": "artboard",
+      "id": "63A445EE-04BA-41ED-AC7E-345B3C25FDA4"
     },
     {
-      "id": "45737400-1EED-43E4-A9DE-2F648B8B0E98",
-      "class": "artboard"
+      "class": "artboard",
+      "id": "45737400-1EED-43E4-A9DE-2F648B8B0E98"
     },
     {
-      "id": "C0CB5B1A-1861-4E8E-A1B3-A468D944AF32",
-      "class": "artboard"
+      "class": "artboard",
+      "id": "C0CB5B1A-1861-4E8E-A1B3-A468D944AF32"
     },
     {
-      "id": "72396EB0-3783-4F3E-86FE-39825CA07B2B",
-      "class": "artboard"
+      "class": "artboard",
+      "id": "72396EB0-3783-4F3E-86FE-39825CA07B2B"
     },
     {
-      "id": "DF9D9EE9-9A8C-49F7-B3DF-89B11A884626",
-      "class": "artboard"
+      "class": "artboard",
+      "id": "DF9D9EE9-9A8C-49F7-B3DF-89B11A884626"
     },
     {
-      "id": "5F238C37-AC34-48B7-85D8-D32A6DCF60D6",
-      "class": "artboard"
+      "class": "artboard",
+      "id": "5F238C37-AC34-48B7-85D8-D32A6DCF60D6"
     }
   ],
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": -302,
-    "guides": []
-  },
-  "includeInCloudUpload": true,
   "layout": {
     "_class": "layoutGrid",
-    "isEnabled": false,
     "columnWidth": 60,
     "drawHorizontal": false,
     "drawHorizontalLines": false,
@@ -208,13 +191,34 @@
     "gutterWidth": 20,
     "guttersOutside": true,
     "horizontalOffset": 0,
+    "isEnabled": false,
     "numberOfColumns": 12,
     "rowHeightMultiplication": 5,
     "totalWidth": 960
   },
+  "name": "Centralized",
+  "nameIsFixed": true,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.abynim.sketchplugins.userflows": {
+      "homeScreenID": "5F238C37-AC34-48B7-85D8-D32A6DCF60D6"
+    },
+    "com.invision.prototype": {
+      "lastUsedGestureID": 0
+    }
+  },
   "verticalRulerData": {
     "_class": "rulerData",
     "base": -184,
-    "guides": []
+    "guides": [
+    ]
   }
 }

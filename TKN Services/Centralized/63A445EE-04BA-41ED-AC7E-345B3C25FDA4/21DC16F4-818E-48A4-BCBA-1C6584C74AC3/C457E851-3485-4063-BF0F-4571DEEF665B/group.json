@@ -3,8 +3,10 @@
   "do_objectID": "C457E851-3485-4063-BF0F-4571DEEF665B",
   "exportOptions": {
     "_class": "exportOptions",
-    "exportFormats": [],
-    "includedLayerIds": [],
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
     "layerOptions": 0,
     "shouldTrim": false
   },
@@ -16,11 +18,42 @@
     "x": 1,
     "y": 0
   },
+  "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "FF45E51F-3360-4A03-ADE3-4938C3775B88"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "DF2FD58C-3FCE-4A76-9042-9A32BB273D96"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "136C37E8-4119-4ABA-A409-81E0053CD7FD"
+    },
+    {
+      "class": "group",
+      "id": "D30B987B-7892-48FB-AFE9-4C90916B9924"
+    },
+    {
+      "class": "text",
+      "id": "DD1A1D28-7836-46D2-8308-D17EAED06865"
+    },
+    {
+      "class": "text",
+      "id": "A923CD8F-DD52-47C1-A3B0-5487C21D3A76"
+    },
+    {
+      "class": "text",
+      "id": "DA1684B0-FCFB-4DDA-A72C-57A1F3571DDF"
+    }
+  ],
   "name": "Navigation Bar/Segmented - Third",
   "nameIsFixed": false,
   "resizingType": 0,
@@ -31,36 +64,5 @@
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
-  },
-  "hasClickThrough": false,
-  "layers": [
-    {
-      "id": "FF45E51F-3360-4A03-ADE3-4938C3775B88",
-      "class": "shapeGroup"
-    },
-    {
-      "id": "DF2FD58C-3FCE-4A76-9042-9A32BB273D96",
-      "class": "shapeGroup"
-    },
-    {
-      "id": "136C37E8-4119-4ABA-A409-81E0053CD7FD",
-      "class": "shapeGroup"
-    },
-    {
-      "id": "D30B987B-7892-48FB-AFE9-4C90916B9924",
-      "class": "group"
-    },
-    {
-      "id": "DD1A1D28-7836-46D2-8308-D17EAED06865",
-      "class": "text"
-    },
-    {
-      "id": "A923CD8F-DD52-47C1-A3B0-5487C21D3A76",
-      "class": "text"
-    },
-    {
-      "id": "DA1684B0-FCFB-4DDA-A72C-57A1F3571DDF",
-      "class": "text"
-    }
-  ]
+  }
 }

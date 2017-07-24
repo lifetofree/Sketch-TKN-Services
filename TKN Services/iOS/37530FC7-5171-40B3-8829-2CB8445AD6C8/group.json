@@ -3,8 +3,10 @@
   "do_objectID": "37530FC7-5171-40B3-8829-2CB8445AD6C8",
   "exportOptions": {
     "_class": "exportOptions",
-    "exportFormats": [],
-    "includedLayerIds": [],
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
     "layerOptions": 0,
     "shouldTrim": false
   },
@@ -16,11 +18,22 @@
     "x": 110,
     "y": 859
   },
+  "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "F5DC5627-14CD-4556-A979-40E81DDFB63D"
+    },
+    {
+      "class": "text",
+      "id": "7AB502FF-B932-4606-8B4E-38BC18C5AE4D"
+    }
+  ],
   "name": "Background Bar/Location",
   "nameIsFixed": false,
   "resizingType": 0,
@@ -31,16 +44,5 @@
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
-  },
-  "hasClickThrough": false,
-  "layers": [
-    {
-      "id": "F5DC5627-14CD-4556-A979-40E81DDFB63D",
-      "class": "shapeGroup"
-    },
-    {
-      "id": "7AB502FF-B932-4606-8B4E-38BC18C5AE4D",
-      "class": "text"
-    }
-  ]
+  }
 }

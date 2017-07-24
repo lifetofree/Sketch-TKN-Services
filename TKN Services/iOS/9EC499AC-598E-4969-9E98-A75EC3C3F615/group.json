@@ -3,8 +3,10 @@
   "do_objectID": "9EC499AC-598E-4969-9E98-A75EC3C3F615",
   "exportOptions": {
     "_class": "exportOptions",
-    "exportFormats": [],
-    "includedLayerIds": [],
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
     "layerOptions": 0,
     "shouldTrim": false
   },
@@ -16,11 +18,42 @@
     "x": 1060,
     "y": 1556
   },
+  "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "898C21A4-6654-4FA9-B806-F31B2842CD15"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "EFDD39B8-0814-4F3D-A0FE-29C856050E82"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "27040EDD-22A0-422B-9548-D72EFD4DC2F4"
+    },
+    {
+      "class": "group",
+      "id": "107FF1E9-D816-45D7-A809-15D6F95ED03C"
+    },
+    {
+      "class": "text",
+      "id": "89275142-A8AA-43A3-B56F-0A5E112D12AF"
+    },
+    {
+      "class": "text",
+      "id": "B7AF25FA-B9F9-4084-8009-E7D81F3AEFC2"
+    },
+    {
+      "class": "text",
+      "id": "A894CA80-5BC0-4021-B803-9D92CA17B3C5"
+    }
+  ],
   "name": "Navigation Bar/Segmented - Third",
   "nameIsFixed": false,
   "resizingType": 0,
@@ -31,36 +64,5 @@
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
-  },
-  "hasClickThrough": false,
-  "layers": [
-    {
-      "id": "898C21A4-6654-4FA9-B806-F31B2842CD15",
-      "class": "shapeGroup"
-    },
-    {
-      "id": "EFDD39B8-0814-4F3D-A0FE-29C856050E82",
-      "class": "shapeGroup"
-    },
-    {
-      "id": "27040EDD-22A0-422B-9548-D72EFD4DC2F4",
-      "class": "shapeGroup"
-    },
-    {
-      "id": "107FF1E9-D816-45D7-A809-15D6F95ED03C",
-      "class": "group"
-    },
-    {
-      "id": "89275142-A8AA-43A3-B56F-0A5E112D12AF",
-      "class": "text"
-    },
-    {
-      "id": "B7AF25FA-B9F9-4084-8009-E7D81F3AEFC2",
-      "class": "text"
-    },
-    {
-      "id": "A894CA80-5BC0-4021-B803-9D92CA17B3C5",
-      "class": "text"
-    }
-  ]
+  }
 }

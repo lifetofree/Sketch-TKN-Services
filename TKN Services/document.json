@@ -1,6 +1,5 @@
 {
   "_class": "document",
-  "do_objectID": "F55B8C55-90F8-4303-99AA-167FDD09C007",
   "assets": {
     "_class": "assetCollection",
     "colors": [
@@ -89,29 +88,35 @@
         "red": 0.6431372549019608
       }
     ],
-    "gradients": [],
+    "gradients": [
+    ],
     "imageCollection": {
       "_class": "imageCollection",
-      "images": {}
+      "images": {
+      }
     },
-    "images": []
+    "images": [
+    ]
   },
+  "do_objectID": "F55B8C55-90F8-4303-99AA-167FDD09C007",
   "enableLayerInteraction": true,
   "enableSliceInteraction": true,
-  "foreignSymbols": [],
+  "foreignSymbols": [
+  ],
   "layerSymbols": {
     "_class": "symbolContainer",
-    "objects": []
+    "objects": [
+    ]
   },
   "userInfo": {
-    "com.invisionlabs.sync": {
-      "metadata": "{\"hasSynced\":0,\"hasProjectIdChanged\":0,\"projectId\":11528450,\"publicLink\":\"\",\"resolution\":2,\"syncAll\":false}"
+    "com.abynim.sketchplugins.userflows": {
+      "lastUsedFlowPage": "_Flows"
     },
     "com.invisionlabs.getty1": {
       "ids": "[{\"id\":\"540272899\",\"layerId\":\"33311FDC-5B7A-4731-A133-38CC406D92C9\"}]"
     },
-    "com.abynim.sketchplugins.userflows": {
-      "lastUsedFlowPage": "_Flows"
+    "com.invisionlabs.sync": {
+      "metadata": "{\"hasSynced\":0,\"hasProjectIdChanged\":0,\"projectId\":11528450,\"publicLink\":\"\",\"resolution\":2,\"syncAll\":false}"
     }
   }
 }

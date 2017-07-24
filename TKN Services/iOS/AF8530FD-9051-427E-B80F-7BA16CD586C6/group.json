@@ -3,8 +3,10 @@
   "do_objectID": "AF8530FD-9051-427E-B80F-7BA16CD586C6",
   "exportOptions": {
     "_class": "exportOptions",
-    "exportFormats": [],
-    "includedLayerIds": [],
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
     "layerOptions": 0,
     "shouldTrim": false
   },
@@ -16,11 +18,34 @@
     "x": 585,
     "y": 446
   },
+  "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "7C560271-806C-4C05-AC87-8ECC2E89CB6D"
+    },
+    {
+      "class": "group",
+      "id": "04667A99-B4A6-4B48-87B1-5489BE5627FD"
+    },
+    {
+      "class": "group",
+      "id": "18C0EEFF-0339-4B61-A271-37656D9B155D"
+    },
+    {
+      "class": "group",
+      "id": "C44E2652-BC2F-4720-9307-C872A6CF24F9"
+    },
+    {
+      "class": "group",
+      "id": "2765D660-2C42-412C-91C4-5F56556EA2B9"
+    }
+  ],
   "name": "Keyboard/Light/Lower",
   "nameIsFixed": false,
   "resizingType": 0,
@@ -31,28 +56,5 @@
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
-  },
-  "hasClickThrough": false,
-  "layers": [
-    {
-      "id": "7C560271-806C-4C05-AC87-8ECC2E89CB6D",
-      "class": "shapeGroup"
-    },
-    {
-      "id": "04667A99-B4A6-4B48-87B1-5489BE5627FD",
-      "class": "group"
-    },
-    {
-      "id": "18C0EEFF-0339-4B61-A271-37656D9B155D",
-      "class": "group"
-    },
-    {
-      "id": "C44E2652-BC2F-4720-9307-C872A6CF24F9",
-      "class": "group"
-    },
-    {
-      "id": "2765D660-2C42-412C-91C4-5F56556EA2B9",
-      "class": "group"
-    }
-  ]
+  }
 }

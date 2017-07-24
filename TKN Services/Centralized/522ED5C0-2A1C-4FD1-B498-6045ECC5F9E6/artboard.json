@@ -1,10 +1,19 @@
 {
   "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
   "do_objectID": "522ED5C0-2A1C-4FD1-B498-6045ECC5F9E6",
   "exportOptions": {
     "_class": "exportOptions",
-    "exportFormats": [],
-    "includedLayerIds": [],
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
     "layerOptions": 2,
     "shouldTrim": false
   },
@@ -16,56 +25,51 @@
     "x": 3844,
     "y": 7186
   },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "bitmap",
+      "id": "B7D00FA9-1EDA-4A30-94DE-D6A8A9060CE0"
+    },
+    {
+      "class": "group",
+      "id": "D4C3EC65-C0A9-43DB-AB2F-324E850BF5AB"
+    }
+  ],
   "name": "POS - Dialog",
   "nameIsFixed": true,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
-  "userInfo": {
-    "com.abynim.sketchplugins.userflows": {
-      "artboardID": "72396EB0-3783-4F3E-86FE-39825CA07B2B"
-    }
-  },
   "style": {
     "_class": "style",
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
   },
-  "hasClickThrough": true,
-  "layers": [
-    {
-      "id": "B7D00FA9-1EDA-4A30-94DE-D6A8A9060CE0",
-      "class": "bitmap"
-    },
-    {
-      "id": "D4C3EC65-C0A9-43DB-AB2F-324E850BF5AB",
-      "class": "group"
+  "userInfo": {
+    "com.abynim.sketchplugins.userflows": {
+      "artboardID": "72396EB0-3783-4F3E-86FE-39825CA07B2B"
     }
-  ],
-  "backgroundColor": {
-    "_class": "color",
-    "alpha": 1,
-    "blue": 1,
-    "green": 1,
-    "red": 1
   },
-  "hasBackgroundColor": false,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": []
-  },
-  "includeBackgroundColorInExport": true,
-  "includeInCloudUpload": true,
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "guides": []
+    "guides": [
+    ]
   }
 }

@@ -3,8 +3,10 @@
   "do_objectID": "A4836BD0-3EF8-4D43-80CC-52DEB0C0BBFC",
   "exportOptions": {
     "_class": "exportOptions",
-    "exportFormats": [],
-    "includedLayerIds": [],
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
     "layerOptions": 0,
     "shouldTrim": false
   },
@@ -16,11 +18,26 @@
     "x": 112,
     "y": 1524
   },
+  "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "E654710B-A52A-4176-86F6-13326E05EFF7"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6B40BFDD-48CE-46E7-8C61-8B945E49A8B8"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "223E7A09-FD59-4549-B6D7-C6C17019A13B"
+    }
+  ],
   "name": "Float",
   "nameIsFixed": true,
   "resizingType": 3,
@@ -31,20 +48,5 @@
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
-  },
-  "hasClickThrough": false,
-  "layers": [
-    {
-      "id": "E654710B-A52A-4176-86F6-13326E05EFF7",
-      "class": "shapeGroup"
-    },
-    {
-      "id": "6B40BFDD-48CE-46E7-8C61-8B945E49A8B8",
-      "class": "shapeGroup"
-    },
-    {
-      "id": "223E7A09-FD59-4549-B6D7-C6C17019A13B",
-      "class": "shapeGroup"
-    }
-  ]
+  }
 }

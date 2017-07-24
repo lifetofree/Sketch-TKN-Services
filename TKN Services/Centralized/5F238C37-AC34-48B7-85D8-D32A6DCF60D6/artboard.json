@@ -1,5 +1,12 @@
 {
   "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
   "do_objectID": "5F238C37-AC34-48B7-85D8-D32A6DCF60D6",
   "exportOptions": {
     "_class": "exportOptions",
@@ -14,7 +21,8 @@
         "visibleScaleType": 0
       }
     ],
-    "includedLayerIds": [],
+    "includedLayerIds": [
+    ],
     "layerOptions": 2,
     "shouldTrim": false
   },
@@ -26,11 +34,39 @@
     "x": 3369,
     "y": 1488
   },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "bitmap",
+      "id": "48718A1E-722C-4C62-A027-AB2EDB9B74ED"
+    },
+    {
+      "class": "group",
+      "id": "90849184-A453-4E7B-AF19-02AA2CC17493"
+    },
+    {
+      "class": "group",
+      "id": "1532BCAD-DA84-4F0D-8676-AD42921BF44C"
+    },
+    {
+      "class": "group",
+      "id": "A83F8FB8-7217-4FAB-AFE1-73DFA3C5787E"
+    }
+  ],
   "name": "select system",
   "nameIsFixed": true,
   "resizingType": 0,
@@ -42,43 +78,10 @@
     "miterLimit": 10,
     "startDecorationType": 0
   },
-  "hasClickThrough": true,
-  "layers": [
-    {
-      "id": "48718A1E-722C-4C62-A027-AB2EDB9B74ED",
-      "class": "bitmap"
-    },
-    {
-      "id": "90849184-A453-4E7B-AF19-02AA2CC17493",
-      "class": "group"
-    },
-    {
-      "id": "1532BCAD-DA84-4F0D-8676-AD42921BF44C",
-      "class": "group"
-    },
-    {
-      "id": "A83F8FB8-7217-4FAB-AFE1-73DFA3C5787E",
-      "class": "group"
-    }
-  ],
-  "backgroundColor": {
-    "_class": "color",
-    "alpha": 1,
-    "blue": 1,
-    "green": 1,
-    "red": 1
-  },
-  "hasBackgroundColor": false,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": []
-  },
-  "includeBackgroundColorInExport": true,
-  "includeInCloudUpload": true,
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "guides": []
+    "guides": [
+    ]
   }
 }

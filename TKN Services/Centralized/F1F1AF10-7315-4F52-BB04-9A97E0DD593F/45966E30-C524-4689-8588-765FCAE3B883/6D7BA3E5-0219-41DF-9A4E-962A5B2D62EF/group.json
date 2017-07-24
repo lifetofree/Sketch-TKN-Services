@@ -3,8 +3,10 @@
   "do_objectID": "6D7BA3E5-0219-41DF-9A4E-962A5B2D62EF",
   "exportOptions": {
     "_class": "exportOptions",
-    "exportFormats": [],
-    "includedLayerIds": [],
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
     "layerOptions": 0,
     "shouldTrim": false
   },
@@ -16,11 +18,30 @@
     "x": 0,
     "y": 0
   },
+  "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "C23BCC2A-6004-41C3-A352-1F6AD6F4938B"
+    },
+    {
+      "class": "text",
+      "id": "0B2BA8F6-1C55-438D-842A-811C6D3F22EA"
+    },
+    {
+      "class": "text",
+      "id": "1ABDC3CD-03F4-42F2-9716-80B9435E1A33"
+    },
+    {
+      "class": "text",
+      "id": "6EE484AD-A7F1-46C1-95B8-4B56CD73E77A"
+    }
+  ],
   "name": "title bar",
   "nameIsFixed": true,
   "resizingType": 0,
@@ -31,24 +52,5 @@
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
-  },
-  "hasClickThrough": false,
-  "layers": [
-    {
-      "id": "C23BCC2A-6004-41C3-A352-1F6AD6F4938B",
-      "class": "shapeGroup"
-    },
-    {
-      "id": "0B2BA8F6-1C55-438D-842A-811C6D3F22EA",
-      "class": "text"
-    },
-    {
-      "id": "1ABDC3CD-03F4-42F2-9716-80B9435E1A33",
-      "class": "text"
-    },
-    {
-      "id": "6EE484AD-A7F1-46C1-95B8-4B56CD73E77A",
-      "class": "text"
-    }
-  ]
+  }
 }

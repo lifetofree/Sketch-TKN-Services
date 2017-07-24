@@ -1,10 +1,13 @@
 {
   "_class": "shapeGroup",
+  "clippingMaskMode": 0,
   "do_objectID": "FED551C0-8ED8-4616-9177-34423869CC30",
   "exportOptions": {
     "_class": "exportOptions",
-    "exportFormats": [],
-    "includedLayerIds": [],
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
     "layerOptions": 0,
     "shouldTrim": false
   },
@@ -16,11 +19,31 @@
     "x": 36,
     "y": 2.5
   },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "FCFD2308-17B9-4554-A7E8-1AA96DA906E2"
+    },
+    {
+      "class": "rectangle",
+      "id": "07C0874D-6CDA-4F6F-A6CD-1BBC7978BCB2"
+    },
+    {
+      "class": "rectangle",
+      "id": "CCEF5619-7504-45AF-920D-98E7C4001D86"
+    },
+    {
+      "class": "rectangle",
+      "id": "D338709E-3A2A-45CF-A033-C87084B9CC69"
+    }
+  ],
   "name": "Battery",
   "nameIsFixed": true,
   "originalObjectID": "C9CE3C44-3A25-49E8-B560-7FA994AA9DA0",
@@ -33,7 +56,6 @@
     "fills": [
       {
         "_class": "fill",
-        "isEnabled": true,
         "color": {
           "_class": "color",
           "alpha": 1,
@@ -42,6 +64,7 @@
           "red": 0.01176470588235294
         },
         "fillType": 0,
+        "isEnabled": true,
         "noiseIndex": 0,
         "noiseIntensity": 0,
         "patternFillType": 0,
@@ -51,26 +74,5 @@
     "miterLimit": 10,
     "startDecorationType": 0
   },
-  "hasClickThrough": false,
-  "layers": [
-    {
-      "id": "FCFD2308-17B9-4554-A7E8-1AA96DA906E2",
-      "class": "rectangle"
-    },
-    {
-      "id": "07C0874D-6CDA-4F6F-A6CD-1BBC7978BCB2",
-      "class": "rectangle"
-    },
-    {
-      "id": "CCEF5619-7504-45AF-920D-98E7C4001D86",
-      "class": "rectangle"
-    },
-    {
-      "id": "D338709E-3A2A-45CF-A033-C87084B9CC69",
-      "class": "rectangle"
-    }
-  ],
-  "clippingMaskMode": 0,
-  "hasClippingMask": false,
   "windingRule": 1
 }

@@ -3,8 +3,10 @@
   "do_objectID": "405BFC64-BC90-40A2-B7CE-540B28A6A424",
   "exportOptions": {
     "_class": "exportOptions",
-    "exportFormats": [],
-    "includedLayerIds": [],
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
     "layerOptions": 0,
     "shouldTrim": false
   },
@@ -16,11 +18,22 @@
     "x": 1,
     "y": 183
   },
+  "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "DDCD5C31-2753-468B-8C72-F404A2C00506"
+    },
+    {
+      "class": "text",
+      "id": "288F0CCD-5CC3-40D2-BD7D-54BEA32B5907"
+    }
+  ],
   "name": "user close job",
   "nameIsFixed": true,
   "resizingType": 0,
@@ -31,16 +44,5 @@
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
-  },
-  "hasClickThrough": false,
-  "layers": [
-    {
-      "id": "DDCD5C31-2753-468B-8C72-F404A2C00506",
-      "class": "shapeGroup"
-    },
-    {
-      "id": "288F0CCD-5CC3-40D2-BD7D-54BEA32B5907",
-      "class": "text"
-    }
-  ]
+  }
 }

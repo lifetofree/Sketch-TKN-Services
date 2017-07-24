@@ -3,8 +3,10 @@
   "do_objectID": "E071F23D-AB4C-4719-A474-A07934D8B431",
   "exportOptions": {
     "_class": "exportOptions",
-    "exportFormats": [],
-    "includedLayerIds": [],
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
     "layerOptions": 0,
     "shouldTrim": false
   },
@@ -16,11 +18,34 @@
     "x": 1060,
     "y": 294
   },
+  "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "630C217E-BAD2-4A31-BBFF-7EC0E68EAECA"
+    },
+    {
+      "class": "text",
+      "id": "30871EB4-EBF8-4E6F-A98B-8CFEB6726675"
+    },
+    {
+      "class": "text",
+      "id": "9F161AB5-69E4-435F-BBCF-056564F90FEC"
+    },
+    {
+      "class": "text",
+      "id": "53028FBA-E466-4A50-AD5F-2083E4490686"
+    },
+    {
+      "class": "group",
+      "id": "60C43935-6ED5-4480-825A-AA9D7C6F5D3E"
+    }
+  ],
   "name": "Navigation Bar/Subtitle",
   "nameIsFixed": false,
   "resizingType": 0,
@@ -31,28 +56,5 @@
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
-  },
-  "hasClickThrough": false,
-  "layers": [
-    {
-      "id": "630C217E-BAD2-4A31-BBFF-7EC0E68EAECA",
-      "class": "shapeGroup"
-    },
-    {
-      "id": "30871EB4-EBF8-4E6F-A98B-8CFEB6726675",
-      "class": "text"
-    },
-    {
-      "id": "9F161AB5-69E4-435F-BBCF-056564F90FEC",
-      "class": "text"
-    },
-    {
-      "id": "53028FBA-E466-4A50-AD5F-2083E4490686",
-      "class": "text"
-    },
-    {
-      "id": "60C43935-6ED5-4480-825A-AA9D7C6F5D3E",
-      "class": "group"
-    }
-  ]
+  }
 }

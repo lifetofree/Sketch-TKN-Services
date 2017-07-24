@@ -1,10 +1,13 @@
 {
   "_class": "shapeGroup",
+  "clippingMaskMode": 0,
   "do_objectID": "FE59D214-C424-4331-91FA-AD0BE19403E2",
   "exportOptions": {
     "_class": "exportOptions",
-    "exportFormats": [],
-    "includedLayerIds": [],
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
     "layerOptions": 0,
     "shouldTrim": false
   },
@@ -16,11 +19,31 @@
     "x": 36,
     "y": 2.5
   },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "2E3DBA4C-0CA7-4F8C-A1D5-1441C6E64DDC"
+    },
+    {
+      "class": "rectangle",
+      "id": "AB97585D-7A92-4BCA-BAEB-8D039DE0916E"
+    },
+    {
+      "class": "rectangle",
+      "id": "C8A8ED13-A6D3-4F97-9BC7-BEAE92BC011C"
+    },
+    {
+      "class": "rectangle",
+      "id": "BC13F56D-9891-4476-80E9-B4907C93B791"
+    }
+  ],
   "name": "Battery",
   "nameIsFixed": true,
   "originalObjectID": "DA913580-C9E4-4082-B013-DB4693469204",
@@ -33,7 +56,6 @@
     "fills": [
       {
         "_class": "fill",
-        "isEnabled": true,
         "color": {
           "_class": "color",
           "alpha": 1,
@@ -42,6 +64,7 @@
           "red": 1
         },
         "fillType": 0,
+        "isEnabled": true,
         "noiseIndex": 0,
         "noiseIntensity": 0,
         "patternFillType": 0,
@@ -51,26 +74,5 @@
     "miterLimit": 10,
     "startDecorationType": 0
   },
-  "hasClickThrough": false,
-  "layers": [
-    {
-      "id": "2E3DBA4C-0CA7-4F8C-A1D5-1441C6E64DDC",
-      "class": "rectangle"
-    },
-    {
-      "id": "AB97585D-7A92-4BCA-BAEB-8D039DE0916E",
-      "class": "rectangle"
-    },
-    {
-      "id": "C8A8ED13-A6D3-4F97-9BC7-BEAE92BC011C",
-      "class": "rectangle"
-    },
-    {
-      "id": "BC13F56D-9891-4476-80E9-B4907C93B791",
-      "class": "rectangle"
-    }
-  ],
-  "clippingMaskMode": 0,
-  "hasClippingMask": false,
   "windingRule": 1
 }

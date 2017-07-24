@@ -3,8 +3,10 @@
   "do_objectID": "D1896E54-852A-4F75-A5D3-561075565204",
   "exportOptions": {
     "_class": "exportOptions",
-    "exportFormats": [],
-    "includedLayerIds": [],
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
     "layerOptions": 0,
     "shouldTrim": false
   },
@@ -16,11 +18,50 @@
     "x": 1060,
     "y": 1218
   },
+  "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "CA7CDBA0-3BD2-4C6C-A7EC-D37CE5E738CB"
+    },
+    {
+      "class": "text",
+      "id": "4739E0F0-42DA-4161-A66D-BB20672C8C51"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "763D6AF8-2770-41C9-9215-0A1A366F08F0"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A581DE22-C13F-4623-B520-57C5592E839C"
+    },
+    {
+      "class": "text",
+      "id": "A4795C56-FC1F-49BC-BC32-8C07B162908B"
+    },
+    {
+      "class": "text",
+      "id": "D2C7E05B-9ADC-4642-80DC-EBD44112F4D2"
+    },
+    {
+      "class": "text",
+      "id": "45F74CD9-4A04-4FA1-A080-FBAEB5DF56CE"
+    },
+    {
+      "class": "text",
+      "id": "AFFEE55F-1FB7-412E-A3D8-C092AD6FEF9A"
+    },
+    {
+      "class": "text",
+      "id": "600DED3F-3E57-4078-A225-41A31A3A2FB2"
+    }
+  ],
   "name": "Navigation Bar/Combo",
   "nameIsFixed": false,
   "resizingType": 0,
@@ -31,44 +72,5 @@
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
-  },
-  "hasClickThrough": false,
-  "layers": [
-    {
-      "id": "CA7CDBA0-3BD2-4C6C-A7EC-D37CE5E738CB",
-      "class": "shapeGroup"
-    },
-    {
-      "id": "4739E0F0-42DA-4161-A66D-BB20672C8C51",
-      "class": "text"
-    },
-    {
-      "id": "763D6AF8-2770-41C9-9215-0A1A366F08F0",
-      "class": "shapeGroup"
-    },
-    {
-      "id": "A581DE22-C13F-4623-B520-57C5592E839C",
-      "class": "shapeGroup"
-    },
-    {
-      "id": "A4795C56-FC1F-49BC-BC32-8C07B162908B",
-      "class": "text"
-    },
-    {
-      "id": "D2C7E05B-9ADC-4642-80DC-EBD44112F4D2",
-      "class": "text"
-    },
-    {
-      "id": "45F74CD9-4A04-4FA1-A080-FBAEB5DF56CE",
-      "class": "text"
-    },
-    {
-      "id": "AFFEE55F-1FB7-412E-A3D8-C092AD6FEF9A",
-      "class": "text"
-    },
-    {
-      "id": "600DED3F-3E57-4078-A225-41A31A3A2FB2",
-      "class": "text"
-    }
-  ]
+  }
 }

@@ -3,8 +3,10 @@
   "do_objectID": "49D50FD8-CC33-4123-9EC7-1C25A058B46C",
   "exportOptions": {
     "_class": "exportOptions",
-    "exportFormats": [],
-    "includedLayerIds": [],
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
     "layerOptions": 0,
     "shouldTrim": false
   },
@@ -16,11 +18,42 @@
     "x": 0,
     "y": 85
   },
+  "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "CAC088AC-908E-4467-BACF-F2DCECC8C61E"
+    },
+    {
+      "class": "group",
+      "id": "DD83C0C3-F879-4C5B-BAA4-FF3CB161CDF8"
+    },
+    {
+      "class": "group",
+      "id": "1792F602-17DC-4915-9706-83B783EA5388"
+    },
+    {
+      "class": "group",
+      "id": "EF230B4F-3D5E-4CFB-9F67-28C1CCAB12E0"
+    },
+    {
+      "class": "group",
+      "id": "0913CF2C-1F90-46E4-80E1-B1DEB5135FDB"
+    },
+    {
+      "class": "group",
+      "id": "9DD7E897-8BD2-4F74-858E-3EA6456CCA1B"
+    },
+    {
+      "class": "group",
+      "id": "85ABB53C-D0C9-4272-AE68-146AA7900167"
+    }
+  ],
   "name": "it detail",
   "nameIsFixed": true,
   "resizingType": 0,
@@ -31,36 +64,5 @@
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
-  },
-  "hasClickThrough": false,
-  "layers": [
-    {
-      "id": "CAC088AC-908E-4467-BACF-F2DCECC8C61E",
-      "class": "group"
-    },
-    {
-      "id": "DD83C0C3-F879-4C5B-BAA4-FF3CB161CDF8",
-      "class": "group"
-    },
-    {
-      "id": "1792F602-17DC-4915-9706-83B783EA5388",
-      "class": "group"
-    },
-    {
-      "id": "EF230B4F-3D5E-4CFB-9F67-28C1CCAB12E0",
-      "class": "group"
-    },
-    {
-      "id": "0913CF2C-1F90-46E4-80E1-B1DEB5135FDB",
-      "class": "group"
-    },
-    {
-      "id": "9DD7E897-8BD2-4F74-858E-3EA6456CCA1B",
-      "class": "group"
-    },
-    {
-      "id": "85ABB53C-D0C9-4272-AE68-146AA7900167",
-      "class": "group"
-    }
-  ]
+  }
 }

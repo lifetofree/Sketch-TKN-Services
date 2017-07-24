@@ -1,10 +1,13 @@
 {
   "_class": "shapeGroup",
+  "clippingMaskMode": 0,
   "do_objectID": "07E98D51-2E23-4C85-9D56-593CEBF4A561",
   "exportOptions": {
     "_class": "exportOptions",
-    "exportFormats": [],
-    "includedLayerIds": [],
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
     "layerOptions": 0,
     "shouldTrim": false
   },
@@ -16,11 +19,27 @@
     "x": 10.5,
     "y": 11.5
   },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "89E4DEA2-800D-4F45-92E4-07E53A944FC3"
+    },
+    {
+      "class": "rectangle",
+      "id": "F9EE5658-9956-4257-BDB2-8CEF5537CDA4"
+    },
+    {
+      "class": "rectangle",
+      "id": "7ED68EAD-F46C-4798-B91F-EFACF729195C"
+    }
+  ],
   "name": "Speech",
   "nameIsFixed": true,
   "resizingType": 3,
@@ -32,7 +51,6 @@
     "fills": [
       {
         "_class": "fill",
-        "isEnabled": true,
         "color": {
           "_class": "color",
           "alpha": 1,
@@ -41,6 +59,7 @@
           "red": 0.01176470588235294
         },
         "fillType": 0,
+        "isEnabled": true,
         "noiseIndex": 0,
         "noiseIntensity": 0,
         "patternFillType": 0,
@@ -50,22 +69,5 @@
     "miterLimit": 10,
     "startDecorationType": 0
   },
-  "hasClickThrough": false,
-  "layers": [
-    {
-      "id": "89E4DEA2-800D-4F45-92E4-07E53A944FC3",
-      "class": "shapePath"
-    },
-    {
-      "id": "F9EE5658-9956-4257-BDB2-8CEF5537CDA4",
-      "class": "rectangle"
-    },
-    {
-      "id": "7ED68EAD-F46C-4798-B91F-EFACF729195C",
-      "class": "rectangle"
-    }
-  ],
-  "clippingMaskMode": 0,
-  "hasClippingMask": false,
   "windingRule": 1
 }

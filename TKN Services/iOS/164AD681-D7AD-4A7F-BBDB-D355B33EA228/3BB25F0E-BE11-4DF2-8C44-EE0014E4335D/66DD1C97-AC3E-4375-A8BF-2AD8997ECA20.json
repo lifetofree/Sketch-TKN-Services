@@ -1,10 +1,14 @@
 {
   "_class": "oval",
+  "booleanOperation": 1,
   "do_objectID": "66DD1C97-AC3E-4375-A8BF-2AD8997ECA20",
+  "edited": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "exportFormats": [],
-    "includedLayerIds": [],
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
     "layerOptions": 0,
     "shouldTrim": false
   },
@@ -23,11 +27,6 @@
   "layerListExpandedType": 0,
   "name": "Oval 70",
   "nameIsFixed": false,
-  "resizingType": 0,
-  "rotation": 0,
-  "shouldBreakMaskChain": false,
-  "booleanOperation": 1,
-  "edited": false,
   "path": {
     "_class": "path",
     "isClosed": true,
@@ -73,5 +72,8 @@
         "point": "{0, 0.5}"
       }
     ]
-  }
+  },
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false
 }

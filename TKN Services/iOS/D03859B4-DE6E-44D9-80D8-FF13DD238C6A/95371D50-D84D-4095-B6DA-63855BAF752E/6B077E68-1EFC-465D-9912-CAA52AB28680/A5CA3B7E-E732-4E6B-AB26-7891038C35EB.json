@@ -1,10 +1,245 @@
 {
   "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": [
+        {
+          "$archiver": "NSKeyedArchiver",
+          "$objects": [
+            "$null",
+            {
+              "$class": {
+                "UID": 32
+              },
+              "NSAttributes": {
+                "UID": 3
+              },
+              "NSString": {
+                "UID": 2
+              }
+            },
+            "123",
+            {
+              "$class": {
+                "UID": 22
+              },
+              "NS.keys": [
+                {
+                  "UID": 4
+                },
+                {
+                  "UID": 5
+                },
+                {
+                  "UID": 6
+                },
+                {
+                  "UID": 7
+                }
+              ],
+              "NS.objects": [
+                {
+                  "UID": 8
+                },
+                {
+                  "UID": 10
+                },
+                {
+                  "UID": 27
+                },
+                {
+                  "UID": 31
+                }
+              ]
+            },
+            "NSParagraphStyle",
+            "MSAttributedStringFontAttribute",
+            "NSColor",
+            "NSKern",
+            {
+              "$class": {
+                "UID": 9
+              },
+              "NSAlignment": 2,
+              "NSTabStops": {
+                "UID": 0
+              }
+            },
+            {
+              "$classes": [
+                "NSMutableParagraphStyle",
+                "NSParagraphStyle",
+                "NSObject"
+              ],
+              "$classname": "NSMutableParagraphStyle"
+            },
+            {
+              "$class": {
+                "UID": 26
+              },
+              "NSFontDescriptorAttributes": {
+                "UID": 11
+              }
+            },
+            {
+              "$class": {
+                "UID": 25
+              },
+              "NS.keys": [
+                {
+                  "UID": 12
+                },
+                {
+                  "UID": 13
+                },
+                {
+                  "UID": 14
+                }
+              ],
+              "NS.objects": [
+                {
+                  "UID": 15
+                },
+                {
+                  "UID": 16
+                },
+                {
+                  "UID": 24
+                }
+              ]
+            },
+            "NSFontSizeAttribute",
+            "NSCTFontFeatureSettingsAttribute",
+            "NSFontNameAttribute",
+            16,
+            {
+              "$class": {
+                "UID": 23
+              },
+              "NS.objects": [
+                {
+                  "UID": 17
+                }
+              ]
+            },
+            {
+              "$class": {
+                "UID": 22
+              },
+              "NS.keys": [
+                {
+                  "UID": 18
+                },
+                {
+                  "UID": 19
+                }
+              ],
+              "NS.objects": [
+                {
+                  "UID": 20
+                },
+                {
+                  "UID": 21
+                }
+              ]
+            },
+            "CTFeatureSelectorIdentifier",
+            "CTFeatureTypeIdentifier",
+            0,
+            6,
+            {
+              "$classes": [
+                "NSDictionary",
+                "NSObject"
+              ],
+              "$classname": "NSDictionary"
+            },
+            {
+              "$classes": [
+                "NSMutableArray",
+                "NSArray",
+                "NSObject"
+              ],
+              "$classname": "NSMutableArray"
+            },
+            "SFUIText-Regular",
+            {
+              "$classes": [
+                "NSMutableDictionary",
+                "NSDictionary",
+                "NSObject"
+              ],
+              "$classname": "NSMutableDictionary"
+            },
+            {
+              "$classes": [
+                "NSFontDescriptor",
+                "NSObject"
+              ],
+              "$classname": "NSFontDescriptor"
+            },
+            {
+              "$class": {
+                "UID": 30
+              },
+              "NSColorSpace": 1,
+              "NSCustomColorSpace": {
+                "UID": 28
+              },
+              "NSRGB": {
+                "data": "1 1 1\u0000",
+                "type": "Buffer"
+              }
+            },
+            {
+              "$class": {
+                "UID": 29
+              },
+              "NSID": 1
+            },
+            {
+              "$classes": [
+                "NSColorSpace",
+                "NSObject"
+              ],
+              "$classname": "NSColorSpace"
+            },
+            {
+              "$classes": [
+                "NSColor",
+                "NSObject"
+              ],
+              "$classname": "NSColor"
+            },
+            -0.3199999928474426,
+            {
+              "$classes": [
+                "NSAttributedString",
+                "NSObject"
+              ],
+              "$classname": "NSAttributedString"
+            }
+          ],
+          "$top": {
+            "root": {
+              "UID": 1
+            }
+          },
+          "$version": 100000
+        }
+      ]
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "A5CA3B7E-E732-4E6B-AB26-7891038C35EB",
+  "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "exportFormats": [],
-    "includedLayerIds": [],
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
     "layerOptions": 0,
     "shouldTrim": false
   },
@@ -16,11 +251,14 @@
     "x": 4.5,
     "y": 11.5
   },
+  "glyphBounds": "{{0, 0}, {31, 19.09375}}",
+  "heightIsClipped": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": true,
   "isVisible": true,
   "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 0,
   "name": "123",
   "nameIsFixed": false,
   "resizingType": 3,
@@ -37,7 +275,7 @@
         "MSAttributedStringFontAttribute": {
           "_archive": [
             {
-              "$version": 100000,
+              "$archiver": "NSKeyedArchiver",
               "$objects": [
                 "$null",
                 {
@@ -49,6 +287,9 @@
                   }
                 },
                 {
+                  "$class": {
+                    "UID": 16
+                  },
                   "NS.keys": [
                     {
                       "UID": 3
@@ -70,26 +311,26 @@
                     {
                       "UID": 15
                     }
-                  ],
-                  "$class": {
-                    "UID": 16
-                  }
+                  ]
                 },
                 "NSFontSizeAttribute",
                 "NSCTFontFeatureSettingsAttribute",
                 "NSFontNameAttribute",
                 16,
                 {
+                  "$class": {
+                    "UID": 14
+                  },
                   "NS.objects": [
                     {
                       "UID": 8
                     }
-                  ],
-                  "$class": {
-                    "UID": 14
-                  }
+                  ]
                 },
                 {
+                  "$class": {
+                    "UID": 13
+                  },
                   "NS.keys": [
                     {
                       "UID": 9
@@ -105,102 +346,99 @@
                     {
                       "UID": 12
                     }
-                  ],
-                  "$class": {
-                    "UID": 13
-                  }
+                  ]
                 },
                 "CTFeatureSelectorIdentifier",
                 "CTFeatureTypeIdentifier",
                 0,
                 6,
                 {
-                  "$classname": "NSDictionary",
                   "$classes": [
                     "NSDictionary",
                     "NSObject"
-                  ]
+                  ],
+                  "$classname": "NSDictionary"
                 },
                 {
-                  "$classname": "NSMutableArray",
                   "$classes": [
                     "NSMutableArray",
                     "NSArray",
                     "NSObject"
-                  ]
+                  ],
+                  "$classname": "NSMutableArray"
                 },
                 "SFUIText-Regular",
                 {
-                  "$classname": "NSMutableDictionary",
                   "$classes": [
                     "NSMutableDictionary",
                     "NSDictionary",
                     "NSObject"
-                  ]
+                  ],
+                  "$classname": "NSMutableDictionary"
                 },
                 {
-                  "$classname": "NSFontDescriptor",
                   "$classes": [
                     "NSFontDescriptor",
                     "NSObject"
-                  ]
+                  ],
+                  "$classname": "NSFontDescriptor"
                 }
               ],
-              "$archiver": "NSKeyedArchiver",
               "$top": {
                 "root": {
                   "UID": 1
                 }
-              }
+              },
+              "$version": 100000
             }
           ]
         },
         "NSColor": {
           "_archive": [
             {
-              "$version": 100000,
+              "$archiver": "NSKeyedArchiver",
               "$objects": [
                 "$null",
                 {
-                  "NSRGB": {
-                    "type": "Buffer",
-                    "data": "1 1 1\u0000"
+                  "$class": {
+                    "UID": 4
                   },
                   "NSColorSpace": 1,
                   "NSCustomColorSpace": {
                     "UID": 2
                   },
-                  "$class": {
-                    "UID": 4
+                  "NSRGB": {
+                    "data": "1 1 1\u0000",
+                    "type": "Buffer"
                   }
                 },
                 {
-                  "NSID": 1,
                   "$class": {
                     "UID": 3
-                  }
+                  },
+                  "NSID": 1
                 },
                 {
-                  "$classname": "NSColorSpace",
                   "$classes": [
                     "NSColorSpace",
                     "NSObject"
-                  ]
+                  ],
+                  "$classname": "NSColorSpace"
                 },
                 {
-                  "$classname": "NSColor",
                   "$classes": [
                     "NSColor",
                     "NSObject"
-                  ]
+                  ],
+                  "$classname": "NSColor"
                 }
               ],
-              "$archiver": "NSKeyedArchiver",
               "$top": {
                 "root": {
                   "UID": 1
                 }
-              }
+              },
+              "$version": 100000
             }
           ]
         },
@@ -208,274 +446,38 @@
         "NSParagraphStyle": {
           "_archive": [
             {
-              "$version": 100000,
+              "$archiver": "NSKeyedArchiver",
               "$objects": [
                 "$null",
                 {
-                  "NSTabStops": {
-                    "UID": 0
-                  },
                   "$class": {
                     "UID": 2
                   },
-                  "NSAlignment": 2
+                  "NSAlignment": 2,
+                  "NSTabStops": {
+                    "UID": 0
+                  }
                 },
                 {
-                  "$classname": "NSMutableParagraphStyle",
                   "$classes": [
                     "NSMutableParagraphStyle",
                     "NSParagraphStyle",
                     "NSObject"
-                  ]
+                  ],
+                  "$classname": "NSMutableParagraphStyle"
                 }
               ],
-              "$archiver": "NSKeyedArchiver",
               "$top": {
                 "root": {
                   "UID": 1
                 }
-              }
+              },
+              "$version": 100000
             }
           ]
         }
       }
     }
   },
-  "attributedString": {
-    "_class": "MSAttributedString",
-    "archivedAttributedString": {
-      "_archive": [
-        {
-          "$version": 100000,
-          "$objects": [
-            "$null",
-            {
-              "NSString": {
-                "UID": 2
-              },
-              "$class": {
-                "UID": 32
-              },
-              "NSAttributes": {
-                "UID": 3
-              }
-            },
-            "123",
-            {
-              "NS.keys": [
-                {
-                  "UID": 4
-                },
-                {
-                  "UID": 5
-                },
-                {
-                  "UID": 6
-                },
-                {
-                  "UID": 7
-                }
-              ],
-              "NS.objects": [
-                {
-                  "UID": 8
-                },
-                {
-                  "UID": 12
-                },
-                {
-                  "UID": 29
-                },
-                {
-                  "UID": 31
-                }
-              ],
-              "$class": {
-                "UID": 24
-              }
-            },
-            "NSColor",
-            "MSAttributedStringFontAttribute",
-            "NSParagraphStyle",
-            "NSKern",
-            {
-              "NSRGB": {
-                "type": "Buffer",
-                "data": "1 1 1\u0000"
-              },
-              "NSColorSpace": 1,
-              "NSCustomColorSpace": {
-                "UID": 9
-              },
-              "$class": {
-                "UID": 11
-              }
-            },
-            {
-              "NSID": 1,
-              "$class": {
-                "UID": 10
-              }
-            },
-            {
-              "$classname": "NSColorSpace",
-              "$classes": [
-                "NSColorSpace",
-                "NSObject"
-              ]
-            },
-            {
-              "$classname": "NSColor",
-              "$classes": [
-                "NSColor",
-                "NSObject"
-              ]
-            },
-            {
-              "$class": {
-                "UID": 28
-              },
-              "NSFontDescriptorAttributes": {
-                "UID": 13
-              }
-            },
-            {
-              "NS.keys": [
-                {
-                  "UID": 14
-                },
-                {
-                  "UID": 15
-                },
-                {
-                  "UID": 16
-                }
-              ],
-              "NS.objects": [
-                {
-                  "UID": 17
-                },
-                {
-                  "UID": 18
-                },
-                {
-                  "UID": 26
-                }
-              ],
-              "$class": {
-                "UID": 27
-              }
-            },
-            "NSFontSizeAttribute",
-            "NSCTFontFeatureSettingsAttribute",
-            "NSFontNameAttribute",
-            16,
-            {
-              "NS.objects": [
-                {
-                  "UID": 19
-                }
-              ],
-              "$class": {
-                "UID": 25
-              }
-            },
-            {
-              "NS.keys": [
-                {
-                  "UID": 20
-                },
-                {
-                  "UID": 21
-                }
-              ],
-              "NS.objects": [
-                {
-                  "UID": 22
-                },
-                {
-                  "UID": 23
-                }
-              ],
-              "$class": {
-                "UID": 24
-              }
-            },
-            "CTFeatureSelectorIdentifier",
-            "CTFeatureTypeIdentifier",
-            0,
-            6,
-            {
-              "$classname": "NSDictionary",
-              "$classes": [
-                "NSDictionary",
-                "NSObject"
-              ]
-            },
-            {
-              "$classname": "NSMutableArray",
-              "$classes": [
-                "NSMutableArray",
-                "NSArray",
-                "NSObject"
-              ]
-            },
-            "SFUIText-Regular",
-            {
-              "$classname": "NSMutableDictionary",
-              "$classes": [
-                "NSMutableDictionary",
-                "NSDictionary",
-                "NSObject"
-              ]
-            },
-            {
-              "$classname": "NSFontDescriptor",
-              "$classes": [
-                "NSFontDescriptor",
-                "NSObject"
-              ]
-            },
-            {
-              "NSTabStops": {
-                "UID": 0
-              },
-              "$class": {
-                "UID": 30
-              },
-              "NSAlignment": 2
-            },
-            {
-              "$classname": "NSMutableParagraphStyle",
-              "$classes": [
-                "NSMutableParagraphStyle",
-                "NSParagraphStyle",
-                "NSObject"
-              ]
-            },
-            -0.3199999928474426,
-            {
-              "$classname": "NSAttributedString",
-              "$classes": [
-                "NSAttributedString",
-                "NSObject"
-              ]
-            }
-          ],
-          "$archiver": "NSKeyedArchiver",
-          "$top": {
-            "root": {
-              "UID": 1
-            }
-          }
-        }
-      ]
-    }
-  },
-  "automaticallyDrawOnUnderlyingPath": false,
-  "dontSynchroniseWithSymbol": false,
-  "glyphBounds": "{{0, 0}, {31, 19.09375}}",
-  "heightIsClipped": false,
-  "lineSpacingBehaviour": 0,
   "textBehaviour": 0
 }

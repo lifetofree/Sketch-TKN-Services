@@ -3,8 +3,10 @@
   "do_objectID": "60C6EB7B-6B2B-4575-AFB4-1A51CF5E00B5",
   "exportOptions": {
     "_class": "exportOptions",
-    "exportFormats": [],
-    "includedLayerIds": [],
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
     "layerOptions": 0,
     "shouldTrim": false
   },
@@ -16,11 +18,22 @@
     "x": 46,
     "y": 0
   },
+  "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "F402AFCD-D134-4A0B-9533-ED00DB22E314"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9BA415FA-AE74-4485-98FC-9BF25A5298B3"
+    }
+  ],
   "name": "Emoji",
   "nameIsFixed": true,
   "resizingType": 0,
@@ -31,16 +44,5 @@
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
-  },
-  "hasClickThrough": false,
-  "layers": [
-    {
-      "id": "F402AFCD-D134-4A0B-9533-ED00DB22E314",
-      "class": "shapeGroup"
-    },
-    {
-      "id": "9BA415FA-AE74-4485-98FC-9BF25A5298B3",
-      "class": "shapeGroup"
-    }
-  ]
+  }
 }

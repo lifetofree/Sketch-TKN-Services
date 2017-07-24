@@ -3,8 +3,10 @@
   "do_objectID": "1315976D-9519-4EC0-B88E-D87C83D515FA",
   "exportOptions": {
     "_class": "exportOptions",
-    "exportFormats": [],
-    "includedLayerIds": [],
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
     "layerOptions": 0,
     "shouldTrim": false
   },
@@ -16,11 +18,22 @@
     "x": 0,
     "y": 0
   },
+  "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "9C32F1E2-D4EF-476B-B76D-980E849062CC"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "AE43920C-1856-43CD-96F7-A76E4DFF7F6E"
+    }
+  ],
   "name": "Shift",
   "nameIsFixed": true,
   "resizingType": 0,
@@ -31,16 +44,5 @@
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
-  },
-  "hasClickThrough": false,
-  "layers": [
-    {
-      "id": "9C32F1E2-D4EF-476B-B76D-980E849062CC",
-      "class": "shapeGroup"
-    },
-    {
-      "id": "AE43920C-1856-43CD-96F7-A76E4DFF7F6E",
-      "class": "shapeGroup"
-    }
-  ]
+  }
 }

@@ -1,27 +1,38 @@
 {
   "_class": "shapeGroup",
+  "clippingMaskMode": 0,
   "do_objectID": "554CEA37-FAAC-4122-A3B4-8C2DF3D21000",
   "exportOptions": {
     "_class": "exportOptions",
-    "exportFormats": [],
-    "includedLayerIds": [],
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
     "layerOptions": 0,
     "shouldTrim": false
   },
   "frame": {
     "_class": "rect",
-    "do_objectID": "59FD43B2-3310-460D-A26E-7E013D8D8646",
     "constrainProportions": false,
+    "do_objectID": "59FD43B2-3310-460D-A26E-7E013D8D8646",
     "height": 23,
     "width": 2,
     "x": 110,
     "y": 1052
   },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "1E20EABA-D5C5-49FE-AB58-530BD42C140E"
+    }
+  ],
   "name": "Text Cursor",
   "nameIsFixed": false,
   "resizingType": 0,
@@ -33,7 +44,6 @@
     "fills": [
       {
         "_class": "fill",
-        "isEnabled": true,
         "color": {
           "_class": "color",
           "alpha": 1,
@@ -42,6 +52,7 @@
           "red": 0
         },
         "fillType": 0,
+        "isEnabled": true,
         "noiseIndex": 0,
         "noiseIntensity": 0,
         "patternFillType": 0,
@@ -52,14 +63,5 @@
     "sharedObjectID": "8A5A372B-F98B-44ED-BDFE-08A448CEAB0B",
     "startDecorationType": 0
   },
-  "hasClickThrough": false,
-  "layers": [
-    {
-      "id": "1E20EABA-D5C5-49FE-AB58-530BD42C140E",
-      "class": "rectangle"
-    }
-  ],
-  "clippingMaskMode": 0,
-  "hasClippingMask": false,
   "windingRule": 1
 }
