@@ -12,7 +12,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 129,
-    "width": 453,
+    "width": 377,
     "x": 0,
     "y": -1
   },
@@ -20,7 +20,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "name": "top",
   "nameIsFixed": true,
   "resizingType": 0,
@@ -35,7 +35,7 @@
   "hasClickThrough": false,
   "layers": [
     {
-      "id": "3CB28337-CA6A-48C3-BCEA-D09C9B9FD3B7",
+      "id": "FA643986-5D37-49D9-B670-2560929B56CB",
       "class": "bitmap"
     },
     {

@@ -69,6 +69,8 @@
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "guides": []
+    "guides": [
+      84
+    ]
   }
 }

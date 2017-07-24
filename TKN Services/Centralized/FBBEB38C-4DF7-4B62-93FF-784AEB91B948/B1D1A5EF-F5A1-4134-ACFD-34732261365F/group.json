@@ -11,10 +11,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 540,
+    "height": 585,
     "width": 375,
     "x": 0,
-    "y": 129
+    "y": 84
   },
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -70,6 +70,10 @@
     },
     {
       "id": "EB0D3931-99DE-4A11-B5B1-747EE548D80C",
+      "class": "group"
+    },
+    {
+      "id": "3944A7FB-4AE8-4040-A7A5-8B64D543AA42",
       "class": "group"
     }
   ]

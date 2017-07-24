@@ -11,10 +11,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 130,
-    "width": 453,
-    "x": -38,
-    "y": -1
+    "height": 86,
+    "width": 377,
+    "x": 0,
+    "y": -2
   },
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -37,10 +37,6 @@
     {
       "id": "4D6AEEEC-B62D-41F4-B1F6-D9900E4F24B3",
       "class": "bitmap"
-    },
-    {
-      "id": "E46100BC-EC30-4707-89A6-651C5A98D3A2",
-      "class": "group"
     },
     {
       "id": "43675C2D-1F2D-4D07-9CD5-8F53C86D6D08",

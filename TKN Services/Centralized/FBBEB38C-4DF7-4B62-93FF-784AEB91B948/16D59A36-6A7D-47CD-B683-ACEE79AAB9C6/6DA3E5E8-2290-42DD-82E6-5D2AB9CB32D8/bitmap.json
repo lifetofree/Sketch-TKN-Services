@@ -11,8 +11,8 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
-    "height": 85,
-    "width": 453,
+    "height": 84,
+    "width": 377,
     "x": 0,
     "y": 0
   },
@@ -37,7 +37,7 @@
   "image": {
     "_class": "MSJSONFileReference",
     "_ref_class": "MSImageData",
-    "_ref": "images/b1adb4dcde8a42f5ff469cf09297044081bfd4e0"
+    "_ref": "images/e68ee45fa464f59e1ef95adb0df167cdc3719fac"
   },
   "nineSliceCenterRect": "{{0, 0}, {0, 0}}",
   "nineSliceScale": "{0, 0}"

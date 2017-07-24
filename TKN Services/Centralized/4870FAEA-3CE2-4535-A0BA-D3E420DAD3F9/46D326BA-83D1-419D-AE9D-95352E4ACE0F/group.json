@@ -11,16 +11,16 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 85,
-    "width": 453,
+    "height": 84,
+    "width": 377,
     "x": 0,
-    "y": -1
+    "y": 0
   },
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "name": "top",
   "nameIsFixed": true,
   "resizingType": 0,
@@ -35,7 +35,7 @@
   "hasClickThrough": false,
   "layers": [
     {
-      "id": "CDA8EDEE-9569-4E71-9322-8022DEAE3468",
+      "id": "CDB595CC-35E3-4311-8327-99D6D7C868DE",
       "class": "bitmap"
     },
     {
