@@ -34,12 +34,12 @@
       "openURLInNewWindow": 0,
       "reverseTransitionOnClose": 1,
       "gesture": 0,
+      "smoothScrolling": 0,
+      "redirectAfter": 0,
       "overlayPosition": 0,
       "scrollToPosition": 0,
-      "redirectAfter": 0,
-      "maintainScrollPositionAfterGesture": 0,
       "overlayTransition": 0,
-      "smoothScrolling": 0,
+      "maintainScrollPositionAfterGesture": 0,
       "componentType": "SRLink",
       "backgroundOpacity": 0,
       "linkType": 0,
@@ -59,7 +59,7 @@
   "image": {
     "_class": "MSJSONFileReference",
     "_ref_class": "MSImageData",
-    "_ref": "images/21dec03b1748c50b548e20b582eed25236859f8f"
+    "_ref": "images/dce4ad10e6e592f80893535033d898cbdc8e95b6"
   },
   "nineSliceCenterRect": "{{0, 0}, {0, 0}}",
   "nineSliceScale": "{0, 0}"
