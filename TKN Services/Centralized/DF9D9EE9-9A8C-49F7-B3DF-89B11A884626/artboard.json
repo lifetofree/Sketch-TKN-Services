@@ -39,7 +39,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "bitmap",
@@ -78,7 +78,6 @@
     "_class": "rulerData",
     "base": 0,
     "guides": [
-      84
     ]
   }
 }

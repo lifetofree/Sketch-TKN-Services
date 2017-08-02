@@ -17,12 +17,12 @@
     "constrainProportions": true,
     "height": 25,
     "width": 25,
-    "x": 28,
+    "x": 30,
     "y": 0
   },
   "image": {
     "_class": "MSJSONFileReference",
-    "_ref": "images/b7288fb29959223e02c34badcbcf08d16be8ac35",
+    "_ref": "images/c46b61509e646bc571a9051437fb5818b5967bf6",
     "_ref_class": "MSImageData"
   },
   "isFlippedHorizontal": false,
@@ -51,7 +51,7 @@
           "red": 0.3294117647058823
         },
         "fillType": 0,
-        "isEnabled": true,
+        "isEnabled": false,
         "noiseIndex": 0,
         "noiseIntensity": 0,
         "patternFillType": 1,

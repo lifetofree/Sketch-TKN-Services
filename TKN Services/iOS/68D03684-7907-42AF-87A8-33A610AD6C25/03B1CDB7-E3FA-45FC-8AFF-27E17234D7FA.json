@@ -59,62 +59,47 @@
                   "UID": 9
                 },
                 {
-                  "UID": 11
+                  "UID": 10
                 },
                 {
-                  "UID": 19
+                  "UID": 18
                 },
                 {
-                  "UID": 23
+                  "UID": 20
                 }
               ]
             },
-            "NSParagraphStyle",
-            "MSAttributedStringFontAttribute",
-            "NSColor",
             "NSKern",
-            {
-              "$class": {
-                "UID": 10
-              },
-              "NSTabStops": {
-                "UID": 0
-              }
-            },
-            {
-              "$classes": [
-                "NSMutableParagraphStyle",
-                "NSParagraphStyle",
-                "NSObject"
-              ],
-              "$classname": "NSMutableParagraphStyle"
-            },
-            {
-              "$class": {
-                "UID": 18
-              },
-              "NSFontDescriptorAttributes": {
-                "UID": 12
-              }
-            },
+            "MSAttributedStringFontAttribute",
+            "NSParagraphStyle",
+            "NSColor",
+            -0.4099999964237213,
             {
               "$class": {
                 "UID": 17
               },
+              "NSFontDescriptorAttributes": {
+                "UID": 11
+              }
+            },
+            {
+              "$class": {
+                "UID": 16
+              },
               "NS.keys": [
                 {
-                  "UID": 13
+                  "UID": 12
                 },
                 {
-                  "UID": 14
+                  "UID": 13
                 }
               ],
               "NS.objects": [
                 {
-                  "UID": 15
+                  "UID": 14
                 },
                 {
-                  "UID": 16
+                  "UID": 15
                 }
               ]
             },
@@ -139,11 +124,27 @@
             },
             {
               "$class": {
-                "UID": 22
+                "UID": 19
+              },
+              "NSTabStops": {
+                "UID": 0
+              }
+            },
+            {
+              "$classes": [
+                "NSMutableParagraphStyle",
+                "NSParagraphStyle",
+                "NSObject"
+              ],
+              "$classname": "NSMutableParagraphStyle"
+            },
+            {
+              "$class": {
+                "UID": 23
               },
               "NSColorSpace": 1,
               "NSCustomColorSpace": {
-                "UID": 20
+                "UID": 21
               },
               "NSRGB": {
                 "data": "0 0.462745098 1\u0000",
@@ -152,7 +153,7 @@
             },
             {
               "$class": {
-                "UID": 21
+                "UID": 22
               },
               "NSID": 1
             },
@@ -170,7 +171,6 @@
               ],
               "$classname": "NSColor"
             },
-            -0.4099999964237213,
             {
               "$classes": [
                 "NSDictionary",
@@ -184,30 +184,30 @@
               },
               "NS.keys": [
                 {
-                  "UID": 5
+                  "UID": 8
                 },
                 {
                   "UID": 6
                 },
                 {
-                  "UID": 8
+                  "UID": 7
                 },
                 {
-                  "UID": 7
+                  "UID": 5
                 }
               ],
               "NS.objects": [
                 {
-                  "UID": 9
+                  "UID": 20
                 },
                 {
-                  "UID": 11
+                  "UID": 10
+                },
+                {
+                  "UID": 18
                 },
                 {
                   "UID": 26
-                },
-                {
-                  "UID": 19
                 }
               ]
             },

@@ -25,7 +25,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "oval",
@@ -55,9 +55,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0,
-          "green": 0.8117647058823529,
-          "red": 0.4392156862745098
+          "blue": 0.611764705882353,
+          "green": 0.7372549019607844,
+          "red": 0.1019607843137254
         },
         "fillType": 0,
         "isEnabled": true,

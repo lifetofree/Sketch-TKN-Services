@@ -15,14 +15,14 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
-    "height": 84,
-    "width": 377,
+    "height": 84.30551181102362,
+    "width": 377.0000000000001,
     "x": 0,
     "y": 0
   },
   "image": {
     "_class": "MSJSONFileReference",
-    "_ref": "images/57bf6057b8244f465011e8c446f1fb68a94b1cf1",
+    "_ref": "images/b33c0b6997fbe27734e19f8beed393eb6e26c580",
     "_ref_class": "MSImageData"
   },
   "isFlippedHorizontal": false,

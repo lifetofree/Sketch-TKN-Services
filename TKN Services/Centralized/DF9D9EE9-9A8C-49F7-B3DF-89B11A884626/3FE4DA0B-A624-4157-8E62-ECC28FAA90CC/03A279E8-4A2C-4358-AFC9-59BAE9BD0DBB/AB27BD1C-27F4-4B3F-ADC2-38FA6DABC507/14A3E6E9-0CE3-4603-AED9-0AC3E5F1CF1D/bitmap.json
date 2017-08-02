@@ -22,7 +22,7 @@
   },
   "image": {
     "_class": "MSJSONFileReference",
-    "_ref": "images/9a6d7a6251221f8cf6660de947bdff8b59d84f16",
+    "_ref": "images/7662163e396d916813e908c2ffe743efae7a6de8",
     "_ref_class": "MSImageData"
   },
   "isFlippedHorizontal": false,
@@ -51,7 +51,7 @@
           "red": 0.4941504597663879
         },
         "fillType": 0,
-        "isEnabled": true,
+        "isEnabled": false,
         "noiseIndex": 0,
         "noiseIntensity": 0,
         "patternFillType": 1,
